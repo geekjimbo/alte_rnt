@@ -1,0 +1,95 @@
+<div class="panel panel-default">
+  <div class="panel-heading">El Asiento</div>
+    <div class="panel-body">
+     <% if clase != "homologacion"  and clase != "convenio_internacional" and clase != "reglamento_tecnico"%>
+      <div class="col-md-4">
+        <div class="form-group">
+            <%=  asiento_f.label :numero_resolucion, 'Numero de Resolución' if clase != "concesion_direct" and clase!= "consecion_publica" and clase !="consecion_anterior" and clase!="permiso" and clase != "contrato_adhesion"%>
+            <%=  asiento_f.label :numero_resolucion, "Numero de Acuerdo Ejecutivo" if clase == "concesion_direct" or clase == "consecion_publica" or clase == "consecion_anterior" or clase == "permiso" and clase != "contrato_adhesion"%>
+            <%=  asiento_f.label :numero_resolucion, "Numero de Acuerdo" if  clase == "contrato_adhesion"%>
+            <%=  asiento_f.text_field :numero_resolucion, class: 'form-control'%>
+          </div>
+          <div class="form-group">
+            <%=  asiento_f.label :titulo_resolucion, "Titulo de Resolución" if clase == "norma" or clase == "orden_acceso_interconexion" or clase == "resolucion_ubicacion_equipo" %>
+            <%=  asiento_f.label  :titulo_resolucion,"Titulo de Acuerdo Ejecutivo" if clase == "concesion_direct" or clase == "consecion_publica" or clase == "consecion_anterior" or clase == "permiso" and clase != "contrato_adhesion"%>
+            <%=  asiento_f.text_field :titulo_resolucion, class: 'form-control' if clase == "norma" or clase == "orden_acceso_interconexion" or clase == "resolucion_ubicacion_equipo" or clase == "concesion_direct" or clase == "consecion_publica" or clase == "consecion_anterior" or clase == "permiso" and clase != "contrato_adhesion"%>
+          </div>
+          <div class="form-group">
+            <%=  asiento_f.label :fecha_resolucion, "Fecha de Resolución" if clase != "concesion_direct" and clase!= "consecion_publica" and clase !="consecion_anterior" and clase!="permiso" and clase != "contrato_adhesion"%>
+            <%=  asiento_f.label :fecha_resolucion, "Fecha de Acuerdo Ejecutivo" if clase == "concesion_direct" or clase == "consecion_publica" or clase == "consecion_anterior" or clase == "permiso" and clase != "contrato_adhesion"%>
+            <%=  asiento_f.label :fecha_resolucion, "Fecha de Acuerdo" if clase == "contrato_adhesion" %>
+            <%=  asiento_f.date_field :fecha_resolucion, class: 'form-control'%>
+        </div>
+      </div>
+     <% end %>
+      <div class="col-md-4">
+        <% if clase!= "lab"  and clase != "homologacion" %>
+          <div class="form-group">
+            <%=  asiento_f.label :vigencia %>
+            <%=  asiento_f.number_field :vigencia2, class: 'form-control', placeholder: 'en años y solo si aplica...'%>
+          </div>
+         <% end %>
+        <div class="form-group">
+          <%=  asiento_f.label :numero_de_gestion_sutel, "Num. de Gestión SUTEL" %>
+          <%=  asiento_f.text_field :num_expediente_sutel, class: 'form-control', placeholder: '# de gestión SUTEL (ej. # expediente físico o el Laserfishe'%>
+        </div>
+        <div class="form-group">
+          <%=  asiento_f.label :enlace_documento, "Enlace Documento" %>
+          <%=  asiento_f.text_field :enlace_documento, class: 'form-control', placeholder: 'Ej: Ubicación del PDF en Google Drive'%>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  asiento_f.label :tipo_inscripcion, "Tipo Inscripción" %>
+          <% if !Asiento.find_by(:num_asiento_original => asiento_f.object.num_asiento) %>
+            <%=  asiento_f.collection_select :tipo_asiento, Asiento::TIPO_ASIENTO, :value, :label, class: 'form-control'%>
+          <% end %>
+          <%=  asiento_f.text_field :tipo_inscripcion, class: 'form-control', disabled: true%>
+        </div>
+        <div class="control-group">
+          <%=  asiento_f.label :num_asiento, "Num. Asiento", class: 'control-label' %>
+          <%=  asiento_f.text_field :num_asiento, class: 'form-control', disabled: true, placeholder: 'asignado automáticamente'%>
+        </div>
+        <div class="form-group">
+          <%=  asiento_f.label :num_asiento_original, "Num. Asiento Original" %>
+          <%=  asiento_f.text_field :num_asiento_original, class: 'form-control', disabled: true, placeholder: 'asignado automáticamente'%>
+        </div>
+      </div>
+     </div>
+   </div>
+
+<% if clase != "reglamento_tecnico" and clase != "lab" and clase != "arbitro" and clase != "homologacion" and clase != "convenio_ubicacion_equipo" and clase != "fonatel" and clase != "resolucion_ubicacion_equipo" and clase != "orden_acceso_interconexion" and clase != "acuerdo_acceso_interconexion" and clase != "norma" and clase != "precios_tarifa" and clase != "convenio_internacional"%>
+  <div class="panel panel-default">
+    <div class="panel-heading">El Operador</div>
+      <div class="panel-body">
+          <div class="col-xs-6 col-md-4">
+            <div class="form-group">
+              <%=  asiento_f.label :seleccionar_operador %>
+              <%=  asiento_f.collection_select(:operadorregulado_id, @operadores, :id, :nombre, {:prompt => "Seleccionar Operador"}, {:onchange => "get_operador(\""+clase+"\",this.value);"}) unless @operadores.nil?%>
+            </div>
+          </div>
+          <div id="operador">
+            <div class="col-xs-6 col-md-4">
+              <div class="form-group">
+                <%=  asiento_f.label :nombre_operador, "Nombre Operador" %>
+                <%=  asiento_f.text_field :nombre_operador, class: 'form-control'%>
+              </div>
+              <div class="form-group">
+                <%=  asiento_f.label :identificacion_operador, "Identificación Operador" %>
+                <%=  asiento_f.text_field :identificacion_operador, class: 'form-control'%>
+              </div>
+            </div>
+            <div class="col-xs-6 col-md-4">
+              <div class="form-group">
+                <%=  asiento_f.label :nombre_representante_legal, "Nombre Representante Legal" %>
+                <%=  asiento_f.text_field :nombre_representante_legal, class: 'form-control'%>
+              </div>
+              <div class="form-group">
+                <%=  asiento_f.label :cedula_representante_legal, "Cédula Representante Legal" %>
+                <%=  asiento_f.text_field :cedula_representante_legal, class: 'form-control'%>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    <% end %>

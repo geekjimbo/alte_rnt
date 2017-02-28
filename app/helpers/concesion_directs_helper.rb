@@ -1,0 +1,2 @@
+module ConcesionDirectsHelper
+end

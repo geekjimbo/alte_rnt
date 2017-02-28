@@ -1,0 +1,25 @@
+{
+   "utf8": "✓",
+   "authenticity_token": "c/9pjwRilmHBGWa+7ZMjBkAtUwZJtkdUYVqgKcUpo8HO0KLU+5WA5iQFOvujbOWVnnPb2bKoIyqxecrGQ5805w==",
+   "convenio_privado": {
+      "asiento_attributes": {
+         "vigencia": "3",
+         "num_expediente_sutel": "asdf",
+         "enlace_documento": "asdf",
+         "numero_resolucion": "af",
+         "nombre_resolucion": "asf",
+         "titulo_resolucion": "asdf",
+         "fecha_resolucion": "2015-09-14",
+         "fecha_solicitud": "2015-09-14",
+         "operadorregulado_id": "21",
+         "nombre_operador": "",
+         "identificacion_operador": "",
+         "nombre_representante_legal": "",
+         "cedula_representante_legal": ""
+      },
+      "titulo_convenio": "asdf",
+      "fecha_suscripcion": "2015-09-14",
+      "num_anexos": "1"
+   },
+   "commit": "Guardar cambios"
+}

@@ -1,0 +1,22 @@
+<div class="panel panel-default">
+  <div class="panel-heading">Zona</div>
+    <div class="panel-body">
+      <div class="col-md-4">
+        <div class="form-group">
+          <%= f.collection_select :tipo_zona, Zona::TIPOS_ZONAS, :value, :label,  class: 'form-control'%>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="form-group">
+          <%=  f.label "Descripcion zona" %>
+          <%=  f.text_field :descripcion_zona, class: 'form-control' %>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  f.label "Nota" %>
+          <textarea class: 'form-control' rows=3> <% f.text_field :nota%> </textarea>
+        </div>
+      </div>
+   </div>
+  </div>

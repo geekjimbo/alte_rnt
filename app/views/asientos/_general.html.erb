@@ -1,0 +1,18 @@
+
+  <% @asientos.each do |asiento| %>
+     <tr>
+      <td><%= asiento.acto_inscribible%></td> 
+      <td><%= asiento.nombre_operador%></td>
+      <td><%= asiento.fecha_resolucion%></td>
+      <td align="center"><%= asiento.tipo_asiento%></td>
+      <td align="center"><%= asiento.num_asiento%></td>
+      <td align="center"><%= asiento.num_asiento_original%></td>
+      <td align="center"><%= asiento.numero_resolucion%></td>
+      <td><%= asiento.titulo_resolucion%></td>
+      <td align="center"><%= asiento.vigencia2%> </td>
+      <td align="left">
+        <span class="white label"><%= link_to "", historico_path(:id =>asiento.id), :method => :get  ,class:"glyphicon glyphicon-link" %> </span> 
+         <span class="white label"><%= link_to "", resolve_poly_path(asiento), :method => :get  ,class:"glyphicon glyphicon-pencil" %> </span> 
+      </td>
+     </tr>
+  <% end %>

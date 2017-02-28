@@ -1,0 +1,29 @@
+
+<div class="panel panel-default">
+  <div class="panel-heading">Frecuencias</div>
+    <div class="panel-body">
+      <div class="col-md-4">
+        <div class="form-group">
+          <%= f.collection_select :tipo_frecuencia, FrecuenciaEspectro::TIPOS_FRECUENCIAS, :value, :label,  class: 'form-control'%>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="form-group">
+          <%=  f.label "Unidad" %>
+          <%= f.collection_select :unidad_desde, FrecuenciaEspectro::UNIDADES_FRECUENCIAS, :value, :label,  class: 'form-control'%>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="form-group">
+          <%=  f.label "Ancho Banda" %>
+          <%=  f.text_field :ancho_banda_desde, class: 'form-control' %>
+        </div>
+      </div>
+          <div class="col-md-2">
+            <div class="form-group">
+              <%=  f.label "Hasta" %>
+              <%=  f.text_field :ancho_banda_hasta, class: 'form-control' %>
+            </div>
+          </div>
+   </div>
+  </div>

@@ -1,0 +1,7 @@
+      <div class="col-md-4">
+        <div class="form-group">
+            <%= f.hidden_field :id %>
+            <%=  f.label :seleccionar_servicio %>
+            <%=  f.collection_select(:sciservicio_id, @servicios, :id, :descripcion) unless @servicios.nil?%>
+        </div>
+      </div>

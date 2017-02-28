@@ -1,0 +1,31 @@
+<div class="col-xs-6 col-md-4">
+  <div class="form-group">
+    <%=  f.label :seleccionar_operador %>
+    <%=  f.collection_select(:operador_regulados_id, @operadores, :id, :nombre, {:prompt => "Seleccionar Operador (si aplica)"}, {:onchange => "get_operadores(\""+clase+"\",this);"}) unless @operadores.nil?%>
+  </div>
+</div>
+
+<div id="operador">
+  <div class="col-xs-6 col-md-4">
+    <div class="form-group">
+      <%=  f.label "Nombre Operador" %>
+      <%=  f.text_field :nombre_operador, class: 'form-control'%>
+    </div>
+    <div class="form-group">
+      <%=  f.label "Identificación Operador" %>
+      <%=  f.text_field :identificacion_operador, class: 'form-control'%>
+    </div>
+  </div>
+  <div class="col-xs-6 col-md-4">
+    <div class="form-group">
+      <%=  f.label :nombre_representante_legal %>
+      <%=  f.text_field :nombre_representante_legal, class: 'form-control'%>
+    </div>
+    <div class="form-group">
+      <%=  f.label :cedula_representante_legal %>
+      <%=  f.text_field :cedula_representante_legal, class: 'form-control'%>
+    </div>
+  </div>
+
+</div>
+

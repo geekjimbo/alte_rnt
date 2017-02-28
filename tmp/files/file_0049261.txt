@@ -1,0 +1,148 @@
+﻿________________
+
+6344-SUTEL-SCS-2015
+El suscrito, Secretario del Consejo de la Superintendencia de Telecomunicaciones, en ejercicio de las competencias que le atribuye el inciso b) del artículo 50 de la Ley General de la Administración Pública, ley 6227, y el artículo 35 del Reglamento interno de organización y funciones de la Autoridad Reguladora de los Servicios Públicos y su órgano desconcentrado, me permito comunicarle(s) que en sesión ordinaria 049-2015, celebrada el 8 de setiembre del 2015, mediante acuerdo 007-049-2015, de las 11:45 horas, el Consejo de la Superintendencia de Telecomunicaciones aprobó por unanimidad, la siguiente resolución:
+RCS-168-2015
+“ASIGNACION DE RECURSOS DE NUMERACION ESPECIAL, SERVICIO DE MENSAJERÍA DE TEXTO SMS A FAVOR DE LA EMPRESA CLARO CR TELECOMUNICACIONES, S. A.”
+EXPEDIENTE C0262-STT-NUM-OT-00137-2011
+RESULTANDO
+1. Que mediante el oficio RI-146-2015 (NI-08246-2015) recibido el 25 de agosto de 2015, la empresa Claro presentó solicitud de asignación de cuatro (4) números cortos para servicios de mensajería de texto SMS, a saber:
+• 8610 y 8611 para uso de People Connection
+• 411 para uso de Voice Web Americas, S. A.
+• 3399 para uso de Estrategias Móviles, S.A.
+2. Que mediante oficio 6170-SUTEL-DGM-2015 del 3 de setiembre de 2015, la Dirección General de Mercados rindió informe mediante el cual acredita que en estos trámites la empresa Claro ha cumplido con los requisitos exigidos, tanto en el Plan Nacional de Numeración como en el procedimiento de asignación de recurso numérico regulado por la Sutel en las resoluciones RCS- 590-2009, RCS-131-2010, RCS-412-2010 y RCS-239-2013; y emite su recomendación acerca de la solicitud presentada por la empresa Claro.
+3. Que se han realizado las diligencias útiles y necesarias para el dictado de la presente resolución.
+CONSIDERANDO:
+I. Que conforme al artículo 60 inciso g) de la Ley de la Autoridad Reguladora de los Servicios Públicos, Ley 7593, le corresponde a la Sutel controlar y comprobar el uso eficiente de los recursos de numeración.
+II. Que el artículo 73 inciso j) de la Ley 7593 establece que el Consejo de la Superintendencia de Telecomunicaciones debe de velar porque los recursos escasos se administren de manera eficiente, oportuna, transparente y no discriminatoria, de manera tal que tengan acceso a estos recursos todos los operadores y proveedores de redes y servicios de telecomunicaciones.
+III. Que de conformidad con los artículos 3 y 22 del Plan Nacional de Numeración (Decreto Ejecutivo 35187-MINAET) corresponde a la Sutel la administración del Plan Nacional de Numeración y su cumplimiento, así como mantener un registro actualizado referente a la asignación del recurso numérico.
+IV. Que mediante resolución número RCS-590-2009 de las 15:00 horas del 30 de noviembre del 2009, publicada en el Diario Oficial La Gaceta número 9 el día 14 de enero del 2010, modificada y complementada mediante las resoluciones RCS-131-2010, RCS-412-2010 y RCS-239-2013, el Consejo de la Superintendencia de Telecomunicaciones (Sutel) dictó el procedimiento de solicitud
+LUIS ALBERTO CASCANTE ALVARADO (FIRMA)
+T +506 4000-0000 F +506 2215-6821
+800-88-SUTEL 800-88-78835
+Apartado 151-1200 Digitally signed by LUIS ALBERTO CASCANTE
+San José – Costa Rica ALVARADO Date: 2015.09.10 (FIRMA)
+09:17:47 -06:00 Reason: Location: Secretario Costa Rica
+del Consejo, Publicación en La Gaceta
+gestiondocumental@sutel.go.cr
+RCS-168-2015
+Página 1 de 5
+________________
+  
+________________
+
+de numeración, establecimiento de números especiales, códigos de preselección y el registro de numeración vigente.
+V. Que para efectos de resolver el presente asunto, se tiene que el informe rendido por la Dirección General de Mercados mediante oficio 06170-SUTEL-DGM-2015, indica que en este asunto la empresa Claro ha cumplido con los requisitos exigidos tanto en el Plan Nacional de Numeración, como también en el procedimiento de asignación de recurso número regulado por la Sutel en las resoluciones RCS- 590-2009, RCS-131-2010, RCS-412-2010 y RCS-239-2013. El citado informe, que es acogido en su totalidad por este Consejo como parte de la motivación del presente acto administrativo, indica en lo que interesa, lo siguiente:
+“(...)
+2) Sobre la solicitud de los números especiales para el servicio de mensajería de texto SMS 8610,
+8611, 411 y 3399:
+En el caso particular, el operador cuenta ya con la asignación numeración para el servicio de mensajería de texto SMS.
+• Por la naturaleza de la solicitud y del recurso de numeración objeto de ésta, en este caso no se considera necesario acreditar que el operador ha llegado al 60% del uso de la numeración previamente asignada. Esto en vista de que este tipo de numeración se solicita un número o algunos números a la vez, pero no bloques.
+• Se tiene que la citada solicitud se relaciona con la petición de los clientes comerciales que pretenden obtener el servicio de telecomunicaciones correspondiente, por parte de la empresa Claro, según lo que consta en el siguiente cuadro:
+Servicio especial
+Número corto para mensajería de texto (SMS)
+Nombre cliente solicitante
+Descripción del servicio
+SMS 8610 People Connection Club de premios al instante SMS 8611 People Connection Club de concurso y promociones SMS 411 Voice Web Americas, S.A. Servicio de Suscripción Guía Salud SMS 3399 Estrategias Móviles, S.A. Servicio de Suscripción Qclub
+• Al tener ya recurso numérico para el servicio de mensajería de texto SMS asignado y habiéndose comprobado la interoperabilidad para dicho servicio, resulta solo necesario verificar la disponibilidad de los números 8610, 8611, 411 y 3399, solicitados en el registro de numeración cuyo control está a cargo de la Dirección General de Mercados.
+• Efectuada dicha verificación, se tiene que los números 8610, 8611, 411 y 3399, se encuentran disponibles, por lo que habiéndose acreditado el cumplimiento de los requisitos que el procedimiento de asignación exige, según lo que consta en el primer apartado de este informe, se recomienda efectuar la asignación del número anteriormente indicado.
+IV. Conclusiones y Recomendaciones:
+• De acuerdo con lo expuesto en los apartados anteriores, se recomienda asignar a favor de la empresa CLARO CR TELECOMUNICACIONES, S.A. la siguiente numeración, conforme a la solicitud en el oficio número RI-146-2015 (NI-08246-2015).
+Servicio Especial
+Número Comercial Empresa asociada
+Descripción del servicio Operador
+SMS 8610 People Connection Club de premios al instante CLARO SMS 8611 People Connection Club de concurso y promociones CLARO SMS 411 Voice Web Americas, S.A. Servicio de Suscripción Guía Salud CLARO SMS 3399 Estrategias Móviles, S.A. Servicio de Suscripción Qclub CLARO
+T +506 4000-0000 F +506 2215-6821
+800-88-SUTEL 800-88-78835
+Apartado 151-1200 San José – Costa Rica
+gestiondocumental@sutel.go.cr
+RCS-168-2015
+Página 2 de 5
+________________
+  
+________________
+
+Otorgar la numeración por un periodo de seis meses a partir de la notificación del acuerdo del Consejo de la Sutel donde se le permite el uso del recurso de numeración para números cortos de mensajería de texto SMS. Dicha asignación podría ser renovada únicamente a petición fundamentada del operador.
+(...)”
+VI. Que la Sutel debe satisfacer las necesidades actuales y potenciales de nuevos operadores de servicios de telecomunicaciones, asegurando la máxima disponibilidad del recurso numérico, para lo cual debe de garantizar la equidad y la transparencia de los procedimientos de asignación de numeración y ampliación de la numeración asignada previamente, tanto para redes de telefonía básica tradicional, telefonía móvil y telefonía por voz IP.
+VII. Que de conformidad con los resultandos y considerandos que preceden, de acuerdo al mérito de los autos, lo procedente es asignar el recurso de numeración a la empresa Claro, acogiendo al efecto la recomendación efectuada por la Dirección General de Mercados de esta Sutel.
+POR TANTO
+Con fundamento en las competencias otorgadas por la Ley General de Telecomunicaciones, Ley 8642, la Ley de la Autoridad Reguladora de los Servicios Públicos, Ley 7593, la Ley General de Administración Pública, Ley 6227, y el Plan Nacional de Numeración (Decreto Ejecutivo 35187-MINAET).
+EL CONSEJO DE LA SUPERINTENDENCIA DE TELECOMUNICACIONES RESUELVE:
+1. Asignar a la empresa Claro CR Telecomunicaciones, S.A., cédula de persona jurídica 3-101-460479,
+la siguiente numeración por un periodo de 6 meses renovables:
+Servicio Especial
+Número Comercial Empresa asociada
+Descripción del servicio Operador
+SMS 8610 People Connection Club de premios al instante CLARO SMS 8611 People Connection Club de concurso y promociones CLARO SMS 411 Voice Web Americas, S.A. Servicio de Suscripción Guía Salud CLARO SMS 3399 Estrategias Móviles, S.A. Servicio de Suscripción Qclub CLARO
+2. Apercibir a la empresa Claro CR Telecomunicaciones, S.A., que debe asegurar y garantizar la interoperabilidad de los servicios y toda la numeración asignada por la Sutel, en cumplimiento de lo establecido por el Reglamento de Acceso e Interconexión de Redes de Telecomunicaciones, el Plan Nacional de Numeración y el Procedimiento de Asignación de Numeración establecido por la Sutel.
+3. Notificar esta resolución a todos los operadores con numeración asignada, con el propósito de que se configuren las rutas necesarias que aseguren la interoperabilidad de la numeración asignada en esta resolución en un plazo máximo de cinco días hábiles.
+4. Apercibir a la empresa Claro CR Telecomunicaciones, S.A. que debe asegurar y garantizar que dicha numeración no será otorgada a terceros operadores o proveedores para la explotación de servicios de telecomunicaciones disponibles al público.
+5. Apercibir a la empresa Claro CR Telecomunicaciones, S.A., que de acuerdo a lo establecido en el artículo 23 del Plan Nacional de Numeración, respecto al monitoreo y auditoría de la numeración, deberá entregar un reporte semestral utilizando el formato y cumpliendo con los plazos establecidos por la Sutel en la resolución RCS-016-2015 de la utilización de todos los códigos numéricos asignados.
+6. Apercibir a la empresa Claro CR Telecomunicaciones, S.A., que de conformidad con el artículo 74
+T +506 4000-0000 F +506 2215-6821
+800-88-SUTEL 800-88-78835
+Apartado 151-1200 San José – Costa Rica
+gestiondocumental@sutel.go.cr
+RCS-168-2015
+Página 3 de 5
+________________
+  
+________________
+
+de la Ley General de Telecomunicaciones, ley 8642, y las condiciones y términos de su título habilitante, es obligación de los operadores y proveedores de servicios permitir a sus clientes el acceso al sistema de emergencias.
+7. Advertir que de conformidad con el artículo 23 del Plan Nacional de Numeración, la Sutel podrá llevar a cabo actividades de supervisión sobre la utilización de los recursos numéricos asignados a la empresa Claro CR Telecomunicaciones, S.A., con el objetivo de verificar la interoperabilidad de toda la numeración asignada por la Sutel y así evitar y verificar la retención de códigos numéricos sin uso realmente planificado o requerido. Para estos efectos, la empresa Claro deberá poner a disposición de la Sutel la información y los registros detallados de llamadas (CDRs) requeridos para verificar esta interoperabilidad, con la frecuencia y plazo solicitado por la Sutel.
+8. Apercibir a la empresa Claro CR Telecomunicaciones, S.A., que el recurso numérico asignado está sujeto al cumplimiento de las condiciones dispuestas en el artículo 16 del Reglamento sobre el Régimen de Protección al Usuario Final de las Telecomunicaciones que indica que los cliente y usuarios tendrán derecho a acceder en iguales condiciones a cualquiera de las redes o plataformas de los operadores o proveedores interconectados; y lo dispuesto en el artículo 8 del mismo reglamento que indica que todo servicio será brindado a los clientes o usuarios por parte del operador o proveedor sin restricción alguna para el acceso a las distintas redes de telecomunicaciones. Por ello, los operadores y proveedores deben asegurar la naturaleza demanial y universal de los recursos numéricos asignados y en razón de ello deberán permitir irrestrictamente la accesibilidad e interoperabilidad total a los demás operadores y proveedores que cuenten con recursos de numeración asignados por la Sutel.
+9. En razón de lo anterior y de conformidad con el acuerdo 010-035-2012, de la sesión 035-2012 del 6 de junio del 2012, de comprobarse el incumplimiento de las disposiciones adoptadas por el Consejo de la Sutel, se procederá recuperar del recurso numérico y/o la aplicación de la sanción correspondiente de conformidad con el artículo 67 de la Ley General de Telecomunicaciones, Ley 8642.
+10. Inscribir la presente asignación de recurso numérico a favor de la empresa Claro CR Telecomunicaciones, S.A. en el Registro Nacional de Telecomunicaciones, el cual debe estar disponible en la página electrónica de la Sutel, según artículo 80 de la Ley General de Telecomunicaciones y punto XVI de la resolución No RCS-590-2010.
+En cumplimiento de lo que ordenan los artículos 345 y 346 de la Ley General de la Administración Pública, se indica que contra esta resolución cabe el recurso ordinario de revocatoria o reposición ante el Consejo de la Superintendencia de Telecomunicaciones, a quien corresponde resolverlo, y deberá interponerse en el plazo de 3 días hábiles, contadas a partir del día siguiente a la notificación de la presente resolución.
+ACUERDO FIRME NOTIFIQUESE E INSCRIBASE EN EL REGISTRO NACIONAL DE TELECOMUNICACIONES.
+La anterior transcripción se realiza a efectos de comunicar el acuerdo citado adoptado por el Consejo de la Superintendencia de Telecomunicaciones
+NOTIFÍQUESE.
+Atentamente, CONSEJO DE LA SUPERINTENDENCIA DE TELECOMUNICACIONES
+Luis Alberto Cascante Alvarado Secretario del Consejo
+T +506 4000-0000 F +506 2215-6821
+800-88-SUTEL 800-88-78835
+Apartado 151-1200 San José – Costa Rica
+gestiondocumental@sutel.go.cr
+RCS-168-2015
+Página 4 de 5
+________________
+  
+________________
+
+CONSTANCIA DE NOTIFICACIÓN
+RCS-168-2015
+“ASIGNACION DE RECURSOS DE NUMERACION ESPECIAL, SERVICIO DE MENSAJERÍA DE TEXTO SMS A FAVOR DE LA EMPRESA CLARO CR TELECOMUNICACIONES, S. A.”
+EXPEDIENTE C0262-STT-NUM-OT-00137-2011
+Se notifica la presente resolución a:
+CLARO CR TELECOMUNICACIONES, S. A., a través del correo electrónico notificaciones.sutel@claro.cr
+REGISTRO NACIONAL DE TELECOMUNICACIONES a través del correo electrónico inscripcionesdelconcejosutel@sutel.go.cr
+Se notifica el POR TANTO de la presente resolución a los siguientes operadores con numeración asignada:
+OPERADOR/PROVEEDOR
+E-MAIL
+MEDIO
+FAX
+CALL MY WAY info@callmyway.com 4000-4001
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD Notificaciones_drr@ice.go.cr 2291-5444
+R&H INTERNATIONAL TELECOM SERVICES, S.A. notificacion@rhitcr.com 4010-0010
+TELEVISORA DE C. R., S.A. (CABLE MÓVIL) notificacionessutel@teletica.com 2231-6258 MULTICOM, S.A. jmagnin@multicom.cr 2520-1223 E-DIAY S.A. servicioalcliente@ediay.cr 4040-0404
+AMERICAN DATA NETWORKS, S.A. sutel@data.cr 4050-5099
+RACSA
+racsa.notificaciones@racsa.co.cr racsafullmovil@racsa.co.cr
+/
+22870360
+AMNET notificaciones@tigo.co.cr 2203-1337
+TELEFÓNICA DE COSTA RICA TC, S. A notificacioneslegal.cr@telefonica.com 4100-9977
+CLARO CR TELECOMUNIC. S. A notificaciones.sutel@claro.cr 25827575
+INTERPHONE, S.A. administracion@interphoneline.com 22887670
+TELECABLE notificaciones@telecablecr.com 2219-0607
+PRD INTERNACIONAL S.A. servicioalcliente@telecom506.com
+OTHOS TELECOMUNICACIONES, S.A. info@othos.cr 2248-1323
+NOTIFICA: _________________________________ FIRMA: ________________________
+T +506 4000-0000 F +506 2215-6821
+800-88-SUTEL 800-88-78835
+Apartado 151-1200 San José – Costa Rica
+gestiondocumental@sutel.go.cr
+RCS-168-2015
+Página 5 de 5

@@ -1,0 +1,61 @@
+<%= form_for @asiento, :html => {:multipart => true} do |f| %>
+  <% if @asiento.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@asiento.errors.count, "error") %> prohibited this asiento from being saved:</h2>
+
+      <ul>
+      <% @asiento.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">Cargar Fichero desde tu disco</div>
+      <div class="panel-body">
+          <div class="col-md-4">
+            <span class="btn btn-file">
+              <%= f.label "Elegí un archivo" %>
+            </span>
+          </div>
+          <div class="col-md-6">
+            <span class="btn btn-file">
+              <%= f.file_field :fichero%>
+            </span>
+          </div>
+      </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">Cargar Fichero desde Google Drive</div>
+      <div class="panel-body">
+          <div class="col-md-4">
+            <span class="btn btn-file">
+              <%= f.label "Elegí un archivo" %>
+            </span>
+          </div>
+          <div class="col-md-6">
+            <span class="btn btn-file">
+              <%= f.select :fichero_gdrive, @google_drive_pdfs_hash.map{|v| [v[1], v[1]]}%>
+            </span>
+          </div>
+      </div>
+  </div>
+    
+  <div class="col-md-1 col-md-offset-7">
+    <div class="form-group">
+      <%= link_to 'Regresar', asientos_path %>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="form-group">
+      <button id = "anatext_submit_button", onclick="toggle_spinner(this);void(0)", class="btn btn-lg">
+        <span class="glyphicon"></span> Generar AnaText ...</button>
+      </button>
+      <button id = "spinner", style="display:none", class="btn btn-lg btn-warning">
+        <span class="glyphicon glyphicon-refresh glyphicon-refresh-animate"></span> Generando AnaText ...</button>
+      </button>
+    </div>
+  </div>
+<% end %>

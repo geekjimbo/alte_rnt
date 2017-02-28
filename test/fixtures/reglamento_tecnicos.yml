@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  titulo_reglamento: MyString
+  numero_aprobacion_aresep: MyString
+  fecha_aprobacion: 2015-09-16
+  nota: MyText
+
+two:
+  titulo_reglamento: MyString
+  numero_aprobacion_aresep: MyString
+  fecha_aprobacion: 2015-09-16
+  nota: MyText

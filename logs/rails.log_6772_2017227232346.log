@@ -1,0 +1,80 @@
+*** SIGUSR2 not implemented, signal based restart unavailable!
+*** SIGUSR1 not implemented, signal based restart unavailable!
+*** SIGHUP not implemented, signal based logs reopening unavailable!
+Puma starting in single mode...
+* Version 3.7.0 (ruby 2.1.7-p400), codename: Snowy Sagebrush
+* Min threads: 0, max threads: 16
+* Environment: production
+* Listening on tcp://0.0.0.0:6437
+Use Ctrl-C to stop
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 17:24:14 -0600
+  [1m[36mSQL (0.0ms)[0m  [1mUSE [RNTWeb][0m
+  [1m[35mActiveRecord::SchemaMigration Load (3.0ms)[0m  EXEC sp_executesql N'SELECT [schema_migrations].* FROM [schema_migrations]'
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.0ms)
+  Rendered layouts/_header.html.erb (7.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 1990ms (Views: 1969.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/login" for 127.0.0.1 at 2017-02-27 17:24:44 -0600
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (937.5ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 2055ms (Views: 2055.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/login" for 127.0.0.1 at 2017-02-27 17:25:00 -0600
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"n0sdwk1RWIr2SHB31HeE5bDaAaz4x1qbBkKOdmun4F/Y+cnIVJnxPTf7UstTiVnCslrsEiXZm1EB/TE5veKVRQ==", "session"=>{"email"=>"test@me.com", "password"=>"[FILTERED]"}, "commit"=>"Entrar"}
+  [1m[36mUser Load (11.0ms)[0m  [1mEXEC sp_executesql N'SELECT  [users].* FROM [users] WHERE [users].[email] = @0  ORDER BY [users].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 nvarchar(4000)', @0 = N'test@me.com'[0m  [["email", "test@me.com"]]
+  [1m[35mSQL (1.0ms)[0m  BEGIN TRANSACTION
+  [1m[36mSQL (1.0ms)[0m  [1mCOMMIT TRANSACTION[0m
+Redirected to http://rnt.sutel.go.cr/asientos
+Completed 302 Found in 172ms (ActiveRecord: 27.0ms)
+
+
+Started GET "/asientos" for 127.0.0.1 at 2017-02-27 17:25:00 -0600
+Processing by AsientosController#index as HTML
+  Rendered shared/_search_form.html.erb (8.9ms)
+  [1m[35mAsiento Load (3.8ms)[0m  EXEC sp_executesql N'SELECT  [asientos].* FROM [asientos]  ORDER BY id OFFSET 0 ROWS FETCH NEXT 6 ROWS ONLY'
+  [1m[36m (3.0ms)[0m  [1mEXEC sp_executesql N'SELECT COUNT(*) FROM [asientos]'[0m
+  [1m[35mTituloHabilitante Load (3.0ms)[0m  EXEC sp_executesql N'SELECT  [titulo_habilitantes].* FROM [titulo_habilitantes] WHERE [titulo_habilitantes].[id] = @0  ORDER BY [titulo_habilitantes].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 186  [["id", 186]]
+  [1m[36mAutorizacion Load (1.2ms)[0m  [1mEXEC sp_executesql N'SELECT  [autorizacions].* FROM [autorizacions] WHERE [autorizacions].[id] = @0  ORDER BY [autorizacions].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 125[0m  [["id", 125]]
+  [1m[35mTituloHabilitante Load (1.0ms)[0m  EXEC sp_executesql N'SELECT  [titulo_habilitantes].* FROM [titulo_habilitantes] WHERE [titulo_habilitantes].[id] = @0  ORDER BY [titulo_habilitantes].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 217  [["id", 217]]
+  [1m[36mAutorizacion Load (1.0ms)[0m  [1mEXEC sp_executesql N'SELECT  [autorizacions].* FROM [autorizacions] WHERE [autorizacions].[id] = @0  ORDER BY [autorizacions].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 156[0m  [["id", 156]]
+  [1m[35mTituloHabilitante Load (1.0ms)[0m  EXEC sp_executesql N'SELECT  [titulo_habilitantes].* FROM [titulo_habilitantes] WHERE [titulo_habilitantes].[id] = @0  ORDER BY [titulo_habilitantes].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 224  [["id", 224]]
+  [1m[36mAutorizacion Load (0.0ms)[0m  [1mEXEC sp_executesql N'SELECT  [autorizacions].* FROM [autorizacions] WHERE [autorizacions].[id] = @0  ORDER BY [autorizacions].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 163[0m  [["id", 163]]
+  [1m[35mTituloHabilitante Load (0.0ms)[0m  EXEC sp_executesql N'SELECT  [titulo_habilitantes].* FROM [titulo_habilitantes] WHERE [titulo_habilitantes].[id] = @0  ORDER BY [titulo_habilitantes].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 238  [["id", 238]]
+  [1m[36mAutorizacion Load (1.0ms)[0m  [1mEXEC sp_executesql N'SELECT  [autorizacions].* FROM [autorizacions] WHERE [autorizacions].[id] = @0  ORDER BY [autorizacions].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 177[0m  [["id", 177]]
+  [1m[35mTituloHabilitante Load (1.0ms)[0m  EXEC sp_executesql N'SELECT  [titulo_habilitantes].* FROM [titulo_habilitantes] WHERE [titulo_habilitantes].[id] = @0  ORDER BY [titulo_habilitantes].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 245  [["id", 245]]
+  [1m[36mAutorizacion Load (0.0ms)[0m  [1mEXEC sp_executesql N'SELECT  [autorizacions].* FROM [autorizacions] WHERE [autorizacions].[id] = @0  ORDER BY [autorizacions].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 184[0m  [["id", 184]]
+  [1m[35mTituloHabilitante Load (1.2ms)[0m  EXEC sp_executesql N'SELECT  [titulo_habilitantes].* FROM [titulo_habilitantes] WHERE [titulo_habilitantes].[id] = @0  ORDER BY [titulo_habilitantes].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 251  [["id", 251]]
+  [1m[36mAutorizacion Load (0.0ms)[0m  [1mEXEC sp_executesql N'SELECT  [autorizacions].* FROM [autorizacions] WHERE [autorizacions].[id] = @0  ORDER BY [autorizacions].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 190[0m  [["id", 190]]
+  Rendered asientos/_general.html.erb (369.0ms)
+  Rendered asientos/index.html.erb within layouts/application (398.0ms)
+  [1m[35mUser Load (2.0ms)[0m  EXEC sp_executesql N'SELECT  [users].* FROM [users] WHERE [users].[id] = @0  ORDER BY [users].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 1  [["id", 1]]
+  Rendered layouts/_header.html.erb (10.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 1586ms (Views: 1481.0ms | ActiveRecord: 68.0ms)
+
+
+Started DELETE "/logout" for 127.0.0.1 at 2017-02-27 17:26:12 -0600
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"RokOmp913gHxJx9SgWkUwJJkhqoU0S7E0lUAIGIkNgUBO9qQhr13tjCUPe4Gl8nnkORrFMnP7w7V6r9vtGFDHw=="}
+  [1m[36mUser Load (1.0ms)[0m  [1mEXEC sp_executesql N'SELECT  [users].* FROM [users] WHERE [users].[id] = @0  ORDER BY [users].[id] ASC OFFSET 0 ROWS FETCH NEXT 1 ROWS ONLY', N'@0 int', @0 = 1[0m  [["id", 1]]
+  [1m[35mSQL (0.0ms)[0m  BEGIN TRANSACTION
+  [1m[36mSQL (1.0ms)[0m  [1mCOMMIT TRANSACTION[0m
+Redirected to http://rnt.sutel.go.cr/
+Completed 302 Found in 6ms (ActiveRecord: 2.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 17:26:12 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 1254ms (Views: 1253.1ms | ActiveRecord: 0.0ms)

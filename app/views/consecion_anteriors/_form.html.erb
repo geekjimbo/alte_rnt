@@ -1,0 +1,53 @@
+<div class="row">
+ <%= form_for @consesionanterior do |f| %>
+   <div>
+        <% if @consesionanterior.errors.any? %>
+          <div id="error_explanation">
+            <h2>La Conseción no puede ser grabado </h2>
+
+            <ul>
+            <% @consesionanterior.errors.full_messages.each do |msg| %>
+              <li><%= msg %></li>
+            <% end %>
+            </ul>
+          </div>
+        <% end %>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">La Concesión Anterior a la Ley</div>
+            <div class="panel-body">
+                <div class="col-md-4">
+                  <div class="form-group">
+                    <%= f.label :fecha_adecuacion_poder_ejecutivo, "Fecha Adecuación Poder Ejecutivo" %>
+                    <%=  f.date_field :fecha_adecuacion_poder_ejecutivo, class: 'form-control'%>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <%= f.label :numero_adecuacion_poder_ejecutivo, "Número de Referencia de la Adecuación Poder Ejecutivo" %>
+                    <%=  f.text_field :numero_adecuacion_poder_ejecutivo, class: 'form-control', :placeholder=> 'Ej. No. Resolución Poder Ejecutivo, Solo Si aplica'%>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <%= f.fields_for :espectro, @consesionanterior.espectro do |builder| %>
+            <%= render partial: 'shared/espectro', :locals => {:f => builder, :clase => "consecion_anterior", :objeto => @consesionanterior} %>
+          <% end %>
+
+          <div class="col-md-1 col-md-offset-7">
+            <div class="form-group">
+              <%= link_to 'Regresar', asientos_path %>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="form-group">
+              <% if action_name != 'show' %>
+                <%= f.submit 'Guardar cambios', class: "btn btn-primary" %>
+              <% end %>
+            </div>
+          </div>
+   </div>
+  <% end %>
+</div>

@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre_acreditado: MyString
+  identificacion_acreditado: MyString
+
+two:
+  nombre_acreditado: MyString
+  identificacion_acreditado: MyString

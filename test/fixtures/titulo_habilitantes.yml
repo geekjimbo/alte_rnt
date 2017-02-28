@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero_titulo: MyString
+  fecha_titulo: 2015-09-14
+  fecha_notificacion: 2015-09-14
+  causal_finalizacion: MyString
+  espectro_id: 
+
+two:
+  numero_titulo: MyString
+  fecha_titulo: 2015-09-14
+  fecha_notificacion: 2015-09-14
+  causal_finalizacion: MyString
+  espectro_id: 

@@ -1,0 +1,10 @@
+I"×(function() {
+  jQuery(function() {
+    var operador;
+    operador = $('#sancion_asiento_attributes_operadorregulado_id').html();
+    console.log('hola ...');
+    return console.log(operador);
+  });
+
+}).call(this);
+:ET

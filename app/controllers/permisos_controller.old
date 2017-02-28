@@ -1,0 +1,317 @@
+require 'nested_servicios'
+
+class PermisosController < ApplicationController
+  #before_action :set_permiso, only: [:show, :edit, :update, :destroy]
+  
+  PER_PAGE = 10
+
+  def index
+    @permisos = Permiso.paginate(page: params[:page], per_page: PER_PAGE)
+  end
+
+  def show
+    @permiso = Permiso.find(params[:id])
+  end
+
+  def new
+    # prepare lookups
+    @operadores = OperadorRegulado.all.order('nombre')
+    @servicios = SciServicio.all.order('descripcion')
+    
+    # create root parent
+    @permiso = Permiso.new
+
+    #build stack up
+    @permiso.build_espectro
+    @permiso.espectro.build_titulo_habilitante
+    @permiso.espectro.titulo_habilitante.build_asiento
+    @permiso.espectro.titulo_habilitante.asiento.tipo_asiento = "AS"
+    @permiso.espectro.titulo_habilitante.asiento.tipo_inscripcion = "Asiento Nuevo"
+    @espectro = @permiso.espectro
+    @titulo_habilitante = @permiso.espectro.titulo_habilitante
+    @asiento = @permiso.espectro.titulo_habilitante.asiento
+
+    # build childs
+    @permiso.espectro.frecuencia_espectro.new
+    @permiso.espectro.frecuencia_espectro.first.zona.new
+    @permiso.espectro.titulo_habilitante.servicio_habilitados.new
+    @frecuencia_espectro = @permiso.espectro.frecuencia_espectro.first
+    @zona = @permiso.espectro.frecuencia_espectro.first.zona.first
+    @servicio_habilitado = @permiso.espectro.titulo_habilitante.servicio_habilitados.first
+  end
+
+  def edit
+    #lookups
+    @operadores = OperadorRegulado.all.order('nombre')
+    @servicios = SciServicio.all.order('descripcion')
+
+    # parent
+    @permiso = Permiso.find(params[:id])
+
+    # stack up
+    @espectro = @permiso.espectro
+    @titulo_habilitante = @permiso.espectro.titulo_habilitante
+    @asiento = @permiso.espectro.titulo_habilitante.asiento
+    @permiso.espectro.titulo_habilitante.asiento.tipo_asiento = "MD"
+    @permiso.espectro.titulo_habilitante.asiento.tipo_inscripcion = "Modificación de Asiento"
+
+    # childs
+    @permiso.espectro.frecuencia_espectro.new if @permiso.espectro.frecuencia_espectro.first.nil?
+    @permiso.espectro.frecuencia_espectro.first.zona.new if @permiso.espectro.frecuencia_espectro.first.zona.first.nil?
+    @permiso.espectro.titulo_habilitante.servicio_habilitados.new if @permiso.espectro.titulo_habilitante.servicio_habilitados.nil?
+
+    @frecuencia_espectro = @permiso.espectro.frecuencia_espectro.all 
+    @zona = @permiso.espectro.frecuencia_espectro.first.zona.all 
+    @servicio_habilitado = @permiso.espectro.titulo_habilitante.servicio_habilitados.all   
+  end
+
+  def create
+    set_asientos_fields
+    create_ancestors_from_hash
+    #@permiso = Permiso.new(permiso_params)
+
+    if !is_asiento_nil? 
+      if @permiso.save
+        unless @consecutivo.nil? 
+          @consecutivo.save
+        end
+        flash.now[:success] = "Permiso creado exitosamente"
+        redirect_to asientos_path
+        #redirect_to permisos_url
+      else
+        flash.now[:danger] = 'Permiso no creado, hay errores que corregir' 
+        render :new
+      end
+    else
+        render :new
+    end
+  end
+
+  def update
+    set_asientos_fields
+ end
+
+  def delete
+  end
+
+  def destroy
+    Permiso.find(params[:id]).destroy
+    flash.now[:success] = "Permiso borrado"
+    redirect_to permisos_url
+  end
+
+  private
+    # Use callbacks to share common setup or constraints between actions.
+    def set_permiso
+      @permiso = Permiso.find(params[:id])
+    end
+
+    # Never trust parameters from the scary internet, only allow the white list through.
+    def permiso_params
+        unless params[:permiso].empty? 
+          params.require(:permiso).permit(:id, :modalidad_permiso, espectro_attributes: [:id, :clasificacion_uso_espectro, :titulo_id, [frecuencia_espectro_attributes: [:tipo_frecuencia, :ancho_banda_desde, :ancho_banda_hasta, :unidad_desde, :unidad_hasta, :espectro_id, [zona_attributes: [:tipo_zona, :descripcion_zona, :frecuenciaespectro_id]]]] ,:titulo_type, [titulo_habilitante_attributes: [:id, :numero_titulo, :fecha_titulo, :fecha_notificacion, :causal_finalizacion, :espectrable_id, :espectrable_type, [servicio_habilitados_attributes: [:sciservicio_id, :titulo_habilitante_id]] , asiento: [:id, :acto_id, :acto_type, :_destroy, :num_asiento, :num_asiento_original, :acto_inscribible, :tipo_asiento, :tipo_inscripcion, :numero_resolucion, :nombre_resolucion,:titulo_resolucion, :titulo_resolucion, :fecha_resolucion, :fecha_solicitud, :nombre_operador, :identificacion_operador, :cedula_representante_legal, :nombre_representante_legal, :usuario, :enlace_documento, :num_expediente_sutel, :operadorregulado_id, :vigencia ]]]])
+        end
+    end
+    
+    def is_asiento_nil?
+      #check_stack_for_nil
+      #@permiso.espectro.titulo_habilitante.asiento.nil?
+      @permiso.espectro.titulo_habilitante.nil?
+    end
+
+    def set_asientos_fields
+      rn = params[:permiso][:espectro_attributes][:asiento]
+      unless rn.nil?
+        if action_name == "create"
+          rn[:num_asiento_original] = ""
+          rn[:num_asiento] = obtener_numero_asiento("AS")
+          rn[:tipo_inscripcion] = "Asiento Nuevo"
+          rn[:tipo_asiento] = "AS"
+        end
+
+        rn[:fecha_solicitud] = Time.now
+        rn[:acto_inscribible] = "Permiso"
+        if rn[:nombre_operador].blank? or rn[:identificacion_operador].blank?
+          @operador = OperadorRegulado.find(rn[:operadorregulado_id])
+          rn[:nombre_operador] = @operador.nombre
+          rn[:identificacion_operador] = @operador.identificacion
+          rn[:nombre_representante_legal] = @operador.nombre_representante_legal
+          rn[:cedula_representante_legal] = @operador.cedula_representante_legal
+        end
+        rn[:usuario] = current_user.id.to_s + "-" + current_user.email
+
+        if action_name == 'update'
+          clonar_objetos
+        end
+      end
+
+    end
+
+
+    def clonar_objetos
+      # clonar el permiso y toda la jerarquía incluyendo los objetos anidados y los objetos ancestros
+      # copiar objeto permiso
+      neutro = params[:permiso]
+      permiso = Permiso.new
+      neutro.each do |key, val|
+        unless key.include? "_attributes" or key == "servicio_habilitados" or key == "asiento" or key == "titulo_habilitante" or key == "frecuencia_espectro" or key == "zona"
+          permiso[key] = val if key != "id"
+        end
+      end
+
+      # copiar objeto espectro
+      espectro = permiso.build_espectro
+      neutro = params[:permiso][:espectro_attributes]
+      neutro.each do |key, val|
+        unless key.include? "_attributes" 
+          espectro[key] = val if key != "id" and key != "asiento"
+        end
+      end if neutro
+
+      # copiar objeto frecuencia_espectro
+      frecuencias = params[:permiso][:espectro_attributes][:frecuencia_espectro_attributes]      
+      unless frecuencias.nil? 
+        frecuencias.each do |fn|
+          frecuencia_espectro = permiso.espectro.frecuencia_espectro.new
+          neutro = fn[1] 
+          neutro.each do |key, val|
+            unless key.include? "_attributes" 
+              frecuencia_espectro[key] = val if key != "id"
+            end
+          end
+          # copiar objeto zonas
+          zonas = neutro[:zona_attributes]      
+          zonas.each do |zonas|
+            zona = frecuencia_espectro.zona.new
+            neutro = zonas[1] 
+            neutro.each do |key, val|
+              zona[key] = val if key != "id"
+            end if neutro
+            #zona[:tipo_zona] = neutro[:tipo_zona]
+          end
+        end
+      end
+
+      # copiar objeto titulo habilitante
+      titulo_habilitante = permiso.espectro.build_titulo_habilitante
+      neutro = params[:permiso][:espectro_attributes][:titulo_habilitante_attributes]
+      neutro.each do |key, val|
+        unless key.include? "_attributes" 
+            titulo_habilitante[key] = val if key != "id"
+        end
+      end
+      # copiar objeto servicios_habilitados
+      servicios_habilitados = neutro[:servicio_habilitados_attributes]
+      unless servicios_habilitados.nil? 
+        servicios_habilitados.each do |sn|
+          sci_servicio = titulo_habilitante.servicio_habilitados.new
+          sn[1].each do |key, val|
+            sci_servicio[key] = val if key != "id"
+          end
+        end
+      end
+
+      asiento = permiso.espectro.titulo_habilitante.build_asiento
+      neutro = params[:permiso][:espectro_attributes][:asiento]
+      #copiar objeto asiento
+      neutro.each do |key, val|
+        asiento[key] = val if key != "id"
+      end
+
+      #copiar valores al hijo
+      #asiento.attributes.each do |key,val|
+      #  permiso.asiento[key] = asiento[key] if key != "id"
+      #end
+
+      #intercambiar llaves
+      obj = Permiso.find(params[:id])
+      permiso.espectro.titulo_habilitante.asiento.num_asiento_original = obj.espectro.titulo_habilitante.asiento.num_asiento
+      permiso.espectro.titulo_habilitante.asiento.num_asiento = obtener_numero_asiento("MD")
+      permiso.espectro.titulo_habilitante.asiento.tipo_asiento = "MD"
+      permiso.espectro.titulo_habilitante.asiento.tipo_inscripcion = "Modificación de Asiento"
+      permiso.espectro.titulo_habilitante.asiento.acto_type = "TituloHabilitante"
+
+      if permiso.save
+        @permiso = Permiso.find(params[:id])
+        @consecutivo.save
+        flash.now[:success] = "Permiso actualizado exitosamente"
+        redirect_to asientos_path
+      else
+        @permiso = Permiso.find(params[:id])
+        flash.now[:danger] = 'Permiso no modificado, hay errores que corregir' 
+        render :edit
+      end
+   end
+
+    def handle_servicios
+      n = Nested.new
+      my_hash = params[:permiso][:espectro_attributes][:titulo_habilitante_attributes][:servicio_habilitados_attributes]
+      n.servicios :action => :update, :titulo_habilitante_id => @autorizacion.titulo_habilitante.id, :hash_fresh => my_hash
+    end
+
+    def check_stack_for_nil
+      #build stack up
+      @permiso.build_espectro if @permiso.espectro.nil? 
+      @permiso.espectro.build_titulo_habilitante if @permiso.espectro.titulo_habilitante.nil?
+      @permiso.espectro.titulo_habilitante.build_asiento if @permiso.espectro.titulo_habilitante.asiento.nil?
+      @permiso.espectro.frecuencia_espectro.new if @permiso.espectro.frecuencia_espectro.first.nil?
+      @permiso.espectro.frecuencia_espectro.first.zona.new if !@permiso.espectro.frecuencia_espectro.first.zona.any?
+      @permiso.espectro.titulo_habilitante.servicio_habilitados.new if !@permiso.espectro.titulo_habilitante.servicio_habilitados.any?
+    end
+
+    def create_ancestors_from_hash
+      @permiso = Permiso.new(permiso_params) if action_name == "create"
+      @permiso = Permiso.find(params[:id]) if action_name != "create"
+      check_stack_for_nil
+
+      hash = params[:permiso][:espectro_attributes][:titulo_habilitante_attributes]
+
+      # clonar titulo_habilitante
+      @permiso.espectro.titulo_habilitante.numero_titulo = hash[:numero_titulo]
+      @permiso.espectro.titulo_habilitante.fecha_titulo = hash[:fecha_titulo]
+      @permiso.espectro.titulo_habilitante.fecha_notificacion = hash[:fecha_notificacion]
+      @permiso.espectro.titulo_habilitante.causal_finalizacion = hash[:causal_finalizacion]
+      @permiso.espectro.titulo_habilitante.espectrable_id = hash[:espectrable_id]
+      @permiso.espectro.titulo_habilitante.espectrable_type = "Espectro"
+
+      hash = params[:permiso][:espectro_attributes][:asiento]
+      @permiso.espectro.titulo_habilitante.asiento.num_asiento = hash[:num_asiento] if action_name == "create"
+      @permiso.espectro.titulo_habilitante.asiento.num_asiento_original = hash[:num_asiento_original]
+      @permiso.espectro.titulo_habilitante.asiento.acto_inscribible = hash[:acto_inscribible]
+      @permiso.espectro.titulo_habilitante.asiento.tipo_asiento = hash[:tipo_asiento]
+      @permiso.espectro.titulo_habilitante.asiento.tipo_inscripcion = hash[:tipo_inscripcion] if action_name =="create"
+      @permiso.espectro.titulo_habilitante.asiento.numero_resolucion = hash[:numero_resolucion]
+      @permiso.espectro.titulo_habilitante.asiento.nombre_resolucion = hash[:nombre_resolucion]
+      @permiso.espectro.titulo_habilitante.asiento.titulo_resolucion = hash[:titulo_resolucion]
+      @permiso.espectro.titulo_habilitante.asiento.fecha_resolucion = hash[:fecha_resolucion]
+      @permiso.espectro.titulo_habilitante.asiento.fecha_solicitud = hash[:fecha_solicitud]
+      @permiso.espectro.titulo_habilitante.asiento.nombre_operador = hash[:nombre_operador]
+      @permiso.espectro.titulo_habilitante.asiento.identificacion_operador = hash[:identificacion_operador]
+      @permiso.espectro.titulo_habilitante.asiento.nombre_representante_legal = hash[:nombre_representante_legal]
+      @permiso.espectro.titulo_habilitante.asiento.cedula_representante_legal = hash[:cedula_representante_legal]
+      @permiso.espectro.titulo_habilitante.asiento.usuario = hash[:usuario]
+      @permiso.espectro.titulo_habilitante.asiento.enlace_documento = hash[:enlace_documento]
+      @permiso.espectro.titulo_habilitante.asiento.num_expediente_sutel = hash[:num_expediente_sutel]
+      @permiso.espectro.titulo_habilitante.asiento.operadorregulado_id = hash[:operadorregulado_id]
+      @permiso.espectro.titulo_habilitante.asiento.vigencia = hash[:vigencia]
+      @permiso.espectro.titulo_habilitante.asiento.acto_id = hash[:acto_id]
+      @permiso.espectro.titulo_habilitante.asiento.acto_type = "TituloHabilitante"
+
+      # clonar servicios habilitados
+
+      # clonar frecuencias
+      #hash = params[:permiso][:frecuencia_espectro]
+      #@permiso.espectro.frecuencia_espectro.first.tipo_frecuencia = hash[:tipo_frecuencia]
+      #@permiso.espectro.frecuencia_espectro.first.ancho_banda_desde = hash[:ancho_banda_desde]
+      #@permiso.espectro.frecuencia_espectro.first.ancho_banda_hasta = hash[:ancho_banda_hasta]
+      #@permiso.espectro.frecuencia_espectro.first.unidad_desde = hash[:unidad_desde]
+      #@permiso.espectro.frecuencia_espectro.first.espectro_id = hash[:espectro_id]
+      
+      # clonar zonas
+      #hash = params[:permiso][:espectro_attributes][:frecuencia_espectro][:zona]
+      #@permiso.espectro.frecuencia_espectro.first.zona.first.tipo_zona = hash[:tipo_zona]
+      #@permiso.espectro.frecuencia_espectro.first.zona.first.descripcion_zona = hash[:descripcion_zona]
+      #@permiso.espectro.frecuencia_espectro.first.zona.first.nota = hash[:nota]
+      #@permiso.espectro.frecuencia_espectro.first.zona.first.frecuenciaespectro_id = hash[:frecuenciaespectro_id]
+    end
+end

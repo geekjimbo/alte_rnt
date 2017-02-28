@@ -1,0 +1,70 @@
+<div class="row">
+ <%= form_for @preciostarifa do |f| %>
+   <div>
+
+      <% if @preciostarifa.errors.any? %>
+        <div id="error_explanation">
+          <h2>El Asiento no puede ser grabado </h2>
+
+          <ul>
+          <% @preciostarifa.errors.full_messages.each do |msg| %>
+            <li><%= msg %></li>
+          <% end %>
+          </ul>
+        </div>
+      <% end %>
+
+
+        <div class="panel panel-default">
+          <div class="panel-heading">La Aprobación de Precios y Tarifa</div>
+            <div class="panel-body">
+                <div class="col-md-4">
+                  <div class="form-group">
+                    <%= f.label :fecha_publicacion_gaceta, "Fecha Publicación Gaceta" %>
+                    <%= f.date_field :fecha_publicacion_gaceta, class: 'form-control'%>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <%= f.label :numero_publicacion_gaceta, "Número Publicación Gaceta" %>
+                    <%= f.text_field :numero_publicacion_gaceta, class: 'form-control'%>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+      <%= f.fields_for(:asiento) do |asiento_f| %>
+        <% render partial: 'shared/asiento', :locals => {:asiento_f => asiento_f, :clase => "precios_tarifa"} %>
+      <% end %>
+
+          <div class="panel panel-default">
+            <div class="panel-heading">Detalle Precios y Tarifas</div>
+              <div class="panel-body">
+                  <% f.object.detalle_precios_tarifas.each do |operador| %>
+                    <%= f.fields_for "detalle_precios_tarifas", operador  do |builder| %>
+                      <%= render partial: 'detalle_precios_tarifas', :locals => {:f => builder, :clase=> "detalle_precios_tarifas"} %>
+                    <% end %>
+                  <% end %>
+            </div>
+          </div>
+          <div>
+            <p><%= link_to_add_fields "Agregar Precio y Tarifa", f, :detalle_precios_tarifas %> </p>
+          </div>
+
+
+          <div class="col-md-1 col-md-offset-7">
+            <div class="form-group">
+              <%= link_to 'Regresar', asientos_path %>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="form-group">
+              <% if action_name != 'show' %>
+                <%= f.submit 'Guardar cambios', class: "btn btn-primary" %>
+              <% end %>
+            </div>
+          </div>
+   </div>
+  <% end %>
+</div>

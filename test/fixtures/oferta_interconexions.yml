@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero_publicacion_gaceta: MyString
+  fecha_publicacion_gaceta: 2015-09-18
+  contenido_oferta: MyText
+  fecha_vencimiento: 2015-09-18
+
+two:
+  numero_publicacion_gaceta: MyString
+  fecha_publicacion_gaceta: 2015-09-18
+  contenido_oferta: MyText
+  fecha_vencimiento: 2015-09-18

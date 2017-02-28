@@ -1,0 +1,19 @@
+*** SIGUSR2 not implemented, signal based restart unavailable!
+*** SIGUSR1 not implemented, signal based restart unavailable!
+*** SIGHUP not implemented, signal based logs reopening unavailable!
+Puma starting in single mode...
+* Version 3.7.0 (ruby 2.1.7-p400), codename: Snowy Sagebrush
+* Min threads: 0, max threads: 16
+* Environment: production
+* Listening on tcp://0.0.0.0:30294
+Use Ctrl-C to stop
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-17 14:08:51 -0600
+  [1m[36mSQL (0.0ms)[0m  [1mUSE [RNTWeb][0m
+  [1m[35mActiveRecord::SchemaMigration Load (15.7ms)[0m  EXEC sp_executesql N'SELECT [schema_migrations].* FROM [schema_migrations]'
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (15.7ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (15.8ms)
+Completed 200 OK in 1485ms (Views: 1469.0ms | ActiveRecord: 0.0ms)

@@ -1,0 +1,71 @@
+<div class="row">
+ <%= form_for @contrato_adhesion do |f| %>
+   <div>
+
+      <% if @contrato_adhesion.errors.any? %>
+        <div id="error_explanation">
+          <h2>El Asiento no puede ser grabado </h2>
+
+          <ul>
+          <% @contrato_adhesion.errors.full_messages.each do |msg| %>
+            <li><%= msg %></li>
+          <% end %>
+          </ul>
+        </div>
+      <% end %>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">El Contrato Adhesión</div>
+            <div class="panel-body">
+                <div class="col-md-3">
+                  <div class="form-group">
+                    <%=  f.label :titulo_contrato, "Titulo Contrato" %>
+                    <%=  f.text_field :titulo_contrato, class: 'form-control' %>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="form-group">
+                    <%=  f.label :fecha_vigencia, "Fecha Vigencia" %> 
+                    <%=  f.date_field :fecha_vigencia, class: 'form-control' %>
+                  </div>
+                </div>
+                <div class="col-md-5">
+                  <div class="form-group">
+                    <%= f.label :nota, "Nota" %>
+                    <%= f.text_area :nota, :rows => "3" %>
+                  </div>
+                </div>
+            </div>
+        </div>
+
+          <%= f.fields_for(:asiento) do |asiento_f| %>
+            <% render partial: 'shared/asiento', :locals => {:asiento_f => asiento_f, :clase => "contrato_adhesion"} %>
+          <% end %>
+
+          <div class="panel panel-default">
+            <div class="panel-heading">Servicios</div>
+              <div class="panel-body">
+                  <% f.object.servicio_contrato_adhesions.each do |servicio| %>
+                    <%= f.fields_for "servicio_contrato_adhesions", servicio  do |builder| %>
+                        <%= render partial: 'servicios_contrato_adhesions', :locals => {:f => builder} %>
+                    <% end %>
+                  <% end %>
+                    <p><%= link_to_add_fields "Agregar Servicio", f, :servicio_contrato_adhesions %> </p>
+            </div>
+          </div>
+
+          <div class="col-md-1 col-md-offset-7">
+            <div class="form-group">
+              <%= link_to 'Regresar', asientos_path %>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="form-group">
+              <% if action_name != 'show' %>
+                <%= f.submit 'Guardar cambios', class: "btn btn-primary" %>
+              <% end %>
+            </div>
+          </div>
+   </div>
+  <% end %>
+</div>

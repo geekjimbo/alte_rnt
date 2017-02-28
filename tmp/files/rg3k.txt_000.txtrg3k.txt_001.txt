@@ -1,0 +1,152 @@
+nstalados desde el primer día que la autorización lo permita.
+
+________________________________________________________
+T +506 4000-0000 F +506 2215-6821 800-88-SUTEL 800-88-78835 Apartado 151-1200 San José ­ Costa Rica
+
+RCS-115-2015
+gestiondocumental@sutel.go.cr
+
+Página 6 de 15
+
+iv.
+
+Aportar información relacionada con el modelo de negocio de los servicios de telecomunicaciones específicos para los cuales se solicita la autorización en cuanto a: atención al cliente, atención de averías y mantenimiento de la red. La empresa en su solicitud de autorización, describe las condiciones comerciales para la prestación de los servicios a sus clientes (folio 03 expediente administrativo S0400-STT-AUT-01005-2015). "La capacidad técnica de los equipos, tanto a nivel de núcleo, distribución y acceso, así como el modelo de negocio, atención de averías y mantenimiento de la red, se cuenta con un laboratorio debidamente equipado con los instrumentos necesarios para mantenimiento de averías, y cuatro técnicos debidamente especializados, con un horario de atención las 24 horas y los 7 días de la semana. Se dispone de los siguientes medios para hacer solicitudes: Fax, Teléfonos y correo electrónico. El tiempo de respuesta es de 3 horas cuando la avería es dentro de la provincia de Limón medida a partir del recibo de la denuncia, y de 6 horas cuando la avería es fuera de la provincia de Limón, medido a partir del recibo de la denuncia. En todo caso la reparación de la avería no superará las diez horas de tiempo máximo a partir del momento en que el cliente o usuario reporta la avería. Para seguimiento de la resolución de incidencias se cuenta con el software Microsoft CRM Dynamics. Mantenimiento de la Red: Se dispone de un software de monitoreo en tiempo real de toda la red proporcionado por el proveedor, donde se monitorean constantemente los diferentes parámetros de la red. También se emplea un mantenimiento preventivo en el campo cada tres meses. Se dispone de cuatro técnicos e igual número de vehículos para el mantenimiento de la red." Cabe señalar que lo anterior deberá ser ampliado por parte de la empresa y deberá manifestarse claramente en los contratos de adhesión que esta celebre con sus potenciales clientes, en atención a lo que se indica en el artículo 21 inciso 10 del Reglamento del Régimen de Protección al Usuario Final de los Servicios de Telecomunicaciones.
+
+v.
+
+Para hacer uso de frecuencias en los rangos atribuidos como "uso libre", se debe adjuntar un diagrama general e indicar para cada emplazamiento localización geográfica, frecuencias a utilizar, potencia de salida de equipos, potencia efectiva radiada, patrón de radiación, cantidad de antenas y ganancia. Según la información presentada por la empresa, se presenta la tabla 5 que resume las ubicaciones de los emplazamientos de la red de SERVILINK. Tabla 5 Localización de emplazamientos de red de SERVILINK
+
+Emplazamiento Centro de Control Volcán Irazú Río Cuarto Cedral Monterrey Chiripa Juan Díaz Cerro Azul Volcán Poás Cerro Bebedero Cerro Copalchi Cerro Frío Boruca Cerro Adams Fila Cal Espabel Provincia Limón Cartago Alajuela Alajuela Alajuela Guanacaste Guanacaste Guanacaste Alajuela San José Cartago San José Puntarenas Puntarenas Puntarenas Limón
+
+Ubicación Política Cantón Pococí Oreamuno Grecia San Carlos San Carlos Tilarán Nicoya Nandayure Poás Escazú Cartago Dota Buenos Aires Golfito Corredores Matina Distrito Jiménez Santa Rosa Río Cuarto Ciudad Quesada Monterrey Tilarán Nicoya Porvenir San Pedro San Antonio Quebradilla Copey Boruca Golfito Corredores Batán
+
+Coordenadas Geográficas Latitud 10°10´12.71" N 9°58´25.49" N 10°19´9.90" N 10°22´5.28" N 10°31´41.91" N 10°26´35.26" N 10°11´0.63" N 9°57´2.99" N 10°10´42" N 9°54´27.17" N 9°50´26.81" N 9°33´14.94" N 8°59´25.04" N 8°39´7.89" N 8°40´57.08" N 10°04´11.13" N Longitud 83°46´21.13" O 83°51´37.87" O 84°14´25.20" O 84°26´12.80" O 84°41´51.74" O 84°54´26.90" O 85°31´9.95" O 85°16´23.49" O 84°14´30.50" O 85°09´46.07" O 84°01´24.39" O 83°45´48.85" O 83°21´13.79" O 83°09´51.70" O 82°56´21.84" O 83°24´39.43" O
+
+________________________________________________________
+T +506 4000-0000 F +506 2215-6821 800-88-SUTEL 800-88-78835 Apartado 151-1200 San José ­ Costa Rica
+
+RCS-115-2015
+gestiondocumental@sutel.go.cr
+
+Página 7 de 15
+
+Cerro Mocho Uatsí Lomas de Sierpe
+
+Limón Limón Limón
+
+Limón Talamanca Matina
+
+Limón Bratsí Matina
+
+9°59´54.09" N 9°37´18.67" N 10°20´13.10" N
+
+83°02´23.73" O 82°56´22.54" O 83°34´38.80" O
+
+Según se indica en la información contenida en el expediente administrativo, específicamente en los folios 29 al 40, SERVILINK aporta la información relacionada con lo señalado en este punto, mostrando las antenas y sus características, indicando patrones de radiación, frecuencias a utilizar y los sitios geográficos donde se ubicarán las antenas para sus enlaces inalámbricos. En la tabla 6 se presenta una síntesis de los datos especificados por la empresa. Tabla 6 Emplazamientos y antenas de la red de SERVILINK
+Emplazamiento Latitud Longitud Altitud sobre nivel del mar 434 m Altura antenas 15 m 25 m 20 m 25 m 20 m 25 m 15 m 12 m 15 m 18 m 15 m 20 m 18 m 15 m 20 m 25m 18 m 15 m 20 m 25 m 15 m 18 m 25 m 20 m 15 m 18 m 20 m 18 m 15 m 20 m 20 m 18 m 15 m 20 m 20 m 25 m 18 m 15 m 20 m 18 m Cantidad de antenas 2 Orientación Frecuencia Operación 2400-2483/57255875 MHz 2400-2483/57255875 MHz Potencia máxima de salida 24 dBm EIRP
+
+Centro de Control
+
+10°10´12.71" N
+
+83°46´21.13" O
+
+Volcán Irazú
+
+9°58´25.49" N
+
+83°51´37.87" O
+
+3378 m
+
+5
+
+204° 0.7° 24° 133° 230.5° 167° 77.7° 313° 104° 180.6° 284° 304° 124° 247.5° 67.5° 246.7° 66.6° 134° 314° 77° 92° 257,5° 0.6° 272.5° 115.5° 296° 50.4° 346° 145° 324° 151° 331° 82° 262° 257° 101° 281° 165° 345.5° 229°
+
+36 dBm
+
+24 dBm
+
+36 dBm
+
+Río Cuarto
+
+10°19´9.90" N 10°22´5.28" N 10°31´41.91" N 10°26´35.26" N 10°11´0.63" N 9°57´2.99" N 10°10´42" N 9°54´27.17" N 9°50´26.81" N 9°33´14.94" N 8°59´25.04" N 8°39´7.89" N 8°40´57.08" N 10°04´11.13" N 9°59´54.09" N 9°37´18.67" N 10°20´13.10" N
+
+84°14´25.20" O 84°26´12.80" O 84°41´51.74" O 84°54´26.90" O 85°31´9.95" O 85°16´23.49" O 84°14´30.50" O 85°09´46.07" O 84°01´24.39" O 83°45´48.85" O 83°21´13.79" O 83°09´51.70" O 82°56´21.84" O 83°24´39.43" O 83°02´23.73" O 82°56´22.54" O 83°34´38.80" O
+
+659 m
+
+3
+
+2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz 2400-2483/57255875 MHz
+
+24 dBm
+
+36 dBm
+
+Cedral Monterrey Chiripa Juan Díaz Cerro Azul Volcán Poás Cerro Bebedero Cerro Copalchi Cerro Frío Boruca Cerro Adams Fila Cal Espabel Cerro Mocho Uatsí Lomas de Sierpe
+
+572 m 605 m 1032 m 313 m 816 m 2611 m 1618 m 1875 m 3446 m 1052 m 454 m 621 m 307m 69 m 598 m 117 m
+
+2 2 2 2 3 2 2 2 2 2 2 1 2 2 1 1
+
+24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm 24 dBm
+
+36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm 36 dBm
+
+"
+
+________________________________________________________
+T +506 4000-0000 F +506 2215-6821 800-88-SUTEL 800-88-78835 Apartado 151-1200 San José ­ Costa Rica
+
+RCS-115-2015
+gestiondocumental@sutel.go.cr
+
+Página 8 de 15
+
+XVI. Que de acuerdo al Informe Técnico de la Dirección General de Mercados, la empresa solicitante cumple con la capacidad financiera, por lo que se concluyó que:
+"Luego de valorar la documentación financiera proporcionada por SERVILINK se considera que la compañía cumple con lo exigido por la resolución del Consejo de la SUTEL número RCS-588-2009 de las 2:25 horas del 30 de noviembre de 2009. En este sentido, se expone a continuación el análisis efectuado. i. Acreditar la capacidad financiera relacionada con los servicios que se pretende autorizar. Para ello deberá aportar los estados financieros certificados del solicitante o en su defecto un estudio de factibilidad financiera del proyecto de telecomunicaciones específico, que incluya cada una de los servicios de telecomunicaciones que se pretende se autoricen. Para acreditar la capacidad financiera relacionada con los servicios que se pretende autorizar, SERVILINK S.A. aporta los estados financieros de la empresa al 31 de marzo del año 2015, los cuales son avalados por un contador público autorizado. Del análisis de los citados estados financieros se desprende que en virtud de los resultados económicos obtenidos, tanto en el período fiscal actual como en períodos anteriores, la empresa dispone de recursos financieros con los cuales financiar el proyecto de inversión que el área de telecomunicaciones pretende llevar a cabo y para cuya operación ha solicitado autorización a esta entidad reguladora. Dichos resultados económicos evidencian una disponibilidad de efectivo por valor de ¢16,7 millones y un patrimonio acumulado que alcanza, a la fecha referida, la suma de ¢25,5 millones. Considerando la disponibilidad de recursos referida en el párrafo anterior, resulta recomendable que el Consejo de esta Superintendencia puede proceder a aprobar la solicitud de autorización planteada por SERVILINK S.A."
+
+XVII. Que de acuerdo con el Informe Técnico de la Dirección General de Mercados, la solicitante cumple con la capacidad jurídica, dado que luego de verificar los presupuestos jurídicos y de hecho correspondientes se concluyó que:
+"Del análisis de fondo realizado de la totalidad de folios que integran el expediente administrativo, se comprueba que SERVILINK, cumple con los requisitos jurídicos exigidos por el ordenamiento jurídico, según se expone a continuación: a. El solicitante expuso su pretensión de brindar el servicio de Transferencia de Datos bajo la modalidad de Acceso a Internet y Canales Punto a Punto por medio de enlaces inalámbricos en bandas de frecuencia de "uso libre" en todo el territorio nacional vista a los folios del 02 al 55 del expediente administrativo. b. La solicitud fue presentada en idioma español y conforme al Sistema Internacional de Unidades de Medidas (Ley 5292 del 9 de agosto de 1973 y su Reglamento). c. El solicitante se identificó como SERVILINK S.A.cédula jurídica número 3-101-485179, cuyo representante con facultades de apoderado generalísimo sin límite de suma es el señor Félix Antonio Castro Amaya, portador de la cédula 1-1003-0635. Lo anterior fue verificado mediante certificación registral según consta en el folio 08 del expediente administrativo. Esta certificación fue emitida dentro de los tres meses anteriores, a la fecha en que la solicitud de autorización fue presentada ante esta Superintendencia. Asimismo, se señalan el correo electrónico f.castro@servilinkcr.com, y el fax 27102713como medios para la recepción de notificaciones. d. La solicitud fue firmada por el señor Félix Antonio Castro Amaya, representante legal SERVILINK S.A. Su firma se encuentra autenticada según consta al folio 04 y 05 del expediente administrativo. e. La empresa solicitante aportó copia de la cédula de identidad de su representante legal, según consta al folio 07 del expediente administrativo. f. Igualmente, el interesado adjuntó la declaración jurada en donde se hace constar que SERVILINK S.A.: (i) conoce las condiciones establecidas para la operación y explotación de redes y la prestación de los servicios de telecomunicaciones y (ii) conoce y se compromete expresamente a cumplir ordenamiento jurídico, regulaciones, directrices, normativa y demás disposiciones vigentes en materia de
+
+________________________________________________________
+T +506 4000-0000 F +506 2215-6821 800-88-SUTEL 800-88-78835 Apartado 151-1200 San José ­ Costa Rica
+
+RCS-115-2015
+gestiondocumental@sutel.go.cr
+
+Página 9 de 15
+
+telecomunicaciones. Esta declaración jurada fue otorgada ante Notario Público por el señor Félix Antonio Castro Amaya, en calidad de representante legal de la empresa, según consta al folio 53 y 54 del expediente administrativo. Según consta en el folio 16 del expediente administrativo, SERVILINK S.A., se encuentra registrado como patrono activo ante la Caja Costarricense del Seguro Social y está al día con todas sus obligaciones ante esta Institución. "
+
+XVIII. Que finalmente y de acuerdo con el citado Informe Técnico, una vez analizada la solicitud de autorización presentada por SERVILINK S.A.se puede concluir que esta se ajusta a los requerimientos legales y reglamentarios al procedimiento administrativo correspondiente, según la resolución del Consejo de la SUTEL RCS-588-2009 de las 2:25 horas del 30 de noviembre de 2009. XIX. Que la empresa SERVILINK S.A. posee las capacidades técnicas para poder desarrollar e implementar la arquitectura y topología de red, así como las condiciones para brindar mantenimiento y servicios de calidad a los usuarios según el ordenamiento jurídico vigente para los servicios sobre los que solicita autorización. XX. Que en consecuencia, este Consejo acoge la recomendación contenida en el 04523-SUTEL-DGM2015 con fecha de 2 de julio de 2015, para lo cual procede autorizar a SERVILINK S.A. cédula jurídica número 3-101-485179, para operar una red pública de telecomunicaciones y brindar el servicio de Transferencia de Datos bajo la modalidad de Acceso a Internet por medio de enlaces inalámbricos en bandas de frecuencia de "uso libre" en todo el territorio nacional, respetando la normativa y las disposiciones regulatorias vigentes.
+
+XXI. Que de conformidad con los anteriores resultandos y considerandos, este Consejo, en uso de las competencias que tiene atribuidas para el ejercicio de sus funciones. POR TANTO Con fundamento en la Ley General de Telecomunicaciones, ley 8642 y su reglamento; Ley de la Autoridad Reguladora de los Servicios Públicos, ley 7593; Ley General de la Administración Pública, ley 6227, y demás normativa de general y pertinente aplicación EL CONSEJO DE LA SUPERINTENDENCIA DE TELECOMUNICACIONES RESUELVE: 1. Otorgar autorización a la empresa SERVILINK S.A. cédula jurídica número 3-101-485179, por un período de diez años a partir de la notificación de la presente resolución, para la operación de una red pública de telecomunicaciones para la prestación de los siguientes servicios de telecomunicaciones disponibles al público: i. Transferencia de Datos bajo la modalidad de Acceso a Internet y Canales Punto a Punto por medio de enlaces inalámbricos en bandas de frecuencia de "uso libre". 2. Indicar a SERVILINK S.A. que, conforme a las disposiciones del Reglamento sobre el Régimen de Protección al Usuario y el Reglamento de Prestación de Calidad de los Servicios, deberá cumplir con el procedimiento de homologación de sus equipos terminales, de previo a prestar los servicios de telecomunicaciones disponibles al público. Indicar a SERVILINK S.A. que deberá ajustarse a los niveles de sobresuscripción establecidos en el artículo 89 de la sección 3 del capítulo 7 del Reglamento de Prestación y Calidad de Servicios, contemplando la sobresuscripción del servicio contratado a su proveedor de servicios de internet. Dicha relación se enmarca bajo el régimen de acceso e interconexión y deberá cumplir con las disposiciones contenidas en el Reglamento de Acceso e Interconexión de Redes de Telecomunicaciones.
+
+3.
+
+________________________________________________________
+T +506 4000-0000 F +506 2215-6821 800-88-SUTEL 800-88-78835 Apartado 151-1200 San José ­ Costa Rica
+
+RCS-115-2015
+gestiondocumental@sutel.go.cr
+
+Página 10 de 15
+
+4.
+
+Indicar a la empresa autorizada que podrá ampliar la oferta de servicios de telecomunicaciones informando previamente a la Superintendencia de Telecomunicaciones, conforme con el artículo 27 de la Ley N° 8642, quien en un plazo de quince días hábiles efectuara los ajustes necesarios a fin de que estos servicios cumplan con lo dispuesto en dicha ley. En este sentido, se hace constar que al día de hoy y para efectos del Registro Nacional de Telecomunicaciones, SERVILINK S.A. prestará el servicio de Transferencia de Datos bajo la modalidad de Acceso a Internet y Canales Punto a Punto por medio de enlaces inalámbricos en bandas de frecuencia de "uso libre". Establecer como condiciones de la autorización las siguientes: PRIMERO. Sobre las zonas o áreas geográficas: la empresa SERVILINK S.A. cédula jurídica número 3-101-485179, podrá brindar sus servicios de telecomunicaciones autorizados en las provincias de San José, Alajuela, Cartago, Guanacaste, Puntarenas y Limón. SEGUNDO. Sobre las tarifas: La empresa SERVILINK S.A. deberá ajustar sus tarifas de servicios de telecomunicaciones al Régimen Tarifario que establezca la SUTEL. TERCERO. Sobre las obligaciones en particular: sin perjuicio de cualesquiera otras obligaciones impuestas bajo la Ley General de Telecomunicaciones o cualesquiera otras disposiciones legales o reglamentarias, u otras obligaciones contraídas de manera particular, la empresa SERVILINK S.A. cédula jurídica número 3-101-485179, estará obligada a: Operar las redes y prestar los servicios autorizados, de manera continua, de acuerdo a los términos, condiciones y plazos establecidos en la Ley General de Telecomunicaciones, reglamentos, el respectivo título habilitante y las resoluciones que al efecto dicte la SUTEL; b. Cumplir con los requisitos económicos, técnicos y jurídicos mínimos que hayan sido requeridos por la SUTEL y en virtud de los cuales se le haya otorgado el título habilitante, así como cumplir con cualesquiera otros requisitos establecidos por la SUTEL; c. Cumplir con lo dispuesto en los planes técnicos fundamentales, reglamentos y las normas técnicas establecidas por el Ministerio de Ambiente, Energía y Telecomunicaciones y por la SUTEL; d. Cumplir en general con las obligaciones de acceso e interconexión, así como remitir de manera oportuna a la Sutel para su aprobación e inscripción los acuerdos que alcance con otros operadores y/o proveedores de servicios de telecomunicaciones. e. Permitir y brindar el acceso e interconexión a sus redes de todos los equipos, interfaces y aparatos de telecomunicación, de acuerdo a los procedimientos establecidos en la ley y su reglamentación, y permitir el libre acceso a los servicios que mediante ellas se presten, en condiciones transparentes y no discriminatorias; f. Remitir a la Sutel oportunamente y mantener actualizada toda información referente a la representación de la empresa, composición accionaria y medios de notificación. Para estos efectos, deberá actualizar al menos una vez al año, la ficha de regulado que mantiene la Unidad de Gestión Documental de la SUTEL; g. Entregar a la SUTEL la información que solicite, con la periodicidad que esta requiera; h. Pagar oportunamente los cánones, tasas y demás obligaciones establecidas en la ley o en su respectivo título habilitante; i. Asegurar y garantizar el uso eficiente de los recursos escasos; j. Garantizar el uso compartido de su infraestructura de soporte de redes, de forma transparente y no discriminatoria, de conformidad con la normativa vigente. k. Admitir como cliente o usuario final, de manera no discriminatoria, a todas las personas que lo deseen y respetar los derechos de los usuarios finales; l. Respetar los derechos de los usuarios de telecomunicaciones y atender sus reclamaciones, según lo previsto en esta Ley. m. Proteger los derechos de los usuarios asegurando eficiencia, igualdad, continuidad, calidad, mayor y mejor cobertura, mayor y mejor información, y más y mejores alternativas en la prestación de los servicios. n. Atender y resolver las quejas y controversias presentadas por sus clientes, usuarios u otros operadores o proveedores de manera eficiente, eficaz y oportuna, las cuales deberán ser debidamente documentadas. a.
+
+________________________________________________________
+T +506 4000-0000 F +506 2215-6821 800-88-SUTEL 800-88-78835 Apartado 151-1200 San José ­ Costa Rica
+
+RCS-115-2015
+gestiondocumental@sutel.go.cr
+
+Página 11 de 15
+
+o.
+
+Disponer de centros de telegestión que permitan la atención oportuna y eficaz de solicitudes de información, trámites y reclamaciones de los derechos de los usuarios. p. Adoptar las medidas necesarias para garantizar la privacidad de las telecomunicaciones. q. Respetar el Régimen de Competencia en Telecomunicaciones y solicitar la autorización de la SUTEL, de previo a realizar una concentración, en los términos que define el artículo 56 de la Ley General de Telecomunicaciones. r. Cumplir y asegurar parámetros o condiciones mínimas de calidad en los servicios a brindar. s. Suministrar a la SUTEL, en el plazo requerido, los informes y documentación fidedigna concerniente a la actividad que presta; con las condiciones y la periodicidad que ésta indique y 

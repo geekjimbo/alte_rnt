@@ -1,0 +1,55 @@
+<div class="row">
+ <%= form_for @sancion do |f| %>
+     <div>
+
+      <% if @sancion.errors.any? %>
+        <div id="error_explanation">
+          <h2>El Asiento no puede ser grabado </h2>
+
+          <ul>
+          <% @sancion.errors.full_messages.each do |msg| %>
+            <li><%= msg %></li>
+          <% end %>
+          </ul>
+        </div>
+      <% end %>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">La Sanción </div>
+          <div class="panel-body">
+              <div class="col-md-4">
+                <div class="form-group">
+                  <%= f.label :tipo_sancion, "Tipo Sanción" %>
+                  <%= f.collection_select :tipo_sancion, @tipo_sancion, :tipo_sancion,:tipo_sancion,  class: 'form-control'%>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                  <%= f.label :nota, "Nota" %>
+                  <%= f.text_area :nota, :rows=>"3"%>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      <%= f.fields_for(:asiento) do |asiento_f| %>
+        <% render partial: 'shared/asiento', :locals => {:asiento_f => asiento_f, :clase => "sancion"} %>
+      <% end %>
+
+        <div class="col-md-1 col-md-offset-7">
+          <div class="form-group">
+            <%= link_to 'Regresar', asientos_path %>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="form-group">
+            <% if action_name != 'show' %>
+              <%= f.submit 'Guardar cambios', class: "btn btn-primary" %>
+            <% end %>
+          </div>
+        </div>
+      </div>
+  <% end %>
+ </div>
+

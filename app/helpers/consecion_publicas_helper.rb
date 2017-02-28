@@ -1,0 +1,2 @@
+module ConsecionPublicasHelper
+end

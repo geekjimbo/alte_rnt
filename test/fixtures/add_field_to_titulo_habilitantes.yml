@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  auth_espectro_id: 
+  auth_espectro_type: Auth espectro
+
+two:
+  auth_espectro_id: 
+  auth_espectro_type: Auth espectro

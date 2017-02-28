@@ -1,0 +1,27 @@
+
+<% if !@recurso_numerico.nil? %> 
+  <% @recurso_numerico.each do |rn| %>
+     <tr>
+      <td><%= rn.tipo_recurso_numerico%></td>
+      <td><%= rn.rango_numeracion%></td>
+      <td><%= rn.numero_asignado%></td>
+      <td><%= rn.asiento.nombre_operador unless rn.asiento.nil? %></td>
+      <td><%= rn.asiento.nombre_operador unless rn.asiento.nil? %></td>
+      <td><%= rn.asiento.nombre_resolucion  unless rn.asiento.nil? %></td>
+      <td><%= rn.asiento.titulo_resolucion  unless rn.asiento.nil? %></td>
+      <td><%= rn.asiento.numero_resolucion  unless rn.asiento.nil? %></td>
+      <td><%= rn.asiento.fecha_resolucion  unless rn.asiento.nil? %></td>
+      <td><%= rn.asiento.fecha_solicitud  unless rn.asiento.nil? %></td>
+      <td><%= rn.asiento.vigencia  unless rn.asiento.nil? %> </td>
+      <td><%= rn.asiento.tipo_inscripcion  unless rn.asiento.nil? %></td>
+      <td><%= rn.asiento.num_asiento  unless rn.asiento.nil? %></td>
+      <td><%= rn.asiento.num_asiento_original  unless rn.asiento.nil? %></td>
+      
+      <td align="left">
+          <span class="white label"><%= link_to 'Editar', edit_recurso_numerico_path(recurso_numerico) , class: "btn-group btn-group-sm"%></span>
+          <span class="white label"><%= link_to 'Borrar', recurso_numerico, method: :delete, data: { confirm: 'Seguro(a)?' }, 
+                class: "btn-group btn-group-sm"%></span>
+      </td>
+     </tr>
+  <% end %>
+<% end %>

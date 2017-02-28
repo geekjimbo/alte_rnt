@@ -1,0 +1,8 @@
+      <div class="col-md-4">
+        <div class="form-group">
+            <%=  f.label :seleccionar_servicio %>
+            <%=  f.collection_select(:sciservicio_id, @servicios, :id, :descripcion) unless @servicios.nil?%>
+            <%=  f.hidden_field :_destroy %>
+            <a href="javascript:void(0)" onclick="remove_fields(this,'servicio_habilitado');" class="glyphicon glyphicon-minus"></a>
+        </div>
+      </div>

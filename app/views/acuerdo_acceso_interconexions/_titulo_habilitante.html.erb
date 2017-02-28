@@ -1,0 +1,28 @@
+<div class="panel panel-default">
+  <div class="panel-heading">El Título Habilitante</div>
+    <div class="panel-body">
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  f.label "Número Título" %>
+          <%=  f.text_field :numero_titulo, class: 'form-control' %>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  f.label "Fecha Título" %>
+          <%=  f.date_field :fecha_titulo, class: 'form-control', :value => Date.today %>
+        </div>
+        <div class="form-group">
+          <%=  f.label "Fecha Finalización" %>
+          <%=  f.date_field :fecha_finalizacion, class: 'form-control', :value => Date.today %>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  f.label "Causal Finalización" %>
+          <%=  f.collection_select :causal_finalizacion, TituloHabilitante::CAUSAL_FINALIZACION, :value, :label,  class: 'form-control'%>
+        </div>
+      </div>
+     </div>
+   </div>
+

@@ -1,0 +1,1296 @@
+clusiones y recomendaciones. Dicho Dictamen consta en el expediente N° GCP -CD003 -2011
+de
+
+la
+
+Gerencia
+
+de
+
+Concesiones
+
+y
+
+Permisos
+
+del
+
+Viceministerio
+
+de
+
+Telecomunicaciones para mayor abundamiento. Tal documento constituye la motivaci6n
+
+suficiente del presente acto segun se establece en el artfculo 136 de la Ley General de la
+Administracion Pdblica.
+
+POR TANTO:
+
+ACUERDAN:
+
+ARTICULO
+
+1.-
+
+Acoger
+
+la
+
+solicitud
+
+y
+
+otorgar
+
+a
+
+la
+
+empresa
+
+CLARO
+
+CR
+
+TELECOMUNICACIONES, S. A., con cudula de persona jurfdica N° 3- 101 -460479, la
+
+Concesi6n Directa de los segmentos de bandas de frecuencia de asignacion no exclusiva
+
+para el use de los siguientes 92 enlaces de microondas, de confonnidad con los terminos de las siguientes tablas dispuestas en la Resoluci6n N° RCS -099 -2012 de las 14: 15 horas del
+
+14 de MARZO de 2012, cuya numeraci6n no consecutive y contenido se transcriben
+literalmente, iniciando en la tabla N° 2, segun sigue:
+
+10;;
+
+tom 1,98(34'
+dig almente'
+
+Tabla 2
+Nombre enlace: RUR104_ E- RUR318_A Canalizacian
+
+Enlace: RUR104 E- RUR318 A
+
+F. 385 -9
+
+BW MHz 14, 00
+
+Canal
+
+21Z
+
+Sitio A
+Nombre del sitio: RUR104_ E
+
+Sitio B
+Nombre del sitio: Latitud fWGS841: RUR318_A 9,98339DD
+84,7514646
+
+Latitud ( INGS84): Lonaitud( WGS841:
+
+10,09620D0
+84,7991896
+
+Lonaitud MGS84'l:
+Potencia (dBm): Free Tx ( MHz): Frec Rx ( MHzl: EIRP fdBml: Azimut f` l: Downtilt (°l:
+Marca Eouipo:
+Modelo Eouipo:
+
+Potencia (dBm): Frec Tx ( MHz): Frec Rx ( MHzl:
+EIRP fdBm):
+
+18,00
+7606,50
+
+18. 40 7445,50 7606,50 47, 40 337,38 0,67
+ERICSSON MiniLink TN
+
+7445,50 47, 40
+157,39
+
+Azimut (' 1: Downtilt (`l:
+Marca Eouipo: Ntodelo Eouipo:
+
+0,76
+ERICSSON Minil-ink TN ERICSSON UKY 220 401SC15 31, 10
+
+Marca Antena:
+Modelo Antena:
+
+Marca Antena:
+
+ERICSSON
+
+Modelo Antena: Ganancia antena fdBil: Altura base -antena ( m): Polarizacion: Sensibilidad Rx ( dBml:
+
+UKY 220 401SC15
+31, 10 30,01)
+
+Ganancia antena ( dBil:
+Altura base -antena ( m): Polarizacion:
+Sen5ibilldadRx( dBm):
+
+57,00 V
+81
+
+v
+81
+
+Tabla 3 TablaTabla 33
+Nombre enlace: MTRO84Nombre Nombre enlace: enlace: MTRO84- MTRO78MTRO78 AA MTRO84- MTRO78 A Canalrzacibn Canalrzacibn Canalrzacibn F_ - 7 F_ 497497 -- 7 F_ 497 7
+
+Enlace: MTROB" Enlace:Enlace: MTROB" MTROB"
+
+TR078 A TR078TR078 AA
+
+BW MHz) BWBW ((MHz) ( MHz) 14, 00 14,14, 0000
+
+Canal CanalCanal
+
+1 1' 11! !! 1'1'
+
+Sitio A SitioSitio AA
+Nombre del Sitio: NombreNombre deldel Sitio: Sitio: Latitud fWGS841: LatitudLatitud fWGS841: fWGS841: Lonaitud WGS841:WGS841: LonaitudLonaitud ((WGS841: (
+Potencia dBm): PotenciaPotencia ((dBm): ( dBm): MTR084 MTR084MTR084 Nombre del sitio: NombreNombre deldel sitio: sitio:
+
+Sitio B SitioSitio BB
+MTRO78 4 MTRO78MTRO78 -- 44 -
+
+10,0094920 10,10, 00949200094920
+84,2379130 84, 23791302379130 84,
+
+Latitud fWGS84): LatitudLatitud fWGS84): fWGS84): Lonaitud WGS841. LonaitudLonaitud ((WGS841. ( WGS841.
+Potencia dBm): PotenciaPotencia ((dBm): ( dBm):
+
+9,'; 912280 9,'; 912280912280 9,';
+84, 2377810 84, 2377810 2377810 84,
+
+10.00 10. 0000 10. 12 758.00 1212 758. 0000 758.
+13 024,06 1313 024, 0606 024,
+
+11), 00 11), 0000 11),
+
+Frec Tx MHzl: FrecFrec TxTx ((MHzl: ( MHzl:
+Frec Rx fMHzl: FrecFrec RxRx fMHzl:fMHzl: EIRP dBm): EIRPEIRP (( dBm): ( dBm): Azimut AzimutAzimut `` ` l: l: l:
+
+Frec Tx MHzl: FrecFrec TxTx fff MHzl: MHzl:
+Frec Rx MHz). FrecFrec RxRx (( MHz). ( MHz). EIRP dBm): EIRPEIRP (( dBm): ( dBm):
+
+13 024, 0,^ 1313 024, 0,^ 024, 0,^
+12 758.00 1212 758. 0000 758.
+24,30 24,24, 3030
+
+24, 30 24,24, 3030
+
+179,59 179,179, 5959
+0, 74 0,0, 7474 Ericsson EricssonEricsson
+
+Azimut AzimutAzimut ('(' 1:1: (' 1: Dovmtilt `): Dovmtilt Dovmtilt fff`): `):
+
+359,59 359, 5959 359, 0.73 0.0. 7373 Ericsson EricssonEricsson MiniLink TNTN MiniLink MiniLink --TN ERICSSON ERICSSONERICSSON
+UKY 220 421SC15 UKYUKY 220220 421SC15421SC15
+
+Downtilt l: DowntiltDowntilt fff```l: l:
+Marca Ertuipo: MarcaMarca Ertuipo: Ertuipo:
+
+Tylarca Eouipo: TylarcaTylarca Eouipo:Eouipo:
+Modelo Eouipo: ModeloModelo Eouipo: Eouipo: Marca Antena:. MarcaMarca Antena:. Antena:. Modelo Antena: ModeloModelo Antena:Antena:
+
+Modelo Eouipo: ModeloModelo Eouipo:Eouipo:
+Marca Antena: MarcaMarca Antena: Antena:
+
+Minil-ink -- TN MinilMinil- inkink TN - TN
+ERICSSON ERICSSONERICSSON
+
+Modelo Antena: ModeloModelo Antena: Antena: Ganancia antena dBi): GananciaGanancia antenaantena (( dBi): ( dBi):
+Altura base antenaantena (( m): AlturaAltura basebase -antena m): ( m): Polarizacion: Polarizacion:Polarizacion:
+
+UKY 220 42) SC15 UKYUKY 220220 42) SC15SC15 42) 36,00 36,36, 0000
+18, 40 18,18, 4040 v vv
+
+Ganancia antena 0151): GananciaGanancia antenaantena 0151): 0151):
+Altura base- antenaantena (( ml: AlturaAltura basebase- antena ml: ( ml: Polarizacion: Polarizacion:Polarizacion:
+
+36,00 36,36, 0000
+
+18, 00 18,18, 0000 V VV
+81 8181
+
+Sensibilidad Rx dBm): SensibilidadSensibilidad RxRx ((dBm): ( dBm):
+
+81 8181
+
+Sensibilidad Rx dBml:dBml: SensibilidadSensibilidad RxRx ((dBml: (
+
+digitalmente digitalmentedigitalmente
+
+Tabla
+
+4
+
+Enlace:
+
+RUR704 D- RUR075 A
+
+Nombre enlace:
+
+RUR704_D- RUR075_A
+Canalizaci6n BW (MHz)
+
+Canal 3 / 3'
+
+F.497 -7
+
+14,00
+
+Sitio A
+Nombre del sitio:
+Latitud ( WGS84):
+
+Sitio B
+Nombre del sitio:
+Latitud ( WGS84):
+
+RUR704_ D
+10, 6174000
+
+RUR075_ A 10, 5984000
+85, 5218280
+
+Longitud ( WGS84):
+Potencia ( dBm): Free Tx ( MHz):
+Frec Rx ( MHz):
+
+85, 4706500
+12, 00
+
+Longitud ( WGS84): Potencia ( dBm): Frec Tx ( MHz):
+Frec Rx ( MHz): EIRP ( dBm):
+
+12, 00
+
+12 786, 00
+13 052, 00
+
+13 052, 00
+12 786, 00 46,30
+
+EIRP ( dBm):
+Azimut ( °):
+
+46, 30 249, 30 0,43
+Ericsson
+
+Azimut ( °):
+Downtilt ( °):
+
+69,31
+0, 39
+Ericsson MiniLink TN
+
+Downtilt C
+Marca Euuioo: Modelo Equipo: Marca Antena:
+Modelo Antena:
+
+Marca E4nln0: Modelo Eauioo: Marca Antena:
+Modelo Antena:
+
+Minil-ink TN
+ERICSSON
+
+ERICSSON UKY 22042/ SC15
+36,00
+
+UKY 22042/ SC15 36, 00 37, 00
+V
+
+Ganancia antena ( dBi): Alttu·a base -antena ( in):
+Polarizaci6n:
+
+Ganancia antena ( dBi):
+
+Altura base -antena ( m):
+Polarizaci6n: Sensibilidad Rx ( d13m):
+
+18, 00 V
+81
+
+Sensibilidad Rx ( dBm):
+
+81
+
+Tabla TablaTabla Nombre enlace: NombreNombre enlace:enlace:
+
+5 55
+
+Enlace: Enlace: Enlace:
+
+RUR206 A- RUR419 A RUR206RUR206 A- RUR419RUR419 AA A-
+
+RUR206_A- RUR419_ RUR206_ RUR206_ A- RUR419_ AA ARUR419_ A
+Canalizaci6n Canalizaci6nCanalizaci6n F.497 77 F. 497497 --7 F. BW MHz) BWBW (( MHz) ( MHz)
+14, 00 14,14, 0000
+Canal CanalCanal 111/ // 1' 1'1'
+
+Sitio A
+Nombre del sitio:
+Latitud ( WGS84): Longitud ( WGS84): Potencia ( dBm):
+
+Sitio B
+Nombre del sitio: Latitud ( WGS84):
+Longitud ( WGS84): Potencia ( dBm): Frec Tx ( MHz):
+
+RUR206_ A 10, 0953470
+
+RUR419_ A 10, 0569440 84, 7345830 3, 00
+12 758, 00 13 024,00
+
+84,7305470
+3, 00 13 024,00
+
+Frec Tx ( M H z): Frec Rx ( MHz):
+EIRP ( dBm): Azimut ( °):
+
+12 758, 00
+37, 30
+
+Frec Rx ( MHz): EIRP ( dBm): Azimut ( °): Downtilt ( °):
+
+37, 30
+
+185, 91
+2, 48 Ericsson
+MiniLink TN
+
+5, 91
+2, 45 Ericsson Mini Link TN ERICSSON UKY 22042/ SC15
+
+Downtilt ( °): Marca Eauioo:
+
+Marca Eouiuo:
+Modelo EQUiPO: Marca Antena: Modelo Antena:
+
+Modelo Equioo:
+Marca Antena:
+Modelo Antena:
+
+ERICSSON UKY 22042/ SC15 36,00 50,00 V
+81
+
+Ganancia antena ( dBi): Altura base -antena ( m):
+Polarizaci6n: Sensibilidad Rx ( dBm):
+
+Ganancia antena ( dBi):
+Altum base- antena ( m):
+Polarizaci6n: Sensibilidad Rx ( dBm):
+
+36,00
+50,00 V
+81
+
+fir rtrt dc. firfir ``rt dc.dc. `
+d gllalrnente dd gllalrnente gllalrnente
+
+Tabla
+oo
+
+6
+
+Enlace:
+
+RUR288- RUR209 C
+
+Nombre enlace:
+
+RUR288- RUR209_ C
+Canalizaci6n
+BW (MHz)
+
+Canal
+
+F.385 -9
+
+14, 00
+
+6 / 6'
+
+Sitio A
+Nombre del sitio: RUR288 Nombre del sitio: latitud (WGS84):
+
+Sitio B
+RUR209_C 10,5541690 84, 6534080
+
+latitud (WGS84): Lonaithtd ( WGS84): Potencia ( dBm):
+Free Tx ( MHz):
+
+10, 6213610 84,5295280 10, 00
+7501, 50
+
+Longitud ( WGS84):
+Potencia ( dBm):
+Free Tx ( MHz):
+
+10,00
+7662,50
+
+Free Rx ( MHz): EIRP ( dBm):
+Azimut ( °):
+
+7662,50
+45, 60 241, 10
+
+Free Rx ( MHz): EIRP ( dBm):
+Azimut ( °):
+
+7501, 50 45, 60 61, 12 0, 57 ERICSSON MiniLink TN ERICSSON UKY 210 40 /SC 15 37, 30 57, 00
+V 81
+
+Downtilt ( °): Marca Equipo: Modelo Equipo:
+
+0,47
+ERICSSON
+MiniLink TN
+
+Downtilt ( °):
+
+Marca Equipo:
+Modelo Equipo: Marca Antena:
+
+Marca Antena:
+Modelo Antena:
+
+ERICSSON
+
+UKY 21040 / SC15
+37, 30
+
+Modelo Antena:
+
+Ganancia antena ( dBi): Altura base -antena ( m):
+Polarizaci6w Sensibilidad Rx ( dBm):
+
+Ganancia antena ( dBi): Altura base- antena ( m):
+Polarizaci6n: .
+
+57, 00
+V 81
+
+Sensibilidad Rx ( dBm):
+
+Tabla TablaTabla
+ol olol
+
+7 77
+
+Enlace: Enlace: Enlace:
+
+RPT015 C- RUR123 B RPT015RPT015 C- RUR123RUR123 BB C-
+
+Nombre enlace: NombreNombre enlace:enlace:
+
+RPT015_ C- RUR123_ RPT015_ RPT015_ C- RUR123_B CRUR123_ BB
+Canalizaci6n Canalizaci6nCanalizaci6n
+BW MHz) BWBW ((MHz) ( MHz) Canal CanalCanal
+
+F.385 99 F.F. 385385 --9 -
+
+14,00 14,14, 0000
+
+9/ 9, 9/9/ 9,9,
+
+Sitio A
+Nombre del sitio: latitud ( WGS84):
+Longitud ( WGS84):
+
+Sitio B
+Nombre del sitio:
+Latitud ( WGS84): Longitud ( WGS84): Potencia ( dBm): Free Tx ( MHz):
+Free Rx ( MHz): EIRP ( dBm):
+
+RPT015 C 10, 3000800
+84, 8045300
+27, 00 7543, 50 7 704, 50
+
+RUR123_ B 10; 1868920 85, 1127640 27, 00 7704, 50 7543, 50 62,60
+
+Potencia ( di3m): Free Tx ( MHz): Free Rx ( MHz):
+
+EIRP ( dBm):
+Azimut ( °):
+
+56, 40
+
+249, 51
+2, 45 ERICSSON MiniLink TN ERICSSON
+
+Azimut ( °): Downtilt ( °):
+
+69,56
+2, 20 ERICSSON
+MiniLink TN
+
+Downtilt M;
+Marca Eauipo: Modelo Equipo:
+Marca Antena: Modelo Antena:
+
+Marca Eauipo:
+Modelo Equipo: Marca Antena:
+Modelo Antena:
+
+ERICSSON UKY 21040/ SC15
+37, 30 60,00 H
+
+UKY 22040/ SC15 31, 10
+60, 00 H 81
+
+Ganancia antena ( dBi): Altura base- antena ( m):
+Polarizaci6n:
+
+Ganancia antena ( dBi):
+Altura base- antena ( m): Polari-aci6n: / Sensibilidad Rx ( dBm):
+
+Sensibilidad Rx ( dBm):
+
+81
+
+13 1313
+
+ail ailai( l (( F
+
+dc dcdc XXX
+
+digltalmente digltalmentedigltalmente
+
+Tabla
+
+8
+
+Enlace:
+
+RUR405 A- RUR343 B
+
+Nombre enlace:
+
+RUR405_A- RUR343_B
+Canalizaci6n BW (MHz) 14,00 Canal
+
+F.385 -9
+
+6 / 6'
+
+Sitio A
+Nombre del sitio: RUR405_ A Nombre del sitio:
+
+Sitio B
+RUR343_ B
+
+1ititud (WGS84): Loneitud ( WGS84):
+Potencia ( dBm):
+
+10, 1057500 85, 2963330
+
+Latitud (WGS84):
+
+10, 1995560
+85, 4294440
+
+Lonkjtud ( WGS84):
+Potencia ( dBm):
+
+19, 00
+7 662, 50 7501, 50 48, 40 305, 59
+
+19, 00
+7501, 50 7662,50
+
+Frcc Tx ( MHz):
+Frec Rx ( MHz):
+
+Frec Tx ( MHz): Frec Rx ( MHz):
+
+EIRP ( dBm): Azimut ( °): Downtilt ( °):
+Marca Equipo:
+
+EIRP ( dBm):
+Azimut ( °):
+
+54, 60 125, 61
+
+0,03
+ERICSSON
+Mini Link TN ERICSSON
+
+Downtilt ( °):
+
+0,09
+ERICSSON
+
+Marca Equipo:
+Modelo Equipo: Marca Antena: Modelo Antena:
+
+Modelo Equipo: Marea Antena: Modelo Antena: Ganancia antena ( dBi): Altura base -antena ( m):
+
+Minil-ink TN ERICSSON UKY 210 40/ SC15
+37, 30
+
+UKY 220 40 /SC 15
+31, 10 50,00 V 81
+
+Ganancia antena ( dBi): Altura base -antena ( m):
+Polarizaci6n:
+
+60,00
+V 81
+
+Polarimcik:
+Sensibilidad Rx ( dBm):
+
+Sensibilidad Rx ( dBm):
+
+Tabla TablaTabla
+
+9 99
+
+Enlace: Enlace: Enlace:
+
+BBR009 C- RUR727 BBR009BBR009 C- RUR727RUR727 C-
+
+Nombre enlace: NombreNombre enlace:enlace:
+
+BBR009_C- RUR727RUR727 BBR009_ BBR009_ C- RUR727 CCanalizaci6n Canalizaci6nCanalizaci6n
+
+BW MHz) BWBW (( MHz) ( MHz) 14, 00 14,14, 0000
+
+Canal CanalCanal
+
+F.385 99 F. 385385 --9 F. -
+
+5 5' 55/ // 5'5'
+
+Sitio A
+Nombre del sitio: Utitud (WGS84): BBR009_C
+10, 1194690 85, 6279190 17, 00
+7648,50
+
+Sitio B
+Nombre del sitio: Latitud ( WGS84): RUR727
+
+10, 1832200 85, 7969400
+17, 00 7487,50 7648,50
+52, 60 110,98
+
+Longitud ( WGS84):
+Potencia ( dBm): Frec Tx ( MHz): Frec Rx ( MHz): EIRP ( dBm):
+Azimut ( °):
+
+Longitud ( WGS84):
+Potencia 013m):
+Frec Tx ( MHz) : Frec Rx ( MHz):
+EIRP ( dBm):
+
+7487,50
+
+46,40
+290,95 2, 73 ERICSSON
+
+Azimut ( °): Downtilt ( °):
+
+Downtilt ( °): Marca Equipo: Modelo Equipo: Marca Antena: Modelo Antena: Ganancia antena ( dBi):
+
+2, 60
+ERICSSON MiniUnk TN
+
+Marca Equipo:
+
+MiniLink TN
+ERICSSON UKY 22040/ SC15 31, 10
+
+Modelo Equipo: Marca Antena:
+Modelo Antena:
+
+ERICSSON
+
+UKY 21040 / SC15
+37, 30 40,00
+V
+
+Ganancia antena ( dBi):
+Altura base antena ( m):
+
+Altura base -antena ( m):
+Polarizaci6n:
+
+50,00
+V
+
+Polarizaci6n:
+Sensibilidad Rx ( dBm):
+
+Sensibilidad Rx ( dBm):
+
+81
+
+81
+
+14 1414
+rrs- dcs; rrsrrsdcs; dcs; dlgltalmente' dlgltalmente'dlgltalmente'
+
+Tabla Nombre enlace:
+
+10
+
+Enlace:
+
+BBR009 C -TSCru
+
+BBR009_C -TSCru
+Canalizaci6n BW ( MHz) 14, 00
+Canal
+
+F.385 -9
+
+7 / 7'
+
+Sitio A
+Nombre del sitio:
+Latitud ( WGS84):
+
+Sitio B
+Nombre del sitio: Latitud ( WGS84):
+TSCru
+
+BBR009 C
+10, 1194690 85, 6279190 17, 00
+
+10, 2597280
+85, 5848770
+
+Lont: itud ( WGS84):
+Potencia ( dBm):
+
+Wigitud (WGS84):
+Potencia ( dBm):
+
+17, 00
+7515, 50
+
+Frec Tx ( MHz):
+Frec Rx ( MHz):
+EIRP ( dBm):
+
+7676,50
+7515, 50 46,40
+
+Frec Tx ( MHz): Frec Rx ( MHz):
+
+7676, 50
+52, 60 196, 80 3, 09 ERICSSON MiniLink TN
+ERICSSON
+
+EIRP ( dBm):
+Azimut ( °):
+
+Azimut ( °):
+Downtilt ( °):
+
+16, 81 3, 20
+ERICSSON
+
+Downtilt ( °): Marca Equipo: Modelo Equipo:
+
+Marca Equivo: Modelo EQUipo: Marca Antena:
+Modelo Antena:
+
+Mini Link TN ERICSSON
+
+Marca Antena:
+Modelo Antena:
+
+UKY 22040/ SC15
+31, 10
+
+UKY 21040 /SC15
+37, 30 12, 00
+V
+
+Ganancia antena ( dBi):
+
+Ganancia antena ( dBi):
+Altura base -antena ( m): Polarizaci6n: Sensibilidad Rx ( dBm):
+
+Altura base -antena ( in):
+Polarimcibn:
+
+42,00
+V
+
+Sensibilidad Rx ( dBm):
+
+81
+
+81
+
+Tabla TablaTabla
+
+11 1111
+
+Enlace: Enlace: Enlace:
+
+BBR009 C- RUR214 B BBR009BBR009 C-C- RUR214 RUR214 BB
+
+Nombre enlace: NombreNombre enlace:enlace:
+
+BBR009_C- RUR214_ BBR009_ BBR009_ C- RUR214_B CRUR214_ BB
+Canalizaci6n Canalizaci6nCanalizaci6n BW MHz) BWBW ((MHz) ( MHz)
+
+Canal CanalCanal 111/ // 1' 1'1'
+
+F.385 99 F. 385385 --9 F. -
+
+14, 00 14,14, 0000
+
+Sitio A
+Nombre del sitio: Latitud ( WGS84):
+Longitud ( WGS84):
+
+Sitio B
+Nombre del sitio:
+Latitud ( WGS84):
+Longitud ( WGS84):
+
+BBR009_ C
+
+RUR214_ B
+
+10, 1 194690
+85, 6279190
+16, 00 7592, 50
+7431, 50
+
+9, 9686940 85, 6492580
+16, 00
+7431, 50
+
+Potencia ( dBm): Frec Tx ( MHz):
+Frec Rx ( MHz): EIRP 013m): Azimut ( °):
+
+Potencia ( dBm):
+Frec Tx ( MHz):
+
+Frec Rx ( MHz): EIRP ( dBm):
+Azimut ( °): Downtilt ( °):
+
+7592,50
+
+45, 40
+187, 93
+
+51, 60
+7, 94
+
+Downtilt ( °): Marca Equipo:
+
+3, 22 ERICSSON MiniLink TN ERICSSON UKY 22040/ SC15
+
+3, 10
+ERICSSON MiniUnk TN ERICSSON UKY 21040 / SC 15 37, 30
+
+Marca Equipo: Modelo Equipo: Marca Antena:
+Modelo Antena:
+
+Modelo Equivo:
+Marca Antena: Modelo Antena:
+
+Ganancia antena ( dBi): Altura base -antena ( m):
+Polarizaci6n: Sensibilidad Rx ( dBm):
+
+31, 10
+60, 00 V 81
+
+Ganancia antena ( dBi):
+
+Altum base- antena ( m):
+Polarizaci6n:
+
+30,00
+V 81
+
+Sensibilidad Rx ( dBm):
+
+15 1515
+X, X,X,
+
+fir firfir
+
+ttt cicscics cics dlgltalmente dlgltalmentedlgltalmente
+
+Tabla Nombre enlace:
+RPT001_ B- RUR385_ A Canalizaci6n
+
+12
+
+Enlace:
+
+RPT001_ B- RUR385_ A
+
+BW (MHz)
+
+Canal
+
+F.385 -9
+
+14, 00
+
+1/
+
+l'
+
+Sitio A
+Nombre del sitio: Latitud ( WGS84): ' Longitud ( WGS84): Potencia ( dBm): Free Tx ( MHz):
+Frec Rx ( MHz): EIRP ( dBm): RPT001 B Nombre del sitio: I ititud ( WGS84):
+
+Sitio B
+RUR385_ A
+9, 8770400
+
+9, 8839610 85, 3809000 14, 00
+7431, 50 7592, 50
+
+Longitud ( WGS84):
+Potencia ( dBm):
+Frec Tx ( MHz):
+
+85, 5099000 14, 00 7592,50
+7431, 50
+
+Frec Rx ( MHz):
+EIRP ( dBm): Azimut ( °): Downtilt ( °):
+Marca Equipo:
+
+43,40
+266, 87 2, 40
+ERICSSON Mini Link TN
+
+49,60 86,89
+2, 30 ERICSSON MiniLink TN
+ERICSSON
+
+Azimut ( °):
+Downtilt ( °): Marca Equipo: Modelo Equipo:
+
+Modelo Equipo:
+Marca Antena:
+
+Marca Antena:
+Modelo Antena: Ganancia antena ( dBi):
+
+ERICSSON
+UKY 220 40 / SC 15 31, 10
+
+Modelo Antena:
+Ganancia antena ( dBi): Altura base -antena ( m): Polarizaci6n: Sensibilidad Rx ( dBm):
+
+UKY 210 40 /SC 15 37, 30 30,00 V 81
+
+Altura base -antena ( m):
+Polarimci6w Sensibilidad Rx ( dBm):
+
+60,00
+V
+
+81
+
+Tabla TablaTabla Nombre enlace: NombreNombre enlace:enlace:
+RUR100_A- RUR609_ RUR100_ RUR100_ A- RUR609_B ARUR609_ BB Canalizaci6n Canalizaci6n Canalizaci6n
+
+13 1313
+
+Enlace: Enlace: Enlace:
+
+RUR100_A- RUR609_ RUR100_ RUR100_ A- RUR609_B ARUR609_ BB
+
+BW MHz) BWBW ((MHz) ( MHz)
+
+Canal CanalCanal 3 3' 33/ // 3'3'
+
+F. 385 99 F.F. 385385 --9 -
+
+14, 00 14,14, 0000
+
+Sitio A
+Nombre del sitio: Latitud ( WGS84): Louitud (WGS84): Potencia ( dBm): Frec Tx ( MHz):
+Frec Rx ( MHz): EIRP ( dBm): Azimut ( °):
+
+Sitio B
+Nombre del sitio:
+Latitud ( WGS84): Longitud ( WGS84): Potencia ( dBm): Frec Tx ( MHz): Frec Rx ( MHz): EIRP ( dBm): Azimut ( °): Downtilt ( °): Marca Equipo: Modelo Equipo:
+
+RUR100_ A
+10, 3598500
+
+RUR609_ B 10, 2498060
+83, 7780830
+14, 00
+
+83, 7328600 14, 00
+7620, 50
+7459,50
+
+7459,50
+7620,50
+
+43, 40 202, 01 0, 42 ERICSSON MiniLink TN ERICSSON
+
+49,60
+22, 02 0, 50 ERICSSON
+Minilink TN
+
+Downtilt ( °):
+
+Marca Equipo:
+Modelo Equipo: Marca Antena:
+Modelo Antena:
+
+Marca Antena: Modelo Antena: Ganancia antena ( dBi): Altura base- antena ( m):
+Polarizaci6n:
+
+ERICSSON
+
+UKY 22040/ SC15 31, 10
+57, 00 V 81
+
+UKY 21040/SC15 37, 30 57,00
+V
+
+Ganancia antena ( dBi):
+Altura base -antena ( m): Polarizacift Sensibilidad Rx ( dBm):
+
+Sensibilidad Rx ( dBm):
+
+81
+
+16 1616
+
+dtg telm nte dtgdtg telmtelm ntente
+
+Tabla Nombre enlace:
+
+14
+
+Enlace:
+
+RUR310- RUR021 A
+
+RUR310- RUR021_A
+Canalizaci6n
+
+BW (MHz) 14, 00
+
+Canal 2 / 2'
+
+F. 385 -9
+
+Sitio A
+Nombre del sitio:
+I- ttitud ( WGS84): Longitud ( WGS84): Potencia ( dBm): Frec Tx ( MHz): Frec Rx ( MHz): RUR310 10, 3536200 84, 2764500 Nombre del sitio: Latitud ( WGS84):
+
+Sitio B
+RUR02I_ A
+
+10, 5100190 84, 2467770 10, 00
+
+Longitud ( WGS84):
+Potencia ( dBm): Free Tx ( MHz): Frec Rx ( MHz): F, RP ( dBm): 1
+Azimut ( °): Downtilt ( °):
+
+10, 00
+7606,50
+7445,50
+
+7445,50
+7606,50
+
+EIRP ( dBm):
+Azimut ( °): Downtilt ( °): Marca Ettuipo:
+
+39, 40 10, 57
+1, 17
+
+45, 60
+
+190,57
+1, 05 ERICSSON
+
+ERICSSON MiniLink TN
+ERICSSON
+
+Marca Euuipo:
+Modelo Eauipo:
+
+Modelo Eauipo:
+Marca Antena: Modelo Antena:
+
+Minil ink TN
+ERICSSON
+
+Marca Antena:
+
+UKY 220 40 /SC 15 31, 10 50,00
+H 81
+
+Modelo Antena:
+Ganancia antena ( dBi): Altura base -antena ( m): Polarizaci6n:
+Sensibilidad Rx ( dBm):
+
+UKY 21040/SC15 37, 30 50,00 H 81
+
+Ganancia antena ( dBi): Altura base -antena ( in):
+Polarimci6n:
+
+Sensibilidad Rx ( dBm):
+
+Tabla TablaTabla Nombre enlace: NombreNombre enlace:enlace: RUR290- RUR155_ RUR290RUR290- RUR155_ CC RUR155_ C
+Canalizaci6n Canalizaci6nCanalizaci6n
+
+15 1515
+
+Enlace: Enlace: Enlace:
+
+RUR290- RUR155 C RUR290-RUR290- RUR155RUR155 CC
+
+BW MHz) BWBW ((MHz) ( MHz)
+
+Canal CanalCanal
+
+F.385 99 F. 385385 --9 F. -
+
+14, 00 14,14, 0000
+
+2 2' 22/ // 2'2'
+
+Sitio A
+Nombre del sitio:
+Latitud ( WGS84):
+
+Sitio B
+Nombre del sitio:
+Latitud ( WGS84):
+
+RUR290 10, 5177900 85, 6466700 10, 00
+
+RUR 155_ C
+10,5638100 85, 5883100 10, 00 7445, 50 7606, 50 45, 60
+
+Longitud ( WGS84): Potencia ( dBm): Frec Tx ( MHz): Frec Rx ( MHz):
+EIRP ( dBtn): Azimut ( °):
+
+Longitud ( WGS84): Potencia ( dBm): Frec Tx ( MHz): Frec Rx ( MHz):
+EIRP ( dBm):
+
+7606,50
+7445,50
+
+39,40 51, 27 0, 14
+ERICSSON
+
+Azimut ( °):
+
+231, 26
+0,08 ERICSSON
+MiniLink TN
+
+Downtilt M.,
+Marca Eauipo: Modelo Eauipo: Marca Antena:
+Modelo Antena:
+
+Downtilt ( °):
+Marca Eauipo:
+
+MiniLink TN
+ERICSSON
+
+Modelo Eauipo: Marca Antena:
+Modelo Antena:
+
+ERICSSON UKY 210 40 /SC 15
+
+UKY 22040 / SC 15
+31, 10 57, 00
+H
+
+Ganancia antena ( dBi):
+
+Ganancia antena ( dBi):
+Altura base -antena ( m):
+Polarizaci6n:
+
+37, 30
+57,00 H 81
+
+Altura base -antena ( m):
+Polarizaci6n:
+
+Sensibilidad Rx ( dBm):
+
+81
+
+Sensibilidad Rx ( dBm):
+
+17 ;^ 1717 ;^ ;^
+
+dig atmenEe' digdig atmenEe'atmenEe'
+
+Tabla Nombreenlace:
+
+17
+
+Enlace:
+
+RPT001 B- RUR235 D
+
+RPT001_B- RUR235_D
+Canalizaci6n
+
+BW ( MHz) 14, 00
+
+Canal
+
+F. 385 -9
+
+4/
+
+4'
+
+Sitio A Nombre del sitio:
+Latitud (WGS84): RPT001 B 9,8839610
+
+Sitio B
+Nombre del sitio:
+Latitud (WGS84): Lon gitud (WGS84)--
+
+RUR235 D
+
+9, 8655830
+85, 4785000 20, 00
+
+Longitud ( WGS84): Potencia ( dam):
+
+85, 3809000 20, 00
+
+Potencia ( dBm):
+Frec Tx ( MHz),
+Frec Rx ( MHz):
+
+Frec Tx ( MHz), Frec Rx ( MHz).
+
+7473, 50 7634,50
+
+634, 50 7473,50
+
+EIRP ( dBm),
+Azimut f °):
+Downtilt ( Marca Eaulao: Modelo Eouino: MarcaAntena:
+
+EIRP ( dBm): 259, 17
+2, 96 ERICSSON
+MiniLink TN ERI

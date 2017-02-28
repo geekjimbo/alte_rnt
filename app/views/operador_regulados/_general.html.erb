@@ -1,0 +1,10 @@
+
+  <% @operador_regulados.each do |op| %>
+     <tr>
+      <td><%= op.identificacion%></td> 
+      <td><%= op.nombre%></td>
+      <td><%= op.nombre_representante_legal%></td>
+      <td><%= op.cedula_representante_legal%></td>
+      <td><%= op.codigo_operador%></td>
+     </tr>
+  <% end %>

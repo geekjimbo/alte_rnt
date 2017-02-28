@@ -1,0 +1,23 @@
+<header class="navbar navbar-fixed-top navbar-inverse">
+  <div class="container">
+    <nav>
+    <a href="http://www.sutel.go.cr/">
+      <img src="http://sutel.go.cr/sites/all/themes/sutel/logo.png" />
+    </a>
+      <ul class="nav navbar-nav navbar-right">
+        <li><%= link_to "Inicio",     root_path %></li>
+        <li><%= link_to "Ayuda",     help_path %></li>
+        <% if logged_in? %>
+          <li><%= link_to "Crear Asientos", asientos_create_path %> </li>
+          <li><%= link_to "Listar Asientos", asientos_path %> </li>
+          <li><%= link_to "Anatext", asientos_new_path %> </li>
+          <li><%= link_to "Perfil", current_user %> </li>
+          <li><%= link_to "Editar", edit_user_path(current_user) %> </li>
+          <li> <%= link_to "Salir", logout_path, method: "delete" %> </li>
+        <% else %>
+          <li><%= link_to "Entrar",     login_path %></li>
+        <% end %>
+      </ul>
+    </nav>
+  </div>
+</header>

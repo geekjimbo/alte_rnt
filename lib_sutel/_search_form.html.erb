@@ -1,0 +1,18 @@
+<%= form_tag asientos_path, :method => 'get' do %>
+  <div class="col-md-4">
+    <div class="form-group">
+      <%= collection_select :campo_busqueda, :etiqueta_busqueda, Asiento::CAMPOS_BUSQUEDA, :value, :label,  class: 'form-control'%>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="form-group">
+      <%=  hidden_field_tag :sort, params[:sort] %>
+      <%=  text_field_tag :search, params[:search] %>
+    </div>
+  </div>
+  <div class="col-md-2">
+    <div class="form-group">
+      <%=  submit_tag "Buscar", :name => nil %>
+    </div>
+  </div>
+<% end %>

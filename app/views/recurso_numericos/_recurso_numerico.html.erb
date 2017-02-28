@@ -1,0 +1,25 @@
+<div class="panel panel-default">
+  <div class="panel-heading">El Recurso de Numeración</div>
+    <div class="panel-body">
+        <div class="col-md-4">
+          <div class="form-group">
+            <%= f.label "Rango de Numeración" %>
+            <%= f.text_field :rango_numeracion, class: 'form-control'%>
+          </div>
+          <div class="form-group">
+            <%= f.label :numero_asignado %>
+            <%= f.text_field :numero_asignado, class: 'form-control'%>
+          </div>
+        </div>
+        <div class="col-md-8">
+          <div class="form-group">
+            <%= f.label "Tipo Recurso Numérico" %>
+            <%= f.collection_select :tipo_recurso_numerico, RecursoNumerico::TIPO_RECURSO, :value, :label,  class: 'form-control'%>
+          </div>
+          <div class="form-group">
+            <%= f.label :nota %>
+            <%= f.text_area :nota, :rows=>"3"%>
+          </div>
+        </div>
+      </div>
+  </div>

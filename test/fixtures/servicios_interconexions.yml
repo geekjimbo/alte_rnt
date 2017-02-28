@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  precio_interconexion: 9.99
+  acuerdo_acceso_interconexions_id: 
+  sci_servicios_id: 
+
+two:
+  precio_interconexion: 9.99
+  acuerdo_acceso_interconexions_id: 
+  sci_servicios_id: 

@@ -1,0 +1,2 @@
+module ConsecionAnteriorsHelper
+end

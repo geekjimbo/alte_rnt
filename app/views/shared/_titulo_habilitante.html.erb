@@ -1,0 +1,45 @@
+<div class="panel panel-default">
+  <div class="panel-heading">El Título Habilitante</div>
+    <div class="panel-body">
+      <div class="col-md-4">
+        <div class="form-group">
+          <%= f.hidden_field :id %>
+          <%=  f.label "Número Título" %>
+          <%=  f.text_field :numero_titulo, class: 'form-control' %>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  f.label "Fecha Título" %>
+          <%=  f.date_field :fecha_titulo, class: 'form-control' %>
+        </div>
+        <% if clase != "consecion_anterior" %>
+          <div class="form-group">
+            <%=  f.label "Fecha Notificación" %>
+            <%=  f.date_field :fecha_notificacion, class: 'form-control'%>
+          </div>
+        <% end %>
+      </div>
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  f.label "Causal Finalización" %>
+          <%=  f.collection_select :causal_finalizacion, TituloHabilitante::CAUSAL_FINALIZACION, :value, :label,  class: 'form-control'%>
+        </div>
+      </div>
+     </div>
+   </div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">Servicios Habilitados</div>
+    <div class="panel-body">
+        <% f.object.servicio_habilitados.each do |servicio_habilitado| %>
+          <%= f.fields_for "servicio_habilitados", servicio_habilitado  do |builder| %>
+              <%= render partial: 'shared/servicios_habilitados', :locals => {:f => builder} %>
+          <% end %>
+        <% end %>
+        <div class="form-group">
+          <p><%= link_to_add_fields "Agregar Servicio", f, :servicio_habilitados %> </p>
+        </div>
+  </div>
+</div>
+

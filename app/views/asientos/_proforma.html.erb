@@ -1,0 +1,67 @@
+<div class="panel panel-default">
+  <div class="panel-heading">Proyección del Asiento</div>
+    <div class="panel-body">
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  asiento_f.label "Acto Inscribible" %>
+          <%=  asiento_f.select :acto_inscribible, @tipo_tramite_hash.map{|v| [v[1], v[0]]}%>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  asiento_f.label "Numero de Acuerdo Ejecutivo"%>
+          <%=  asiento_f.select :numero_resolucion, @numero_resolucion_hash.map{|v| [v[1], v[0]]}%>
+        </div>
+        <div class="form-group">
+          <%=  asiento_f.label "Título de Acuerdo Ejecutivo" %>
+          <%=  asiento_f.select :titulo_resolucion, @titulo_resolucion_hash.map{|v| [v[1], v[0]]}%>
+        </div>
+        <div class="form-group">
+          <%=  asiento_f.label "Fecha de Acuerdo Ejecutivo" %>
+          <%=  asiento_f.select :fecha_resolucion, @fecha_resolucion_hash.map{|v| [v[1], v[0]]}%>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  asiento_f.label "Numero de resolución"%>
+          <%=  asiento_f.select :numero_resolucion, @numero_resolucion_hash.map{|v| [v[1], v[0]]}%>
+        </div>
+        <div class="form-group">
+          <%=  asiento_f.label "Título de resolución" %>
+          <%=  asiento_f.select :titulo_resolucion, @titulo_resolucion_hash.map{|v| [v[1], v[0]]}%>
+        </div>
+        <div class="form-group">
+          <%=  asiento_f.label "Fecha de resolución" %>
+          <%=  asiento_f.select :fecha_resolucion, @fecha_resolucion_hash.map{|v| [v[1], v[0]]}%>
+        </div>
+      </div>
+     </div>
+   </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">Proyección del Operador</div>
+      <div class="panel-body">
+          <div id="operador">
+            <div class="col-xs-6 col-md-4">
+              <div class="form-group">
+                <%=  asiento_f.label "Nombre Operador" %>
+                <%=  asiento_f.select :nombre_operador, @nombre_operador_hash.map{|v| [v[1], v[0]]}%>
+              </div>
+              <div class="form-group">
+                <%=  asiento_f.label "Identificación Operador" %>
+                <%=  asiento_f.select :identificacion_operador, @identificacion_operador_hash.map{|v| [v[1], v[0]]}%>
+              </div>
+            </div>
+            <div class="col-xs-6 col-md-4">
+              <div class="form-group">
+                <%=  asiento_f.label :nombre_representante_legal %>
+                <%=  asiento_f.select :nombre_representante_legal, @nombre_representante_legal_hash.map{|v| [v[1], v[0]]}%>
+              </div>
+              <div class="form-group">
+                <%=  asiento_f.label :cedula_representante_legal %>
+                <%=  asiento_f.select :cedula_representante_legal, @cedula_representante_legal_hash.map{|v| [v[1], v[0]]}%>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo_sancion: MyString
+  fecha_vigencia: 2015-09-12
+  nota: MyText
+
+two:
+  tipo_sancion: MyString
+  fecha_vigencia: 2015-09-12
+  nota: MyText

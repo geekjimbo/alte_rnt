@@ -1,0 +1,11 @@
+<div class="panel panel-default">
+  <div class="panel-heading">Servicios Habilitados</div>
+    <div class="panel-body">
+      <div class="col-md-4">
+        <div class="form-group">
+            <%=  f.label :seleccionar_servicio %>
+            <%=  f.collection_select(:sciservicio_id, @servicios, :id, :descripcion) unless @servicios.nil?%>
+        </div>
+      </div>
+   </div>
+  </div>

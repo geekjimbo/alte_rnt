@@ -1,0 +1,2 @@
+module HomologacionsHelper
+end

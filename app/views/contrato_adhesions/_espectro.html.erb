@@ -1,0 +1,12 @@
+<div class="panel panel-default">
+  <div class="panel-heading">Clasificación de Uso del Espectro</div>
+    <div class="panel-body">
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  f.collection_select :clasificacion_uso_espectro, Espectro::CLASIFICACION_USO, :value, :label,  class: 'form-control'%>
+        </div>
+      </div>
+     </div>
+   </div>
+
+

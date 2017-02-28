@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo_zona: MyString
+  descripcion_zona: MyString
+  nota: MyText
+  frecuenciaespectro_id: 
+
+two:
+  tipo_zona: MyString
+  descripcion_zona: MyString
+  nota: MyText
+  frecuenciaespectro_id: 

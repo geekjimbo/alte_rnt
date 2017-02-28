@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo_red: MyString
+  fecha_publicacion: 2015-09-14
+  numero_publicacion: MyString
+  contrato_concesion: MyString
+  fecha_emision: 2015-09-14
+  numero_notificacion_refrendo: MyString
+
+two:
+  tipo_red: MyString
+  fecha_publicacion: 2015-09-14
+  numero_publicacion: MyString
+  contrato_concesion: MyString
+  fecha_emision: 2015-09-14
+  numero_notificacion_refrendo: MyString

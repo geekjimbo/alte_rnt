@@ -1,0 +1,20 @@
+<h2>Lista Asientos del RNT</h2>
+
+<%= render partial: 'shared/search_form'%>
+
+<table class="table table-hover table-condensed" style="width:100%">
+  <tr>
+    <th><%= link_to "Acto Inscribible", :sort => "acto_inscribible"%></th>
+    <th><%= link_to "Nombre Operador", :sort => "nombre_operador"%></th>
+    <th><%= link_to "Fecha", :sort => "fecha_resolucion"%></th>
+    <th><%= link_to "Tipo Asiento", :sort => "tipo_asiento"%></th>
+    <th><%= link_to "Número Asiento", :sort => "num_asiento"%></th>
+    <th><%= link_to "Num. Asiento Original", :sort => "num_asiento_original"%></th>
+    <th><%= link_to "Número", :sort => "num_resolucion"%></th>
+    <th><%= link_to "Título", :sort => "titulo_resolucion"%></th>
+    <th></th>
+  </tr>
+  <%= render :partial => 'general' %>
+</table>
+
+<%= will_paginate %>

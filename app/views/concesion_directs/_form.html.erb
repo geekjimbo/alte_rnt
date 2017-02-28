@@ -1,0 +1,52 @@
+<div class="row">
+ <%= form_for @concesiondirect do |f| %>
+   <div>
+        <% if @concesiondirect.errors.any? %>
+          <div id="error_explanation">
+            <h2>El Permiso no puede ser grabado </h2>
+
+            <ul>
+            <% @concesiondirect.errors.full_messages.each do |msg| %>
+              <li><%= msg %></li>
+            <% end %>
+            </ul>
+          </div>
+        <% end %>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">Concesión Directa</div>
+            <div class="panel-body">
+                <div class="col-md-4">
+                  <div class="form-group">
+                    <%=  f.label :fecha_vencimiento, "Fecha Vencimiento" %>
+                    <%=  f.date_field :fecha_vencimiento, class: 'form-control' %>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="form-group">
+                    <%= f.label :tipo_red, "Tipo Red" %>
+                    <%= f.collection_select :tipo_red, ConcesionDirect::TIPOS_RED, :value, :label,  class: 'form-control'%>
+                  </div>
+                </div>
+            </div>
+        </div>
+
+          <%= f.fields_for :espectro, @concesiondirect.espectro do |builder| %>
+            <%= render partial: 'shared/espectro', :locals => {:f => builder, :clase => "concesion_direct", :objeto => @concesiondirect} %>
+          <% end %>
+
+          <div class="col-md-1 col-md-offset-7">
+            <div class="form-group">
+              <%= link_to 'Regresar', asientos_path %>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="form-group">
+              <% if action_name != 'show' %>
+                <%= f.submit 'Guardar cambios', class: "btn btn-primary" %>
+              <% end %>
+            </div>
+          </div>
+   </div>
+  <% end %>
+</div>

@@ -1,0 +1,27 @@
+<h2>Lista Recursos de Numeración</h2>
+
+<%= will_paginate %>
+
+<table class="table table-hover table-condensed">
+  <tr>
+    <th>Tipo Recurso Numérico</th>
+    <th>Rango Numérico</th>
+    <th>Número Asignado</th>
+    <th>Nombre Operador</th>
+    <th>Nombre Resolución</th>
+    <th>Título Resolución</th>
+    <th>Número Resolución</th>
+    <th>Fecha Resolución</th>
+    <th>Fecha Solicitud</th>
+    <th>Vigencia Años</th>
+    <th>Tipo Inscrip.</th>
+    <th>No. Asiento</th>
+    <th>No. As.Original</th>
+  </tr>
+  <%= render :partial => 'botonera' %>
+</table>
+
+<%= will_paginate %>
+<div class="container">
+  <%= link_to 'Nuevo', new_recurso_numerico_path, class: "btn btn-primary" %>
+</div>

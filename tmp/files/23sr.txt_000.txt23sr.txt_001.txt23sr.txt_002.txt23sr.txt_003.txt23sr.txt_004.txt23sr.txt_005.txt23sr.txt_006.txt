@@ -1,0 +1,1127 @@
+Azimut ( °): Downtilt ( °):
+
+7655, 50
+52, 40 304, 40
+
+Frec Rx ( MHz):
+
+EIRP ( dBm):
+Azimut ( °): Downtilt (°):
+
+52, 40 124,41 0, 04
+ERICSSON
+
+0,02 ERICSSON
+MiniLink TN
+
+Marca Eauipo:
+Modelo Equipo: Marca Antena:
+
+Marca EQUIp0: Modelo Equipo: Marca Antena: Modelo Antena:
+
+MiniLink TN ERICSSON UKY 220 40 /SC 15 31, 10
+
+ERICSSON
+
+Modelo Antena: Ganancia antena ( dBi):
+Altura base- antena ( m): Polarizaci61: Sensibilidad Rx ( dBm):
+
+UKY 220 40 /SC 15
+31, 10
+
+Ganancia antena ( dBi): Altura base- antena ( m):
+Polarizacift
+
+60,00
+V
+
+60,00
+V
+
+69
+
+Sensibilidad Rx ( dBm):
+
+69
+
+Tabla TablaTabla Nombre enlace: NombreNombre enlace:enlace:
+RUR331_ B- BBR017_ RUR331_ RUR331_ B- BBR017_A BBBR017_ AA Canalizaci6n Canalizaci6nCanalizaci6n F. 385 99 F.F. 385385 --9 -
+
+85 8585
+
+Enlace: Enlace:Enlace:
+
+RUR331 B- BBR017 A RUR331RUR331 B-B- BBR017BBR017 AA
+
+BW MHz) BWBW ((MHz) ( MHz)
+
+Canal CanalCanal
+
+28, 00 28,28, 0000
+
+3 3' 33/ // 3'3'
+
+Sitio A
+Nombre del sitio: latitud (WGS84): Louitud (WGS84): Potencia ( dBm):
+Frec Tx ( MHz): RUR331_ B
+
+Sitio B
+Nombre del sitio: Latitud ( WGS84):
+BBR017_ A
+
+9, 9194170 83, 0226700
+22, 00
+7494,50 7655,50
+
+9, 9968170 83, 0407420 22,00 7655,50
+7494, 50 51, 40 167, 05
+
+Lonaitud ( WGS84):
+Potencia ( dBm):
+Frec Tx ( MHz): Frec Rx ( MHz): EIRP ( dBm): Azimut ( °):
+
+Frec Rx ( MHz):
+EIRP ( dBm):
+
+51, 40 347, 05 0,43 ERICSSON
+
+Azimut ( °): Downtilt ( °): Marca Equipo:
+
+Downtilt ( °):
+
+0,49
+ERICSSON MiniLink TN ERICSSON UKY 22040/ SC15
+
+Marca Equipo:
+Modelo Equipo: Marca Antena:
+Modelo Antena:
+
+Modelo Equipo: Marca Antena:
+Modelo Antena:
+
+MiniLink TN
+ERICSSON
+
+UKY 22040/ SC15
+31, 10
+
+Ganancia antena ( dBi):
+
+Ganancia antena ( dBi):
+Altura base- antena ( m):
+
+31, 10 55, 00
+H 69
+
+Altura base- antena ( in):
+Polarizaci6n: Sensibilidad Rx ( dBm):
+
+40,00 H 69
+
+Polarizaci6n:
+Sensibilidad Rx ( dBm):
+
+52 5252
+
+d!9Italmente d!d! 9I9I talmentetalmente
+
+Tabla
+
+86
+
+Enlace:
+
+BBR003 C- MTR716 A
+
+Nombre enlace:
+
+BBR003_ C- MTR716_A
+Canalizaci6n F.386 -8 BW ( MHz) Canal 2 / 2'
+
+29,65
+
+Sitio A
+Nombre del sitio:
+latitud (WGS84): Longitud ( WGS84): Potencia ( dBm): Frcc Tx ( MHz): Frec Rx ( MHz):
+EIRP ( dBm):
+
+Sitio B
+Nombre del sitio:
+Latitud ( WGS84):
+Loneitud ( WGS84):
+
+BBR003 C 9, 8476890 84, 1380310
+
+MTR716 A
+
+9, 8599900
+84, 0520100 20,00
+
+20,00
+8088, 67
+
+Potencia ( dBm):
+Frec Tx ( MHz):
+Frec Rx ( MHz): EIRP ( dBm): Azimut ° ·
+
+7777, 35
+8088,67 49,40
+
+7777, 35
+
+49,40
+81, 75 7, 01 ERICSSON MiniLink TN ERICSSON
+
+Azimut ( °): Downtilt ( °): Marca Equipo: Modelo Equipo: Marca Antena: Modelo Antena:
+
+261, 73
+6, 95 ERICSSON MiniLink TN ERICSSON UKY 22040/ SC15
+
+Downtilt ( °): Marca Equipo:
+
+Modelo Equipo:
+Marca Antena:
+
+UKY 22040/ SC15 31, 10 57, 00
+V
+
+Modelo Antena: Ganmtcia antena ( dBi):
+
+Ganancia antena ( dBi):
+
+31, 10 24,00
+V
+
+Alntra base -antena ( m):
+Polarimcion: Sensibilidad Rx ( dBm):
+
+Altura base -antena ( m):
+Polarizacift Sensibilidad Rx ( dBm):
+
+69
+
+69
+
+Tabla TablaTabla Nombre enlace: NombreNombre enlace:enlace:
+
+87 8787
+
+Enlace: Enlace: Enlace:
+
+BBR009 C- RUR020 D BBR009BBR009 C- RUR020RUR020 DD C-
+
+BBR009_ C- RUR020_ BBR009_ BBR009_ C- RUR020_D CRUR020_ DD
+Canalizaci6n Canalizaci6nCanalizaci6n
+BW MHz) BWBW ((MHz) ( MHz)
+
+Canal CanalCanal
+
+F.385 99 F. 385385 --9 F. -
+
+28, 00 28,28, 0000
+
+2 2' 22/ // 2'2'
+
+Sitio A
+Nombre del sitio:
+latitud ( WGS84): BBR009_C
+10, 1194690
+
+Sitio B
+Nombre del sitio:
+latitud (WGS84):
+
+RUR020 D
+
+10, 0321390
+85, 7373610
+
+Longitud ( WGS84):
+Potencia ( dl3m): Frec Tx ( MHz): Frec Rx ( MHz): EIRP ( dBm):
+Azimut ( °):
+
+85, 6279190
+
+Longitud ( WGS841:
+
+26,00 7627,50
+7466,50
+
+Potencia ( dBm): Frec Tx ( MHz):
+Frec Rx ( MHz):
+
+26, 00 7466,50
+7627,50
+
+55, 40
+230,97
+
+EIRP ( dBm): Azimut ( °):
+
+55, 40 50, 99
+
+Downtilt ( °):
+
+3, 36
+ERICSSON
+
+Downtilt ( °):
+Marca Equipo: Modelo Equipo:
+
+3, 26
+ERICSSON
+MiniLink TN
+
+Marca Equipo:
+
+Modelo Equipo:
+Marca Antena: Modelo Antena: Ganancia antena ( dBi):
+
+MiniLink TN
+ERICSSON
+
+Marca Antena: Modelo Antena:
+
+ERICSSON
+
+UKY 22040/ SC15 31, 10 60,00
+V
+
+UKY 22040/ SC15
+31, 10 60,00 V
+69
+
+Ganancia antena ( dBi):
+Altura base- antena ( m): Polarizacik: Sensibilidad Rx ( dBm):
+
+Altura base- antena ( m):
+Polarizaci6n:
+
+Sensibilidad Rx ( dBm):
+
+69
+
+53 5353
+kX kXkX
+t
+
+d! aLMente d!d!### aLMenteaLMente
+r rr
+
+Tabla
+Nombre enlace: RUR122_D- RPT001_ B
+Canalizaci6n
+
+88
+
+Enlace:
+
+RUR122_D- RPT001_ B
+
+BW (MHz)
+
+Canal 3 / 3'
+
+F.385 -9
+
+28, 00
+
+Sitio A
+Nombre del sitio: latitttd ( WGS84):
+Longitud ( WGS84): Potencia ( dBm): RUR122 D
+
+Sitio B
+Nombre del sitio: tatitud (WGS84):
+Longitud ( WGS84):
+Potencia ( dBm):
+
+RPT001_ 13 9, 8839610
+
+9,6907220
+85, 1038610
+
+85, 3809000
+26, 00 7494,50
+
+26,00
+7655,50
+7494,50
+
+Frcc Tx ( MHz):
+Frec Rx ( MHz): EIRP ( dBm): Azinwt ( °):
+
+Frec Tx ( MHz): Frec Rx ( MHz):
+EIRP ( dBm): Azimut ( °):
+
+7655,50
+59, 90
+
+59, 90
+305, 27
+
+125, 32
+
+Downtilt ( °):
+Marca Equipo: Modelo Equipo: Marca Antena: Modelo Antena:
+
+0,45
+ERICSSON
+MiniLink TN
+
+Downtilt ( °): Marca Equipo:
+Modelo Equipo:
+
+0, 71
+ERICSSON
+MiniLink TN ERICSSON
+
+ERICSSON UKY 22025/ SC15
+
+Marca Antena: Modelo Antena: Ganancia antena ( dBi): Altura base- antena ( m): Polarizaci6n: Sensibilidad Rx ( dBm):
+
+UKY 220 25 /SC 15
+35, 60 30,00 V 69
+
+Ganancia antena ( dBi):
+Altura base -antena ( m):
+
+35, 60
+53, 00 V
+69
+
+Polarizaci6n: Sensibilidad Rx ( dBm):
+
+Tabla TablaTabla
+
+89 8989
+
+Enlace: Enlace: Enlace:
+
+RUR085- RUR107RUR107 RUR085RUR085- RUR107
+
+Nombre enlace: NombreNombre enlace:enlace:
+
+RUR085- RUR107RUR107 RUR085RUR085- RUR107
+Canalizaci6n Canalizaci6nCanalizaci6n BW MHz) BWBW ((MHz) ( MHz)
+Canal CanalCanal
+
+F.385 99 F. 385385 --9 F. -
+
+28, 00 28,28, 0000
+
+4 4' 44/ // 4'4'
+
+Sitio A
+Nombre del sitio: tatitud (WGS84):
+Longitud ( WGS84): Potencia ( dBm): Frec Tx ( MHz):
+
+Sitio B
+Nombre del sitio:
+Latitud ( WGS84): Longitud ( WGS84):
+Potencia ( dBm):
+
+RUR085
+10, 5298900 84,4796900
+
+RUR107
+
+10, 3683890
+84,4372780
+22, 00
+
+22, 00
+7683, 50 7522,50
+55, 90
+
+Frec Tx ( MHz): Frec Rx ( MHz):
+EIRP ( dBm):
+
+7522,50 7683, 50 55, 90 345, 52 1, 63
+ERICSSON
+
+Frec Rx ( MHz): EIRP ( dBm):
+Azimut ( °):
+
+165, 52
+1, 50
+
+Azimut ( °): Downtilt ( °):
+
+Downtilt ( °):
+
+Marca Equipo: Modelo Equipo: Marca Antena: Modelo Antena:
+
+ERICSSON
+MiniLink TN ERICSSON
+
+Marca Equipo: Modelo Equipo: Marca Antena:
+Modelo Antena:
+
+MiniLink TN ERICSSON UKY 220 25 /SC 15
+
+UKY 22025/ SC15
+35, 60
+57, 00
+V
+
+Ganancia antena ( dBi):
+Altura base- antena ( m): Polarizacift
+Sensibilidad Rx ( dBm):
+
+Ganancia antena ( dBi): Altura base -antena ( m):
+Polarizaci6n:
+
+35, 60
+57, 00
+V
+
+69
+
+Sensibilidad Rx (dBtn):
+
+69
+
+54 5454
+
+d g talmente' dd gg talmente'talmente'
+
+Tabla Nombre enlace:
+
+90
+
+Enlace:
+
+BBR003 C- MTR045
+
+BBR003_C- MTR045
+Canalizaci6n BW ( MHz)
+
+Canal 4 / 4'
+J
+
+F. 385 -9
+
+28, 00
+
+Sitio A
+Nombre del sitio: latitud (WGS84):
+Longitud ( WGS84): Potencia ( dBm): Frec Tx ( MHz): Frec Rx ( MHz):
+
+Sitio B
+Nombre del sitio: Latitud ( WGS84): Longitud ( WGS84): MTR045 9, 8704830
+
+BBR003 C 9, 8476890
+84, 1380310 23, 00 7683, 50 7522, 50 56, 90
+
+83, 9166970
+23, 00
+7522,50
+
+Potencia ( dBm):
+Frec Tx ( MHz):
+
+Frec Rx ( MHz):
+EIRP ( dBm):
+
+7683,50 56, 90
+264,01
+
+EIRP ( dBm):
+Azimut ( °):
+Downtilt ( °): Marca Equipo:
+
+84,05
+2, 28
+ERICSSON
+
+Azimut ( °). Downtilt ( °):
+
+2, 12 ERICSSON
+
+Marca Equipo:
+Modelo Equipo:
+
+Modelo Equipo: Marca Antena: Modelo Antena: Ganancia antena ( dBi):
+
+MiniLink TN ERICSSON UKY 220 25 /SC 15
+
+Minil. ink TN
+ERICSSON UKY 220 25/ SC15 35, 60 27, 00
+
+Marca Antena:
+
+Modelo Antena:
+Ganancia antena ( dBi): Altura base -antena ( m): Polarizacift Sensibilidad Rx ( dBm):
+
+35, 60 54,00
+H
+
+Altura base- antena ( m):
+Polarizaci&: Sensibilidad Rx ( dBm):
+
+H
+69
+
+69
+
+Tabla TablaTabla
+oo oooo
+
+91 9191
+
+Enlace: Enlace: Enlace:
+
+MTR252_A- MTR187_ MTR252_ MTR252_ A- MTR187_ DD AMTR187_ D
+
+Nombre enlace: NombreNombre enlace:enlace:
+
+MTR252_A- MTR187_ MTR252_ MTR252_ A- MTR187_D AMTR187_ DD Canalizaci6n Canalizaci6nCanalizaci6n BW MHz) BWBW ((MHz) ( MHz) 13, 75 13,13, 7575
+Canal CanalCanal
+
+F.595 99 F. 595595 --9 F. -
+
+24 24' 2424 // 24'24' /
+J JJ
+
+Sitio A
+Nombre del sitio:
+L.atitud ( WGS84): Longitud ( WGS84):
+
+Sitio B
+Nombre del sitio:
+Uititud ( WGS84): Longitud ( WGS84): Potencia ( dB * Frec Tx ( MHz):
+Frec Rx ( MHz): EIRP ( dBm): Azimut ( °):
+
+MTR252_ A 9, 8442600 83, 9316300 6, 00
+19 040,00 18 030,00 38, 70
+285, 96
+
+MTR 187D
+
+9, 8498610
+83, 9515110 6, 00 18 030,00 19 040,00
+38, 70 105, 96
+
+Potencia ( dBm):
+Frec Tx ( MHz):
+Frec Rx ( MHz): EIRP ( dBm): Azimut ( °):
+
+Downtilt C
+Marca Equipo: Modelo Equipo:
+Marca Antena: Modelo Antena:
+
+0, 37
+Ericsson MiniLink TN ERICSSON
+
+Downtilt ( °): Marca Equipo: Modelo Equipo:
+Marca Antena: Modelo Antena:
+
+0, 39 Ericsson
+MiniLink TN
+
+ERICSSON
+
+UKY 21072/ SC15 34, 40 30, 00
+V
+
+U KY 210 72 /SC 15
+34,40 30,00
+V 80
+
+Ganancia antena ( dBi):
+Altura base- antena ( in):
+Polarizaci6n: Scnsibilidad Rx ( dBm):
+
+Ganancia antena ( dBi):
+Altura base- antena ( m):
+
+Polarizaci6n: Sensibilidad Rx ( dBm):
+
+80
+
+55 5555 ,.,. ,.
+
+rrr rilril cic= c= ril cic= ci
+dlgb3U. enW, dlgb3U.dlgb3U.rr enW,enW, r
+
+Tabla Nombre enlace: RUR630_A- RUR196_A
+Canalizaci6n
+
+92
+
+Enlace:
+
+RUR630 A- RUR196 A
+
+BW (MHz)
+
+Canal
+2 / 2'
+
+F.386 -8
+
+29, 65
+
+Sitio A
+Nombre del sitio: RUR630_ A Nombre del sitio:
+
+Sitio B
+RUR196_ A 10, 2653400
+
+L ititud ( WGS84):
+lxnaitud ( WGS84): Potencia ( dBm):
+
+10, 2235280
+85, 1902220
+
+Latitud ( WGS84): Longitud ( WGS84):
+Potencia ( dBm):
+
+85, 0239000
+26,00 8088,67
+
+26,00 7777,35
+8088,67 55, 40
+
+Frec Tx ( MHz):
+Frec Rx ( MHz):
+
+Free Tx ( MHz): Frec Rx ( MHz): EIRP ( dBm):
+
+7777,35
+55, 40 255, 65
+
+EIRP ( dBm): Azimut ( °):
+Downtilt ( °): Marcy Equipo: Modelo Eguioo: Marca Antena:
+
+75, 68 0, 11
+ERICSSON MiniLink TN
+
+Azimut M.
+Downtilt ( °): Murca Eauino:
+Modelo Equipo:
+
+0,02
+ERICSSON
+MiniLink TN ERICSSON
+
+ERICSSON UKY 22040/ SC15
+31, 10
+
+Marca Antena:
+Modelo Antena:
+
+Modelo Antena:
+Ganancia antena ( dBi):
+
+UKY 22040/SC15
+31, 10 30, 00 V 69
+
+Ganancia antena ( dBi):
+Altura base- antena ( m):
+
+Altura base- antena ( m):
+Polarizacik:
+
+53, 50
+V 69
+
+Polarizaci6n: Sensibilidad Rx ( dBm):
+
+Sensibilidad Rx ( dBm):
+
+Tabla TablaTabla
+
+93 9393
+
+Enlace: Enlace: Enlace:
+
+RUR246 D- RUR310 RUR246RUR246 D- RUR310RUR310 D-
+
+Nombre enlace: NombreNombre enlace:enlace:
+
+RUR246_D- RUR310RUR310 RUR246_ RUR246_ D- RUR310 DCanalizaci6n Canalizaci6nCanalizaci6n
+BW MHz) BWBW ((MHz) ( MHz)
+
+Canal CanalCanal 2 2' 22/ // 2'2'
+
+F.386 88 F. 386386 --8 F. -
+
+29, 65 29,29, 6565
+
+Sitio A
+Nombre del sitio:
+Lmitud ( WGS84):
+Longitud ( WGS84):
+
+Sitio B
+Nombre del sitio: RUR310
+
+RUR246_ D
+10, 4645390
+
+Latitud ( WGS84):
+Longitud ( WGS84): Potencia ( dBn*
+
+10,3536200
+84, 2764500 26,00 8088, 67
+
+84, 0257310 26, 00 7777, 35
+8088,67
+
+Potencia ( dBm): Frec Tx ( MHz):
+Frcc Rx ( MHz): EIRP ( d13m):
+Azimut ( °):
+
+Frec Tx ( MHz):
+Frec Rx ( MHz):
+EIRP ( dBm):
+
+7777, 35
+61, 60 65, 80 0, 67 ERICSSON MiniLink TN
+
+61, 60
+245, 76
+
+Azimut ( °):
+
+Downtilt ( °): Marca Equipo: Modelo Equipo
+
+0,47 ERICSSON
+MiniLink TN ERICSSON
+
+Downtilt (°): Marca Equipo: Modelo Equipo: Marca Antena: Modelo Antena: Ganancia antena ( dBi): Altura base- antena ( m):
+Polarizaci6n:
+
+Marca Antena: Modelo Antena:
+Ganancia antena ( dBi): Altura base -antena ( in):
+Polariraci6n:
+
+ERICSSON
+UKY 21040/ SC15 37, 30 60,00 H
+
+UKY 21040 / SC15
+37, 30
+
+50, 00
+H 69
+
+Sensibilidad Rx ( dBm):
+
+Sensibilidad Rx ( dBm):
+
+69
+
+56 5656 S-S- erer rxirxi drdr er rxi dr
+dtgitalmente' dtgitalmente'dtgitalmente'
+
+Tabla
+
+94
+
+Enlace:
+
+RUR165 B- RUR432
+
+Nombre enlace:
+
+RUR165_ B- RUR432
+Canalizaci6n BW ( MHz) Canal 18 / 18'
+
+F.595 -9
+
+13, 75
+
+Sitio A
+Nombre del sitio:
+Iatitud ( WGS84): Longitud ( WGS84): RUR I65_ B 10, 3536000 83, 9582800
+
+Sitio B
+Nombre del sitio:
+Latitud ( WGS84): Longitud ( WGS84): Potencia ( dBm): RUR432 10, 3972810 83, 9676310 17, 00
+
+Potencia ( dBm):
+Frec Tx ( MHz): Free Rx ( MHz): EIRP ( dBm): A· mut ( °): ri
+
+17, 00 18 957, 50
+
+Free Tx ( MHz):
+Frec Rx ( MHz):
+EIRP ( dBm):
+
+17 947, 50
+18 957, 50 54, 20
+168, 11
+
+17 947, 50
+54, 20
+
+348, 11 0,21
+Ericsson
+Mini Link TN
+
+Azimut Downtilt ( °): Marta Equipo:
+Modelo Equioo:
+
+Downtilt ( °): Mann Equipo:
+Modelo EQUipo:
+
+0, 18 Ericsson
+MiniLink TN ERICSSON
+
+Marca Antena:
+Modelo Antena:
+
+ERICSSON
+UKY 220 44/ SC15 38, 90
+
+Marca Antena: Modelo Antena:
+
+UKY 220 44 /SC 15
+
+Ganancia antena ( dBi):
+Altura base- antena ( in):
+
+Ganancia antena ( dBi):
+Altura base- antena ( m):
+Polarizaci6n:
+
+38, 90 50,00
+V 80
+
+50,00
+V 80
+
+Polarizacik:
+
+Sensibilidad Rx ( dBm):
+
+Sensibilidad Rx ( dBm):
+
+Tabla TablaTabla
+Nombre enlace: NombreNombre enlace:enlace: RUR213_C- RUR212_ RUR213_ RUR213_ C- RUR212_B CRUR212_ BB Canalizaci6n Canalizaci6nCanalizaci6n
+
+95 9595
+
+Enlace: Enlace:Enlace:
+
+RUR213 C- RUR212 B RUR213RUR213 C-C- RUR212RUR212 BB
+
+BW MHz) BWBW ((MHz) ( MHz) 13, 75 13,13, 7575
+
+Canal CanalCanal
+
+F.595 99 F. 595595 --9 F. -
+
+21 21' 2121 // 21'21' /
+
+Sitio A
+Nombre del sitio:
+laliutd (WGS84):
+
+Sitio B
+Nombre del sitio:
+Latitud ( WGS84): Longitud ( WGS84): Potencia 013m):
+
+RUR213_ C
+10, 1460500 85, 4504110
+
+RUR212_ B
+10, 1549400
+
+Longitud ( WGS84):
+Potencia ( dBm):
+
+85, 4571100 10, 00
+
+10, 00
+18998, 75
+
+Frec Tx ( MH· r.):
+Frcc Rx ( MHz):
+
+Frec Tx ( MHz):
+Frec Rx ( MHz):
+
+17 988, 75
+18 998, 75 27, 20
+143. 43
+
+17 988, 75
+
+EIRP 013m):
+Azimut ( °):
+
+27, 20
+323, 43
+
+EIRP ( dBm):
+Azimut ( °):
+
+Downtilt ( °):
+
+0, 07
+Ericsson MiniLink TN ERICSSON UKY 22044/ SC15
+
+Downtilt Ch
+Marca Equipo: Modelo Equipo:
+
+0,07
+Ericsson MiniLink TN ERICSSON UKY 22044/ SC15
+
+Marca Equipo: Modelo Equioo: Marca Antena: Modelo Antena: Ganancia antena ( dBi):
+
+Marca Antena:
+Modelo Antena:
+
+38, 90
+41, 50 V 80
+
+Ganancia antena ( dBi): Altura base- antena ( m):
+Polarizaci6n: Sensibilidad Rx ( dBm):
+
+38, 90
+30,00
+V
+
+Altura base- antena ( m):
+Polarizaci6n:
+
+Sensibilidad Rx ( dBm):
+
+80
+
+57 5757
+1',, 1',, 1',,
+
+y' y'y'
+
+11'' f?flcflc ff d' f? f d' f?flc d'
+clgitatm nte' clgitatmclgitatm nte'nte' s ss
+
+ARTICULO 2.- Informar a la empresa CLARO CR TELECOMUNICACIONES, S. A., que
+
+de conformidad con su solicitud N° DG0049 y la Resoluci6n N° RCS -118 -2012 de las
+10: 15 horas del 28 de marzo de 2012 del Consejo SUTEL, dicho 6rgano elimin6 los enlaces microondas denominados " MTR292_C- MTR246_D" en las frecuencias 7459, 5
+
+MHz y 7620,5 MHz y " MTR479_B- MTR279_C" en las frecuencias 17 975 MHz y 18 985
+MHz, los cuales se encontraban especificados en las tablas N° 16 y N° 50 de la resoluci6n
+No RCS -099 -2011.
+
+ARTICULO 3.- Informar a la empresa CLARO CR TELECOMUNICACIONES, S. A., que
+
+una vez instalado cads enlace de microondas concesionado, cuenta con diez dfas habiles de
+
+conformidad con el artfculo 264 de la Ley General de la Administraci6n P6blica, N° 6227
+para informar a la SUTEL, a fin de que esta realice las inspecciones senaladas en los
+
+numerales 82 y 83 del Reglamento a la Ley General de Telecomunicaciones, Decreto
+
+Ejecutivo N° 34765 -MINAET y sus reformas, y se pueda comprobar que las instalaciones
+se ajustan a to autorizado en el tftulo habilitante. En caso de incumplimiento de esta
+
+obligaci6n se podria incurrir en una falta muy grave segdn to dispuesto en los artfculos 67 inciso a) punto 8) y 68 de la Ley General de Telecomunicaciones, Ley N° 8642.
+
+ARTICULO 4.- Informar a la empresa CLARO CR TELECOMUNICACIONES, S. A., que
+
+con el objeto de vigilar el funcionamiento de los servicios, sus instalaciones, equipos y
+antenas,
+
+SUTEL practicara las visitas que considere pertinentes ( inspecciones
+
+seg6n
+
+artfculo 82 del Decreto Ejecutivo N° 34765- MINAET). En donde el titular de la red debera
+mostrar los documentos indicados en el artfculo 88, del Decreto en menci6n, en cada lugar
+
+donde se encuentre algdn extremo de la red de telecomunicaciones.
+
+ARTICULO 5.- Infonmr a la empresa CLARO CR TELECOMUNICACIONES, S. A., que
+
+de conformidad con la Licitaci6n Pdblica No 2010LI- 000001 -SUTEL aparte 9 sobre la
+
+vigencia y pr6rroga de las concesiones, los sub -apartes 40. 11 y 40. 12, y el artfculo 5 del
+Acuerdo Ejecutivo N° 006 -2011- MINAET, el otorgamiento de la presente concesi6n de
+
+derecho de use y explotaci6n de frecuencias para enlaces de microondas, debera ser
+
+58
+
+dlgltalm nEe`
+
+congruente con to senalado en estos apartados. Es importante senalar que el plazo de vigencia de los enlaces de microondas necesarios para la operaci6n de la red de telefonfa m6vil, debera ser el mismo que el considerado para las frecuencias principales ( frecuencias al servicio de las Telecomunicaciones M6viles Internacionales IMT). La
+presente
+
+concesi6n iniciara a partir de la notificaci6n del presente Acuerdo Ejecutivo y se extinguira
+en el mismo momento que la Concesi6n principal, sea el 14 de julio de 2026, pudiendo ser prorrogada a gesti6n de parte en los mismos t6rminos que la Principal.
+
+ARTICULO 6.- Indicar a la empresa CLARO CR TELECOMUNICACIONES, S. A., que
+
+la infraestructura de las redes de telecomunicaciones que utilice, debera estar habilitada para el use conjunto o compartido con relaci6n a las canalizaciones, ductos, postes, torres,
+
+estaciones y demas instalaciones requeridas para la propia instalaci6n y operaci6n de las
+redes pdblicas de telecomunicaciones, segdn el artfculo 77 de Decreto Ejecutivo N° 34765 -
+
+MINAET y sus reformas.
+
+ARTfCULO 7.- Informar a la empresa CLARO CR TELECOMUNICACIONES, S. A., que
+
+con el objeto de salvaguardar la optimizaci&
+
+de los recursos escasos, principio rector
+
+establecido en el artfculo 3 de la Ley No 8642, SUTEL podra recomendar por motivos de use eficiente del espectro radioel6ctrico, calidad en la redes, competencia en el mercado y demas tdnninos o condiciones establecidos en la citada Ley y sus Reglamentos, la
+modificaci6n de los parametros t6cnicos establecidos en el respectivo tftulo habilitante. Por esta raz6n en concordancia con el artfculo 74, inciso h) del Decreto Ejecutivo N° 34765 -
+
+MINAET y sus reformas, se insta al titular a cooperar con SUTEL en to requerido para el
+use eficiente de los recursos escasos.
+
+ARTICULO 8.- Informar a la empresa CLARO CR TELECOMUNICACIONES, S. A., que
+
+en atenci6n a to dispuesto en el artfculo 63 de la Ley N° 8642, debera cancelar, anualmente, un canon de reserva del espectro radioel6ctrico, por las bandas de frecuencias y los enlaces
+
+concesionados, independientemente de que Naga use de dichas bandas o no, y durante la
+vigencia del plazo de la concesi6n directa. Asimismo, debera informarse al concesionario que de conformidad con la clausula N° 40. 12 del Cartel de la Licitaci6n P6blica N°
+
+59'
+
+i ir,.riadc:' r
+
+c g`talmenFe'
+
+2010LI- 000001 -SUTEL, no requerira pagar un precio adicional por la concesi6n directa de
+
+los enlaces de microondas en frecuencias de asignaci6n no exclusiva.
+
+ARTICULO 9.- Advertir a la empresa CLARO CR TELECOMUNICACIONES, S. A., que
+de acuerdo con to establecido referente en el artfculo 22, inciso a)
+
+de la Ley General de
+
+Telecomunicaciones,
+
+a la "
+
+Revocaci6n y extinci6n de las concesiones, las
+
+autorizaciones y los permisos ", se otorga un plazo maximo de un ( 1) afio para dar inicio a la
+operaci6n de los enlaces aceptados.
+
+ARTICULO 10.- Informar a la empresa CLARO CR TELECOMUNICACIONES, S. A., su
+
+obligaci6n de conforniidad con el artfculo 93 del Reglamento a la Ley General de Telecomunicaciones, de aceptar y responder con prioridad absoluta las llamadas y mensajes
+de socorro, cualquier que sea su origen.
+
+ARTICULO 11.- Comunicar a la empresa CLARO CR TELECOMUNICACIONES, S. A., que previa aprobaci6n del Consejo de la SUTEL, pods hacer ajustes a la localizaci6n del
+
+enlace, altura de la antena, equipos, y cualquier otro ajuste t6cnico necesario, siempre y
+cuando est6 conforme con to establecido. en el PNAF. Todo to anterior con excepci6n de un
+
+cainbio de frecuencia, caso en el cual debera hacerse mediante acuerdo eecutivo.
+
+ARTICULO 12.- Informar a la empresa CLARO CR TELECOMUNICACIONES, S. A.,
+
+que de conformidad con to establecido en el artfculo 20 de la Ley General de
+Telecomunicaciones, las concesiones pueden ser cedidas previa autorizaci6n del Poder
+
+Ejecutivo, siempre y cuando el cedente haya explotado 

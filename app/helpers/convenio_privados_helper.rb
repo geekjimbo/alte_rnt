@@ -1,0 +1,2 @@
+module ConvenioPrivadosHelper
+end

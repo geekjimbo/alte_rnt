@@ -1,0 +1,44 @@
+<div class="row">
+ <%= form_for @recurso_numerico do |f| %>
+   <div>
+
+      <% if @recurso_numerico.errors.any? %>
+        <div id="error_explanation">
+          <h2>El Asiento no puede ser grabado </h2>
+
+          <ul>
+          <% @recurso_numerico.errors.full_messages.each do |msg| %>
+            <li><%= msg %></li>
+          <% end %>
+          </ul>
+        </div>
+      <% end %>
+
+      <%= f.fields_for(:asiento) do |asiento_f| %>
+        <% render partial: 'shared/asiento', :locals => {:asiento_f => asiento_f, :clase => "recurso_numerico"} %>
+      <% end %>
+
+      <% f.object.detalle_recurso_numericos.each do |drn| %>
+        <%= f.fields_for "detalle_recurso_numericos", drn  do |builder| %>
+            <%= render partial: 'recurso_numerico', :locals => {:f => builder} %>
+        <% end %>
+      <% end %>
+      <div class="form-group">
+        <p><%= link_to_add_fields "Agregar Detalle Recurso Numérico", f, :detalle_recurso_numericos %> </p>
+      </div>
+
+          <div class="col-md-1 col-md-offset-7">
+            <div class="form-group">
+              <%= link_to 'Regresar', asientos_path %>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="form-group">
+              <% if action_name != 'show' %>
+                <%= f.submit 'Guardar cambios', class: "btn btn-primary" %>
+              <% end %>
+            </div>
+          </div>
+   </div>
+  <% end %>
+</div>

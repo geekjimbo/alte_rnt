@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rango_numeracion: MyString
+  numero_asignado: MyString
+  tipo_recurso_numerico: MyString
+  nota: MyText
+
+two:
+  rango_numeracion: MyString
+  numero_asignado: MyString
+  tipo_recurso_numerico: MyString
+  nota: MyText

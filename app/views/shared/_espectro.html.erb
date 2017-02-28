@@ -1,0 +1,25 @@
+<div class="panel panel-default">
+  <div class="panel-heading">Clasificación de Uso del Espectro</div>
+    <div class="panel-body">
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  f.collection_select :clasificacion_uso_espectro, Espectro::CLASIFICACION_USO, :value, :label,  class: 'form-control'%>
+        </div>
+      </div>
+     </div>
+   </div>
+
+   <%= f.fields_for :titulo_habilitante, objeto.espectro.titulo_habilitante do |builder| %>
+        <%= f.fields_for :asiento, objeto.espectro.titulo_habilitante.asiento do |builder| %>
+            <%= render partial: 'shared/asiento', :locals => {:asiento_f => builder, :clase => clase} %>
+        <% end %>
+        <%= render partial: 'shared/titulo_habilitante', :locals => {:f => builder, :clase => clase, :objeto => objeto.espectro} %>
+          <% f.object.frecuencia_espectro.each do |frecuencia_espectro| %>
+              <%= f.fields_for :frecuencia_espectro, frecuencia_espectro do |builder| %>
+                <%= render partial: 'shared/frecuencias', :locals => {:f => builder, :clase => clase, :objeto => objeto.espectro} %>
+              <% end %>
+          <% end %>
+          <div class="form-group">
+            <p><%= link_to_add_fields "Agregar Frecuencia", f, :frecuencia_espectro %> </p>
+          </div>
+    <% end %> 

@@ -1,0 +1,84 @@
+<div class="row">
+ <%= form_for @autorizacion do |f| %>
+   <div>
+        <% if @autorizacion.errors.any? %>
+          <div id="error_explanation">
+            <h2>La Autorización no puede ser grabado </h2>
+
+            <ul>
+            <% @autorizacion.errors.full_messages.each do |msg| %>
+              <li><%= msg %></li>
+            <% end %>
+            </ul>
+          </div>
+        <% end %>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">La Autorización</div>
+            <div class="panel-body">
+                <div class="col-md-4">
+                  <div class="form-group">
+                    <%= f.hidden_field :id %>
+                    <%= f.label :tipo_red, "Tipo Red" %>
+                    <%= f.collection_select :tipo_red, Autorizacion::TIPOS_RED, :value, :label,  class: 'form-control'%>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="form-group">
+                    <%=  f.label :numero_publicacion_gaceta,"Número Publicación Gaceta" %>
+                    <%=  f.text_field :numero_publicacion_gaceta, class: 'form-control' %>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="form-group">
+                    <%=  f.label :fecha_publicacion_gaceta, "Fecha Publicación Gaceta" %>
+                    <%=  f.date_field :fecha_publicacion_gaceta, class: 'form-control',  
+                      as: :date, value: f.object.fecha_publicacion_gaceta %>
+                  </div>
+                  <div class="form-group">
+                    <%=  f.label :fecha_vencimiento, "Fecha Vencimiento" %>
+                    <%=  f.date_field :fecha_vencimiento, class: 'form-control',  
+                      as: :date, value: f.object.fecha_vencimiento %>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+       <%= f.fields_for :titulo_habilitante, @autorizacion.titulo_habilitante do |builder| %>
+            <%= f.fields_for :asiento, @autorizacion.titulo_habilitante.asiento do |builder| %>
+                <%= render partial: 'shared/asiento', :locals => {:asiento_f => builder, :clase => "autorizacion"} %>
+            <% end %>
+            <%= render partial: 'shared/titulo_habilitante', :locals => {:f => builder, :clase => "autorizacion", :objeto => @autorizacion} %>
+        <% end %> 
+
+      <div class="panel panel-default">
+        <div class="panel-heading">Zona</div>
+          <div class="panel-body">
+            <% f.object.zona.each do |zona| %>
+              <%= f.fields_for :zona, zona do |builder| %>
+                <%= render partial: 'shared/zonas', :locals => {:f => builder, :clase => "autorizacion"} %>
+              <% end %>
+            <% end %>
+
+            <div class="form-group">
+              <p><%= link_to_add_fields "Agregar Zona", f, :zona %> </p>
+            </div>
+        </div>
+      </div>
+
+          <div class="col-md-1 col-md-offset-7">
+            <div class="form-group">
+              <%= link_to 'Regresar', asientos_path %>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="form-group">
+              <% if action_name != 'show' %>
+                <%= f.submit 'Guardar cambios', class: "btn btn-primary" %>
+              <% end %>
+            </div>
+          </div>
+   </div>
+  <% end %>
+</div>

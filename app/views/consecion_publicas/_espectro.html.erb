@@ -1,0 +1,18 @@
+<div class="panel panel-default">
+  <div class="panel-heading">Clasificación de Uso del Espectro</div>
+    <div class="panel-body">
+      <div class="col-md-4">
+        <div class="form-group">
+          <%=  f.collection_select :clasificacion_uso_espectro, Espectro::CLASIFICACION_USO, :value, :label,  class: 'form-control'%>
+        </div>
+      </div>
+     </div>
+   </div>
+
+   <%= f.fields_for :titulo_habilitante, @consecionpublica.espectro.titulo_habilitante do |builder| %>
+        <%= f.fields_for :asiento, @consecionpublica.espectro.titulo_habilitante.asiento do |builder| %>
+            <%= render partial: 'shared/asiento', :locals => {:asiento_f => builder, :clase => "consecion_publica"} %>
+        <% end %>
+        <%= render partial: 'shared/titulo_habilitante', :locals => {:f => builder, :clase => "consecion_publica", :objeto => @consecionpublica.espectro} %>
+    <% end %> 
+

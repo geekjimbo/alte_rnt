@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero_publicacion_gaceta: MyString
+  fecha_publicacion_gaceta: MyString
+  tipo_red: MyString
+
+two:
+  numero_publicacion_gaceta: MyString
+  fecha_publicacion_gaceta: MyString
+  tipo_red: MyString

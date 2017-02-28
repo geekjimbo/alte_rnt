@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  titulo_contrato: MyString
+  fecha_vigencia: 2015-09-18
+  estado_contrato: false
+  nota: MyText
+
+two:
+  titulo_contrato: MyString
+  fecha_vigencia: 2015-09-18
+  estado_contrato: false
+  nota: MyText

@@ -1,0 +1,129 @@
+﻿________________
+
+, , sute
+El EC al I-, cas
+6662-ՏՍTEլ-ՏCՏ-2014
+El suscrito, Secretario del Consejo de la Superintendencia de Telecomunicaciones, en ejercicio de las competencias que le atribuye el inciso b) del artículo 50 de la Ley General de la Administración Pública, ley 6227, y el artículo 35 del Reglamento interno de organización y funciones de la Autoridad Reguladora de los Servicios Públicos y su órgano desconcentrado, me permito comunicarle(s) que en sesión extraordinaria No 055-2014, celebrada el 24 de setiembre del 2014, mediante acuerdo 010-055-2014, de las 9:30 horas, el Consejo de la Superintendencia de Telecomunicaciones aprobó por unanimidad, la siguiente resolución:
+RCS-232-2014
+“ORDEN DE USO COMPARTIDO ENTRE EL INSTITUTO COSTARRICENSE DE ELECTRICIDAD Y LEVEL (3) COMMUNICATIONS COSTA RICA, S.R.L.”
+EXPEDIENTES OT-159-2011 y INT-00497-2014
+RESULTANDO
+1. Que el INSTITUTO COSTARRICENSE DE ELECTRICIDAD, cédula jurídica número 4-000-042139 (en adelante "ICE"), es propietario de la Estación de Cable Submarino ubicada en Esterillos, Parrita, Puntarenas, conocida con el nombre de "Unquí" (en adelante la "Estación").
+2. Que mediante el "Contrato del uso del espacio de Global Crossing" suscrito entre GLOBAL CROSSING COSTA RICA, S.R.L., (ahora LEVEL (3) COMMUNICATIONS COSTA RICA SRL) y el ICE en el año 2006, se le otorgó en ese entonces a LEVEL 3 un derecho irrevocable de uso sobre el espacio y los ductos que conectan la Estación con el punto de anclaje del cable submarino "Beach Man Hole", perteneciente a la red global de cable submarino propiedad de Global Crossing Limited (casa matriz de LEVEL 3).
+3. Que el “Contrato del uso del espacio de Global Crossing" fue suscrito con anterioridad a la Ley General de Telecomunicaciones, ley 8642, no obstante el ICE y LEVEL (3) COMMUNICATIONS COSTA RICA SRL acordaron en la cláusula 43 y en el Suplemento C punto 7, que cuando las restricciones a la competencia o prestación de servicios fuesen eliminadas en Costa Rica, LEVEL 3 tendría libertad de acceso directo, sin costo adicional, con su fibra óptica a sus equipos de telecomunicaciones instalados en la Estación.
+4. Que desde el mes de noviembre del 2010, el ICE y LEVEL 3 han sostenido negociaciones con el fin de adecuar el "Contrato del uso del espacio de Global Crossing" a la normativa vigente y permitir que LEVEL 3 conecte redes de back haul de terceros directamente a sus equipos instalados en la Estación.
+5. Que las Partes lograron negociar totalmente un proyecto de adenda al "Contrato del uso del espacio de Global Crossing", cuya última versión fue remitida por el ICE a LEVEL 3 el día 13 de julio del 2011, y aprobada por LEVEL 3 el día 20 de julio del 2011.
+6, Que a pesar de lo anterior, mediante oficio 6000-1733-2011 del día 6 de setiembre del 2011, el ICE comunicó a LEVEL 3 que se habían efectuado las consideraciones del caso, y que la solución técnica viable debía implicar el uso de cross-conexiones por medio del ICE-RACSA para permitir a terceros operadores de redes de back haul conectarse a los equipos de LEVEL 3 en la Estación.
+7. Que mediante oficio del 28 de setiembre del 2011, LEVEL 3 solicitó formalmente la intervención de la Superintendencia de Telecomunicaciones (en adelante "SUTEL") ante la imposibilidad de formalizar los acuerdos alcanzados en el proceso de negociación llevado a cabo con el ICE. Adicionalmente, LEVEL 3 solicitó que se dicte como medida provisional el acceso material inmediato en los términos y
+- - Página 1 de 46 F +5.0.3221545324 San José — Costa Rica
+Յ00-B3-ՏՍTEԼ gCO-88-78335
+T+506 AC00-0000 Apartado 151-1200
+gestion documental&sutel.go.cr.
+________________
+  
+________________
+
+10.
+11.
+12.
+13.
+C. Sutel
+-----------L-I-C-LEl ECO, coco. Es
+condiciones negociados entre las Partes en el proyecto de adenda al "Contrato del uso del espacio de Global Crossing".
+Que mediante resolución del Consejo de la SUTEL, RCS-219-2011 de las 10:30 horas del 4 de octubre de 2011, se dio la apertura del respectivo procedimiento de intervención y se dictó una medida cautelar en los siguientes términos: "Se ordena al ICE iniciar de forma inmediata la ejecución de los términos y condiciones debidamente acordados entre GLOBAL CROSSING Costa Rica SRL y el ICE en el denominado "addendum al contrato de uso del espacio de Global Crossing (Costa Rica)", visible del folio 61 al 66 del expediente SUTEL-OT-159-2011".
+Que en fecha 22 de noviembre de 2011, funcionarios de la SUTEL realizaron inspección en la estación de cable submarino denominada "Unqu" para efectos de establecer las condiciones reales y el estado de avance de la ejecución de la medida cautelar ordenada por el Consejo de la SUTEL.
+Que como resultado de dicha intervención e inspección, el Consejo de la SUTEL emitió la resolución RCS-258-2011 de las 12:00 horas del 30 de noviembre de 2011, que en lo que interesa acordó:
+"l. Determinar que la solución técnica del contrato de uso compartido entre GLOBAL CROSSING COSTA RICA, S.R.L. y el CE debe comprender el uso y disposición (acceso) del espacio necesario dentro de la Estación Unquí para que GXCR y otros operadores de redes autorizados puedan interconectarse entre sí, y estos últimos logren así un acceso directo a capacidad de transporte internacional sin estar, necesariamente, obligados a adquirir los servicios y recursos del CE o efectuar cross-conexiones con este operador.
+ll.Otorgar a GLOBAL CROSSING COSTA RICA, S.R.L. y al CE un plazo de quince días hábiles para que negocien las demás condiciones económicas y jurídicas de su relación y sometan ante esta Superintendencia el respectivo contrato de uso compartido.
+III. Determinar que durante este plazo de negociación del respectivo contrato de uso compartido, el CE y GXCR deberán aplicar las condiciones jurídicas y económicas del "Contrato del uso del espacio de Global Crossing" suscrito en el año 2006 y su respectivo Adendum. No obstante, en pro de los principios de equidad y proporcionalidad, una vez determinado el precio final por el uso compartido de la Estación, las Partes deberán liquidar lo correspondiente según la diferencia entre lo pagado y lo que realmente se debió haber cancelado según el precio final que sea acordado por las Partes, o bien, establecido por esta Superintendencia en caso de intervención subsidiaria."Énfasis agregado
+Que mediante resolución RCS-265-2011 el Consejo de la SUTEL resolvió el recurso de reposición interpuesto por Global Crossing, ahora LEVEL 3, en contra de la resolución RCS-258-2011 y en lo que interesa, estableció:
+"1. Aclararque la orden dictada mediante la resolución RCS-258-2011 a las 12:00 horas del 30 de noviembre de 2011 debe ser cumplida y ejecutada íntegramente y que el CE debe procedera conectar la fibra óptica suministrada por GXCR desde el poste hasta el distribuidor óptico DGXCR ubicado en la Estación Unqu de forma inmediata. ll. Apercibir a Global Crossing Costa Rica SRL y al CE que deberán remitira esta Superintendencia, en un plazo máximo de tres días hábiles contados a partir de la notificación de esta resolución, un informe mediante el cual se compruebe la ejecución y finalización de la medida técnica dictada en el Portanto de
+a RCS-258-2011 de las 12:00 horas del 30 de Oviembre de 2012."
+Que mediante escrito del 12 de diciembre del 2012 (Nl 4886-12) la representante de LEVEL 3, en ese momento Global Crossing, comunicó a la SUTEL el cumplimiento técnico de las obras requeridas al
+CE de conformidad con lo establecido en la resolución RCS-265-2011.
+Que mediante oficio N° 6162-0080-2012, recibido en la SUTEL el 25 de enero de 2012 (Nl: 0396-12), ambas partes notifican el inicio de las negociaciones para la suscripción de un acuerdo de uso compartido de infraestructura y coubicación de equipos entre el CE y LEVEL 3.
+T+506 4000 0000 Apartado 151-1200 åtlina F#5052215-6321 San José - Cosla Rica Página 2 de 46
+ՅԱյ-53-ՏլյTEլ gestion(locumental&sutel.go.cr.
+GÖÖ 83-7BH35
+________________
+  
+________________
+
+14.
+15.
+16.
+17.
+18.
+19,
+20.
+o Sutel
+51 PERIILEHLEIC LE TELEcomunicaciones
+Que mediante oficio 1292-SUTEL-DGM-2014 del 4 de marzo de 2014, la Dirección General de Mercados dio respuesta a la consulta planteada por la empresa LEVEL 3 el 14 de febrero del mismo año (Nl: 1293-14). En dicho oficio se indicó, en lo que interesa, que: a. La Orden de Uso Compartido, dictada mediante resolución RCS-258-2011 estableció claramente que la solución técnica del contrato de Uso Compartido entre L3 y el ICE, debía contemplar el uso y disposición (acceso) del espacio necesario dentro de la Estación Unquí para que L3 y otros operadores puedan interconectarse entre sí, de forma tal que estos últimos logren un acceso directo a la capacidad internacional. b. La conexión externa por medio del poste fuera del perímetro de la Estación, fue solo una medida provisional que quedó sustituida con la orden dictada posteriormente por la SUTEL en la resolución RCS-258-2011. c. La Orden girada por el Consejo de la SUTEL para que la solución técnica del contrato de Uso Compartido entre L3 y el ICE contemple el uso y disposición (acceso) del espacio necesario dentro de la Estación Unquí para que L3 y otros operadores puedan interconectarse entre sí, de forma tal que estos últimos logren un acceso directo a la capacidad internacional, se mantiene vigente y debe ser acatada por ambas Partes.
+Que mediante oficio N° 6162-0245-2014, presentado el pasado 26 de febrero del presente año, la representante legal del Instituto Costarricense de Electricidad (ICE) le solicitó al Consejo de la SUTEL una nueva intervención dentro del proceso de negociación del acceso y uso de facilidades esenciales con la empresa LEVEL 3 en los términos previstos en la normativa que rige el régimen de acceso de interconexión.
+El ICE señaló en su oficio, entre otras cosas, que ha cumplido con el mandato de la SUTEL mostrando la mayor voluntad y disposición de seguir negociando con su representada la firma de un contrato de acceso y uso compartido de infraestructura con LEVEL 3. Sin embargo, expresa que ha habido continuos cambios de posición mostrados por LEVEL 3 que han impedido culminar con éxito este proceso.
+De ahí que ha solicitado la intervención de la SUTEL para que se establezca lo siguiente: 1) reiterar los presupuestos y decisiones establecidas en la resolución RCS-258-2011; 2) ordenar a LEVEL 3 el pago de US$ 537.662.23; 3) Ordenar a LEVEL 3 el pago de los cargos mensuales recurrentes para los meses de noviembre y diciembre del año 2013 y enero del año 2014, así como mantener el pago regular por este concepto; 4) dictar orden definitiva de acceso y uso compartido de infraestructura, con base en el contrato negociado y aprobado por las Partes hasta diciembre de 2013; 5) resolver lo concerniente a la redacción del artículo 3 del citado contrato, denominado como "Objeto".
+Que de acuerdo al expediente administrativo 10053-STT-INT-00497-2014, que corresponde al expediente administrativo de acceso y uso compartido de infraestructura entre el ICE y Level 3, enviado por el ICE a la SUTEL mediante el oficio 6162-0319-2014, el 12 de marzo de 2014 (Nl 2072-14), queda constando que las Partes han mantenido constantes negociaciones hasta la fecha en que el ICEsolicita retomar la intervención de la SUTEL en este asunto.
+Que mediante oficio N° 01882-SUTEL-DGM-2014 del 27 de marzo de 2014 la Dirección General de Mercados le hizo el traslado correspondiente a la empresa LEVEL 3 de la solicitud de intervención mencionada. En dicho traslado, se le otorgó un plazo máximo de diez días hábiles para que procediera a pronunciarse sobre todos los alcances de la petición del ICE y los documentos remitidos los cuales constan en el expediente No 10053-STT-INT-00497-2014. En el mismo término se le dio oportunidad de presentar la prueba y documentación que considerara procedente.
+Que mediante oficio sin número, recibido en la SUTEL en fecha 22 de abril de 2014 (N:3201-14), la empresa LEVEL 3 atendió la audiencia conferida por la Dirección General de Mercados y solicitó lo siguiente: 1. Rechazar la petitoria 1 del escrito del ICE. 2 Rechazar la petitoria 2 para que sea la SUTEL quien fije el monto a pagar correspondiente al período entre el 8 de diciembre de 2011 y junio de 2013. 3. Rechazar la petitoria 3 del ICE para que la SUTEL determine los montos de los pagos mensuales recurrentes por el uso compartido de la infraestructura en cuestión. 4. Rechazar la petitoria 4 para que
+т+506 4000-0000 Apartado 151-1200 Página 3 de 46 F #505 22:15-6321 San JOSé - Cosla Rica
+80)-Յ8-ՏԱTEլ gestiondocumental{\sutel.go.cr
+800-83-78335
+________________
+  
+________________
+
+o Sutel
+堑PER)TF雷、曰 tttt: 1յիIIՇ:::It11ES
+SUTEL ordene la suscripción de una adenda al contrato vigente cuyo último texto fue aportado por LEVEL 3.
+CONSIDERANDO:
+PRIMERO: soBRE LA INTERVENCIÓN DE LA SUTEL EN EL RÉGIMEN DE ACCESO E ΙΝΤΕRCΟΝΕΧΙΟΝ.
+Que de conformidad con el artículo 59 de la Ley General de Telecomunicaciones, ley 8642, la SUTEL deberá asegurar que el acceso e interconexión sean provistos en forma oportuna y en términos y condiciones no discriminatorias, razonables, transparentes, proporcionadas al uso pretendido y que no impliquen más que lo necesario para la buena operación del servicio previsto. Que el inciso h) del artículo 60 de la Ley de la Autoridad Reguladora de los Servicios Públicos, ley 7593, indica que dentro de las obligaciones de la SUTEL se encuentra asegurar el cumplimiento de las obligaciones de acceso e interconexión que se impongan a los operadores de redes de telecomunicaciones, así como la interoperabilidad de dichas redes.
+Que el artículo 60 de la Ley 8642 claramente dispone que "(...) En caso de que exista negativa de un operador de la red pública de telecomunicaciones para llevar a cabo negociaciones de interconexión o acceso, o el acuerdo no se concrete dentro de los tres meses Siguientes a la notificación, la SUTEL, de oficio o a petición de parte, intervendrá con el fin de determinar la forma, los términos y las condiciones bajo las cuales se llevará a cabo el acceso o la interconexión, lo anterior sin perjuicio de las sanciones dispuestas en esta Ley. La SUTEL hará dicha determinación en un plazo máximo de dos meses, contado a partir de que acuerde la intervención. (...)".
+Que el artículo 42 del Reglamento de Acceso e Interconexión de Redes de Telecomunicaciones reitera que los mecanismos para el establecimiento del acceso y la interconexión son los siguientes: a) Por acuerdo negociado, sujeto al marco regulatorio vigente, entre los operadores o proveedores, que deberá ser aprobado por la SUTEL, y b) Por orden de la SUTEL, con el fin de hacer cumplir la obligatoriedad de acceso e interconexión.
+Que dicha orden de acceso e interconexión es dictada por la SUTEL a través de un procedimiento administrativo sumario y reglado en los artículos 41 a 57 y 64 a 66 del Reglamento de Acceso e Interconexión de Redes de Telecomunicaciones.
+Que en el presente asunto, la SUTEL abrió el procedimiento de intervención mediante la resolución RCS-219-2011 de las 10:30 horas del 4 de octubre de 2011, resolución en la cual se impuso adicionalmente una medida cautelar. Pero a la vez, producto de dicha intervención se emite una orden para el uso compartido de infraestructura mediante la resolución RCS-258-2011 de las 12:00 horas del 30 de noviembre de 2011, complementada con la resolución RCS-265-2011. En esa primera etapa del proceso de intervención la SUTEL le ordenó a las partes continuar con las negociaciones respectivas a efecto de procurar que llegaran a un acuerdo voluntariamente,
+A la fecha dicho acuerdo no ha logrado concretarse y en cambio las partes han requerido que sea la Superintendencia quien resuelva los asuntos de fondos que aún se encuentran pendientes, a saber: 1) reiterar los presupuestos y decisiones establecidas en la resolución RCS-258-2011; 2) ordenar a LEVEL 3 el pago de US$ 537.662.23; 3) Ordenar a LEVEL 3 el pago de los cargos mensuales recurrentes para los meses de noviembre y diciembre del año 2013 y enero del año 2014, así como mantener el pago regular por este concepto; 4) dictar orden definitiva de acceso y uso compartido de infraestructura, con base en el contrato negociado y aprobado por las Partes hasta diciembre de 2013, 5) resolver lo concerniente a la redacción del artículo 3 del citado contrato, denominado como "Objeto".
+En ese contexto la SUTEL ha debido retomar la intervención a la que está obligada por así disponerlo el Reglamento de Acceso e Interconexión de Redes de Telecomunicaciones, en los términos que se desarrollan en la presente resolución.
+F +5.0.3 2215-3821 San José - Costa Rica
+ՅԱ0 ՅՑ.ՏՍTէլ
+{{s}{}-88-73335
+T+50G -{{XOK)-{J000 Apartado 151-1200 Página 4 de 46
+gestiondocumental{\sutel.go.cr.
+________________
+  
+________________
+
+C. Sute
+šPEF|TEMUE-E TELECUl|Ull:CCIE.
+SEGUNDo: soBRE Los PUNTos EN Los QUE HAY AcUERDo ENTRE LAs PARTES Y Los PUNTos ENDISCUSON.
+Para efecto de resolución de este asunto, se estima necesario establecer con precisión, lo siguiente.
+l.- Puntos en los que hay acuerdo entre las partes:
+i.Condiciones técnicas del uso compartido. ii.Contrato remitido y aceptado por ambas partes con excepción de la cláusula 3 relativa al "Objeto". iii.Debe existir un pago del retroactivo por el período de diciembre de 2011 a junio 2013. iv.Se debe hacer un pago mensual recurrente desde diciembre 2013 y hasta la fecha.
+ll. Puntos en discusión:
+i.Monto del cargo mensual recurrente por el uso compartido de la Estación.
+ii.Monto retroactivo que Level 3 debe pagar al ICE correspondiente al cargo mensual recurrente por el periodo que va del 8 de diciembre de 2011 al 30 de junio de 2013, calculado por el CE en la suma de $537.662.23. Para Level 3, el monto adeudado como pago retroactivo es la suma de $282.429.30
+iii.Cláusula 3 del acuerdo sobre el "Objeto" (espacio donde debe darse la conexión de los clientes de
+Level 3 con los equipos de éste).
+iv.Inclusión de la adenda al "Contrato del uso del espacio de Global Crossing" (contrato firmado en el año
+2006).
+TERCERO: SOBRE LOS HECHOS PROE3ADOS Y LOS HECHOS NO PROBADOS:
+De interés para la resolución de las peticiones planteadas por las partes, se tienen por demostrados los siguientes hechos
+l, Que el ICE y Level (3), entonces Global Crossing Costa Rica S.R.L tienen una relación previa formalizada al amparo de la Ley No 7832 de autorización para el paso de cables submarinos por el mar territorial y para el anclaje en el territorio nacional. De esa relación previa, entre otros, las partes firmaron un contrato de uso del espacio de Global Crossing (Costa Rica) en el año 2006 previo a la Ley General de Telecomunicaciones, No 8642. Véase el expediente administrativo.
+||. Que con posterioridad a la entrada en vigencia de la Ley General de Telecomunicaciones, No 8642 se le solicitó a la SUTEL intervenir para lograr que se concretara el uso compartido de la infraestructura a efecto de que terceros operadores de redes de backhaul tuvieran acceso directo a los equipos de Level 3. (Véase el expediente)
+Ill. Que en el presente caso, el procedimiento administrativo sumario fue iniciado por el Consejo de la SUTEL mediante RCS-219-2011 de las 10:30 horas del 4 de octubre del 2011. (Véase el expediente administrativo)
+IV. Que las partes siguieron negociando sin que a la fecha hayan logrado la suscripción de un
+acuerdo de acceso y uso compartido de la Estación Unquí.
+V. Que el Consejo de la SUTEL en la resolución RCS-258-2011 de las 12:00 horas del 30 de
+noviembre de 2011, que en lo que interesa acordó:
+“I. Determinar que la solución técnica del contrato de uso compartido entre GLOBAL CROSSING COSTA RICA, S.R.L. y el ICE debe comprender el uso y disposición (acceso) del espacio necesario dentro de la Estación Unquí para que GXCR y otros operadores de redes autorizados puedan interconectarse entre sí, y estos últimos logren así un acceso directo a capacidad de transporte internacional sin estar, necesariamente, obligados a adquirir los servicios y recursos del ICE o efectuar cross-conexiones con este operador.
+F-150G 2215-3821 San José - Costa Rica
+ՅԱ0-ՅՅ-ՏԱTEլ 300-88-73835
+T-4503 ACC0-0000 Apartado 151-1200 Página 5 de 46
+gestionqocumental{i}sutel.go.cr.
+________________
+  
+________________
+
+C. Sutel
+SLIFERIMITE.IE/1-1, IE TELEcollllllitariots
+II.Otorgar a GLOBAL CROSSING COSTA RICA, S.R.L. y al ICE un plazo de quince días hábiles

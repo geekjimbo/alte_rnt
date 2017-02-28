@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  clasificacion_uso_espectro: MyString
+  titulo_id: 
+  titulo_type: Titulo
+
+two:
+  clasificacion_uso_espectro: MyString
+  titulo_id: 
+  titulo_type: Titulo

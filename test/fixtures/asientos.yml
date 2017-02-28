@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  num_asiento: MyString
+  num_asiento_original: MyString
+  acto_inscribible: MyString
+  tipo_asiento: MyString
+  tipo_inscripcion: MyString
+  numero_resolucion: MyString
+  nombre_resolucion: MyString
+  titulo_resolucion: MyText
+  fecha_resolucion: 2015-09-10
+  fecha_solicitud: 2015-09-10
+  nombre_operador: MyString
+  identificacion_operador: MyString
+  nombre_representante_legal: MyString
+  cedula_representante_legal: MyString
+  usuario: MyString
+  enlace_documento: MyString
+  num_expediente_sutel: MyString
+  operadorregulado_id: 
+
+two:
+  num_asiento: MyString
+  num_asiento_original: MyString
+  acto_inscribible: MyString
+  tipo_asiento: MyString
+  tipo_inscripcion: MyString
+  numero_resolucion: MyString
+  nombre_resolucion: MyString
+  titulo_resolucion: MyText
+  fecha_resolucion: 2015-09-10
+  fecha_solicitud: 2015-09-10
+  nombre_operador: MyString
+  identificacion_operador: MyString
+  nombre_representante_legal: MyString
+  cedula_representante_legal: MyString
+  usuario: MyString
+  enlace_documento: MyString
+  num_expediente_sutel: MyString
+  operadorregulado_id: 

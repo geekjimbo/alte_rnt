@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fecha_vigencia: 2015-09-18
+  reforma: MyString
+  nota: MyText
+
+two:
+  fecha_vigencia: 2015-09-18
+  reforma: MyString
+  nota: MyText

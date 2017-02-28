@@ -1,0 +1,61 @@
+<div class="panel panel-default">
+  <div class="panel-heading">Frecuencias</div>
+    <div class="panel-body">
+      <div class="col-md-4">
+        <div class="form-group">
+          <%= f.collection_select :tipo_frecuencia, FrecuenciaEspectro::TIPOS_FRECUENCIAS, :value, :label, {:prompt => "Seleccionar Tipo Frecuencia"}, {} %>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="form-group">
+          <%=  f.label "Unidad" %>
+          <%= f.collection_select :unidad_desde, FrecuenciaEspectro::UNIDADES_FRECUENCIAS, :value, :label, class: 'form-control'%>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="form-group">
+          <%=  f.label "desde" %>
+          <%=  f.number_field :desde, class: 'form-control', :step => 0.0001 %>
+        </div>
+        <div class="form-group">
+          <%=  f.label "hasta" %>
+          <%=  f.number_field :hasta, class: 'form-control', :step => 0.0001 %>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="form-group">
+          <%=  f.label "Tx" %>
+          <%=  f.number_field :tx_desde, class: 'form-control', :step => 0.0001 %>
+        </div>
+        <div class="form-group">
+          <%=  f.label "Tx" %>
+          <%=  f.number_field :tx_hasta, class: 'form-control', :step => 0.0001 %>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="form-group">
+          <%=  f.label "Rx" %>
+          <%=  f.number_field :rx_desde, class: 'form-control', :step => 0.0001 %>
+        </div>
+        <div class="form-group">
+          <%=  f.label "Rx" %>
+          <%=  f.number_field :rx_hasta, class: 'form-control', :step => 0.0001 %>
+        </div>
+      </div>
+   </div>
+  </div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">Zona</div>
+    <div class="panel-body">
+      <% f.object.zona.each do |zona| %>
+        <%= f.fields_for :zona, zona do |builder| %>
+          <%= render partial: 'shared/zonas', :locals => {:f => builder, :clase => clase} %>
+        <% end %>
+      <% end %>
+
+      <div class="form-group">
+        <p><%= link_to_add_fields "Agregar Zona", f, :zona %> </p>
+      </div>
+  </div>
+</div>

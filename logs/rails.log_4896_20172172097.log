@@ -1,0 +1,9 @@
+*** SIGUSR2 not implemented, signal based restart unavailable!
+*** SIGUSR1 not implemented, signal based restart unavailable!
+*** SIGHUP not implemented, signal based logs reopening unavailable!
+Puma starting in single mode...
+* Version 3.7.0 (ruby 2.1.7-p400), codename: Snowy Sagebrush
+* Min threads: 0, max threads: 16
+* Environment: production
+* Listening on tcp://0.0.0.0:30421
+Use Ctrl-C to stop

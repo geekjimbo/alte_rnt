@@ -1,0 +1,336 @@
+﻿________________
+
+07479-SUTEL-SCS-2015
+El suscrito, Secretario del Consejo de la Superintendencia de Telecomunicaciones, en ejercicio de las competencias que le atribuye el inciso b) del artículo 50 de la Ley General de la Administración Pública, ley 6227, y el artículo 35 del Reglamento interno de organización y funciones de la Autoridad Reguladora de los Servicios Públicos y su Órgano Desconcentrado, me permito comunicarle(s) que en sesión ordinaria 056-2015, celebrada el 21 de octubre del 2015, mediante acuerdo 017-056-2015, de las 16:30 horas, el Consejo de la Superintendencia de Telecomunicaciones aprobó por unanimidad, la siguiente resolución:
+RCS-208-2015
+“ASIGNACION DE RECURSO NUMÉRICO ESPECIAL PARA EL SERVICIO DE COBRO REVERTIDO
+AUTOMÁTICO A FAVOR DE TELEFÓNICA DE COSTA RICA TC, S. A.”
+EXPEDIENTE T0053-STT-NUM-OT-00139-2011
+RESULTANDO
+1. Que mediante el oficio TEF-Reg0151-2015 (NI-09624-2015) recibido el día 5 de octubre de 2015, la empresa Telefónica presentó la solicitud para la asignación adicional de numeración para servicios de cobro revertido, número 800 con el siguiente detalle:
+• Quince (15) números para servicio especial de cobro revertido 800 a saber: 800-5425361, 800-5425362, 800-5425363, 800-5425364, 800-5425365, 800-5425366, 800-5425367, 800- 5425368, 800-5425369, 800-5425370, 800-5425371, 800-5425372, 800-5425373, 800- 5425374 y 800-5425375 para ser utilizados por Telefónica International Wholesale Services (TIWS).
+2. Que mediante el oficio 07426-SUTEL-DGM-2015 del 15 de octubre de 2015, la Dirección General de Mercados, rindió un informe mediante el cual acredita que en este trámite la empresa Telefónica de Costa Rica TC, S.A. ha cumplido con los requisitos exigidos tanto en el Plan Nacional de Numeración como también en el procedimiento de asignación de recurso numérico regulado por la Sutel en las resoluciones RCS-590-2009, RCS-131-2010, RCS-412-2010 y RCS-239-2013.
+3. Que se ha realizado las diligencias útiles y necesarias para el dictado de la presenta resolución.
+CONSIDERANDO
+I. Que conforme al artículo 60 inciso g) de la Ley de la Autoridad Reguladora de los Servicios Públicos, Ley N° 7593, corresponde a la Sutel controlar y comprobar el uso eficiente de los recursos de numeración.
+II. Que el artículo 73 inciso j) de la Ley N° 7593 establece que el Consejo de la Superintendencia de Telecomunicaciones debe de velar porque los recursos escasos se administren de manera eficiente, oportuna, transparente y no discriminatoria, de manera tal que tengan acceso a estos recursos todos los operadores y proveedores de redes y servicios de telecomunicaciones.
+III. Que de conformidad con los artículos 3 y 22 del Plan Nacional de Numeración (Decreto Ejecutivo N°35187-MINAET) corresponde a la Sutel la administración del Plan Nacional de Numeración y su cumplimiento, así como mantener un registro actualizado referente a la asignación del recurso numérico.
+IV. Que mediante resolución número RCS-590-2009 de las 15:00 horas del 30 de noviembre del 2009, publicada en el Diario Oficial La Gaceta número 9 el día 14 de enero del 2010, modificada y
+LUIS ALBERTO CASCANTE ALVARADO (FIRMA)
+T +506 4000-0000
+Apartado 151-1200 F +506 2215-6821
+San José – Costa Rica
+Digitally signed by LUIS ALBERTO CASCANTE ALVARADO Date: 2015.10.23 (FIRMA)
+10:10:38 -06:00 Reason: Location: Secretario Costa Rica
+del Consejo, Publicación en La Gaceta
+800-88-SUTEL
+gestiondocumental@sutel.go.cr 800-88-78835
+Página 1 de 9
+________________
+  
+________________
+
+complementada mediante las resoluciones No RCS-131-2010, RCS-412-2010 y RCS-239-2013, el Consejo de la Superintendencia de Telecomunicaciones (Sutel) dictó el procedimiento de solicitud de numeración, establecimiento de números especiales, códigos de preselección y el registro de numeración vigente.
+V. Que para efectos de resolver el presente asunto, se tiene que el informe rendido por la Dirección General de Mercados mediante oficio 07426-SUTEL-DGM-2015 del 15 de octubre de 2015, sostiene que en este asunto la empresa Telefónica de Costa Rica TC S.A. ha cumplido con los requisitos exigidos tanto en el Plan Nacional de Numeración como también en el procedimiento de asignación de recurso número regulado por la Sutel en las resoluciones RCS-590-2009, RCS-131-2010, RCS- 412-2010 y RCS-239-2013. El citado informe, que es acogido en su totalidad por este Consejo como parte de la motivación del presente acto administrativo, indica en lo que interesa, lo siguiente:
+“(...)
+2) Sobre la solicitud de los números especiales de llamadas de cobro revertido: 800- 5425361, 800-5425362, 800-5425363, 800-5425364, 800-5425365, 800-5425366, 800- 5425367, 800-5425368, 800-5425369, 800-5425370, 800-5425371, 800-5425372, 800- 5425373, 800-5425374 y 800-5425375:
+• En el caso particular, el operador cuenta ya con la asignación numeración 800 para el servicio de cobro revertido.
+• Por la naturaleza de la solicitud y del recurso de numeración objeto de ésta, en este caso no se considera necesario acreditar que el operador ha llegado al 60% del uso de la numeración previamente asignada. Esto en vista de que este tipo de numeración se solicita un número o un grupo de números a la vez, pero no en bloques.
+• Se tiene que la citada solicitud se relaciona con la petición del cliente comercial que pretende obtener los servicios de telecomunicaciones correspondientes a cada caso, por parte de Telefónica de Costa Rica TC, S.A., según lo que consta en el siguiente cuadro:
+Servicio Especial
+Número Comercial (7 Dígitos)
+Nombre Comercial
+Nombre Cliente Solicitante
+800
+5425361
+Telefónica International Wholesale Services
+800
+5425362
+800-5425361
+Telefónica International Wholesale Services
+800
+5425363
+800-5425362
+Telefónica International Wholesale Services
+800
+5425364
+800-5425363
+Telefónica International Wholesale Services
+800
+5425365
+800-5425364
+Telefónica International Wholesale Services
+800
+5425366
+800-5425365
+Telefónica International Wholesale Services
+800
+5425367
+800-5425366
+Telefónica International Wholesale Services
+800
+5425368
+800-5425367
+800-5425368
+Telefónica Wholesale International
+Services
+T +506 4000-0000 F +506 2215-6821
+800-88-SUTEL 800-88-78835
+Apartado 151-1200 San José – Costa Rica
+gestiondocumental@sutel.go.cr
+Página 2 de 9
+________________
+  
+________________
+
+Número Servicio Especial
+Comercial (7 Dígitos)
+Nombre Comercial
+Nombre Cliente Solicitante
+800
+5425369
+Telefónica International Wholesale Services
+800
+5425370
+800-5425369
+Telefónica International Wholesale Services
+800
+5425371
+800-5425370
+Telefónica International Wholesale Services
+800
+5425372
+800-5425371
+Telefónica International Wholesale Services
+800
+5425373
+800-5425372
+Telefónica International Wholesale Services
+800
+5425374
+800-5425373
+800-5425374
+Telefónica Wholesale International
+Services
+800 5425375 800-5425375
+Telefónica Wholesale International
+Services
+• Previo a la verificación de disponibilidad de la numeración solicitada en el Registro de Numeración, tal y como se indicó en el oficio 02418-SUTEL-DGM-2015, esta Dirección realizó pruebas de monitoreo y supervisión a los números asignados anteriormente bajo esta modalidad de comercialización, correspondientes a la asignación de numeración mediante la resolución RCS-157-2015, donde se verificó que tal numeración se encuentra activa, garantizándose el uso eficiente del recurso escaso.
+• Al tener ya numeración asignada para los servicios de numeración 800’s de cobro revertido, habiéndose comprobado la interoperabilidad para dicho servicio y el uso eficiente del recurso escaso, resulta solo necesario verificar la disponibilidad de los números 800-5425361, 800- 5425362, 800-5425363, 800-5425364, 800-5425365, 800-5425366, 800-5425367, 800- 5425368, 800-5425369, 800-5425360, 800-5425371, 800-5425372, 800-5425373, 800- 5425374 y 800-5425375, solicitados en el registro de numeración cuyo control está a cargo de la Dirección General de Mercados.
+• Efectuada dicha verificación, se tiene que los números 800-5425361, 800-5425362, 800- 5425363, 800-5425364, 800-5425365, 800-5425366, 800-5425367, 800-5425368, 800- 5425369, 800-5425370, 800-5425371, 800-5425372, 800-5425373, 800-5425374 y 800- 5425375, se encuentran disponibles, por lo que habiéndose acreditado el cumplimiento de los requisitos que el procedimiento de asignación exige, según lo que consta en el primer apartado de este informe, se recomienda efectuar la asignación de los números anteriormente indicados.
+3) Sobre la solicitud de Confidencialidad.
+• En la petitoria de confidencialidad del operador Telefónica de Costa Rica TC, S.A. para la declaratoria de confidencialidad de la información proporcionada con la siguiente descripción (visible folio 1485) “...Con fundamento en la resolución RCS-341-2012, formalmente se solicita que la información proporcionada sea declarada confidencial por tratarse de datos y proyecciones estratégicos para la compañía.”
+• Al respecto hay que indicar que efectivamente en el acuerdo 006-071-2012 de la sesión celebrada el 14 de noviembre del 2012, se adoptó la resolución No. RCS-341-2012 en la cual
+T +506 4000-0000 F +506 2215-6821
+800-88-SUTEL 800-88-78835
+Apartado 151-1200 San José – Costa Rica
+gestiondocumental@sutel.go.cr
+Página 3 de 9
+________________
+  
+________________
+
+se establece que el Consejo de la Superintendencia de Telecomunicaciones declara confidenciales los siguientes indicadores pertenecientes a la categoría de:
+“...i) Tráfico. Telefonía Móvil y Acceso a internet Móvil Tráfico total de llamadas (minutos y cantidad de llamadas) Tráfico total de SMS Tráfico total de datos (Kbps) desagregado por sistema de acceso a internet. .... iii) Infraestructura Capacidad de atención e usuarios de la infraestructura instalada...”
+• Que la información presentada en el oficio de la empresa Telefónica de Costa Rica TC, S.A. corresponde a información general en los cuales se describen las asignaciones del recurso numérico asignado para la identificación de los usuarios con servicios de comunicaciones; así como información que presentó cuando se procedió a realizar la autorización para la asignación de recurso de numeración al brindarle la admisibilidad e inscripción en el Registro Nacional de Telecomunicaciones. Dado que esto corresponde a descripciones generales, no se considera que sea información que deba ser declarada como de carácter confidencial.
+• Si bien la empresa aduce que se trata de datos y proyecciones estratégicos para la compañía, no se encuentra en dicha solicitud tales proyecciones, además los datos presentados, se refieren a descripciones generales en los cuales se describen las asignaciones del recurso numérico asignado para la identificación de los usuarios. En consecuencia, para la Dirección General de Mercados esa información al igual que el resto de los datos deben ser públicos y de acceso general. Asimismo la empresa no indica la razón por la cual la divulgación de la información proporcionada en los requisitos generales y específicos de la RCS-590-2009 y sus modificaciones RCS-131-2010, RCS-412-2010 y RCS-239-2013; ocasionaría un perjuicio a Telefónica de Costa Rica TC S.A., no se considera que la presentación de confidencialidad cumpla con las condiciones para que sea declarada la información proporcionada como de carácter confidencial.
+IV. Conclusiones y Recomendaciones:
+1. De acuerdo con lo expuesto en los apartados anteriores, se recomienda asignar a favor de Telefónica de Costa Rica TC, S.A. la siguiente numeración, conforme a la solicitud planteada en el oficio número TEF-Reg-0151-2015 (NI-09624-2015).
+Servicio Especial
+Número Comercial (7 Dígitos)
+# Registro
+Nombre Numeración
+Comercial
+Nombre Cliente Solicitante
+800 5425361 41000063 800-5425361
+TIPO
+Operador de Servicios
+Telefónica International Wholesale Services
+800 5425362 41000064 800-5425362
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425363 41000065 800-5425363
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Cobro Revertido Automático
+Telefónica Telefónica de
+International Costa Rica TC, S. A.
+Wholesale Services
+T +506 4000-0000 F +506 2215-6821
+800-88-SUTEL 800-88-78835
+Apartado 151-1200 San José – Costa Rica
+gestiondocumental@sutel.go.cr
+Página 4 de 9
+________________
+  
+________________
+
+Número Servicio
+Comercial
+# Registro
+Nombre Especial
+(7
+Numeración
+Comercial Dígitos)
+Nombre Cliente Solicitante
+800 5425364 41000066 800-5425364
+Telefónica International Wholesale Services
+800 5425365 41000067 800-5425365
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425366 41000068 800-5425366
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425367 41000069 800-5425367
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425368 41000070 800-5425368
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425369 41000071 800-5425369
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425370 41000072 800-5425370
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425371 41000073 800-5425371
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425372 41000074 800-5425372
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425373 41000075 800-5425373
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425374 41000076 800-5425374
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425375 41000077 800-5425375
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Cobro
+Telefónica
+Revertido Automático
+Telefónica de
+International Costa Rica TC, S. A.
+Wholesale Services
+2. No declarar la confidencialidad de los datos presentados con la solicitud, al carecer de
+fundamentación técnica y jurídica suficiente que acredite una posible lesión para la empresa
+T +506 4000-0000 F +506 2215-6821
+800-88-SUTEL 800-88-78835
+TIPO
+Apartado 151-1200 San José – Costa Rica
+gestiondocumental@sutel.go.cr
+Operador de Servicios
+Página 5 de 9
+________________
+  
+________________
+
+(...)”
+VI. Que la Sutel debe satisfacer las necesidades actuales y potenciales de nuevos operadores de servicios de telecomunicaciones, asegurando la máxima disponibilidad del recurso numérico, para lo cual debe garantizar la equidad y la transparencia de los procedimientos de asignación de numeración y ampliación de la numeración asignada previamente, tanto para redes de telefonía básica tradicional, telefonía móvil y telefonía por voz IP.
+VII. Que el Consejo de la Sutel considera oportuno, dada la cantidad de numeración solicitada propia de la modalidad de comercialización que realiza la empresa Telefónica de Costa Rica TC, S.A.; realizar pruebas de monitoreo y supervisión a los números asignados mediante resoluciones anteriores y que responden a usos y condiciones similares, con el fin de verificar que se encuentren activos y que respondan a un uso eficiente.
+VIII. Que de igual forma, el Consejo coincide con la Dirección General de Mercados en no declarar confidencial los datos presentados en la solicitud de recurso numérico, mediante oficio TEF- Reg0151-2015 (NI-09624-2015) recibido el 5 de octubre de 2015, en vista que éstos responden a información general en los cuales se describen las asignaciones del recurso numérico asignado para la identificación de los usuarios con servicios de telecomunicaciones, así como información de carácter general propio de la prestación del servicio.
+IX. Que de conformidad con los resultandos y considerandos que preceden, de acuerdo al mérito de los autos, lo procedente es asignar el recurso de numeración a Telefónica de Costa Rica TC, S.A., acogiendo al efecto la recomendación efectuada por la Dirección General de Mercados de esta Superintendencia de Telecomunicaciones.
+POR TANTO
+Con fundamento en las competencias otorgadas por la Ley General de Telecomunicaciones, Ley 8642, la Ley de la Autoridad Reguladora de los Servicios Públicos, Ley 7593, la Ley General de Administración Pública, Ley 6227, y el Plan Nacional de Numeración (Decreto Ejecutivo 35187-MINAET).
+EL CONSEJO DE LA SUPERINTENDENCIA DE TELECOMUNICACIONES RESUELVE:
+1. Asignar a la empresa Telefónica de Costa Rica TC, S. A., cédula de persona jurídica 3-101-
+610198, la siguiente numeración:
+Servicio Especial
+Número Comercial (7 Dígitos)
+Nombre Comercial
+Operador de Servicios
+Nombre Cliente Solicitante
+800 5425361 800-5425361
+TIPO
+Telefónica International Wholesale Services
+800 5425362 800-5425362
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425363 800-5425363
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425364 800-5425364
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Cobro Revertido Automático
+Telefónica International Wholesale Services Telefónica de Costa Rica TC, S. A.
+T +506 4000-0000 F +506 2215-6821
+800-88-SUTEL 800-88-78835
+Apartado 151-1200 San José – Costa Rica
+gestiondocumental@sutel.go.cr
+Página 6 de 9
+________________
+  
+________________
+
+Número Servicio
+Comercial
+Nombre Especial
+(7
+Comercial Dígitos)
+Nombre Cliente Solicitante
+800 5425365 800-5425365
+TIPO
+Telefónica International Wholesale Services
+800 5425366 800-5425366
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425367 800-5425367
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425368 800-5425368
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425369 800-5425369
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425370 800-5425370
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425371 800-5425371
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425372 800-5425372
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425373 800-5425373
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425374 800-5425374
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+800 5425375 800-5425375
+Cobro Revertido Automático
+Telefónica de Costa Rica TC, S. A.
+Cobro Revertido
+Telefónica de Automático
+Costa Rica TC, S. A.
+Telefónica International Wholesale Services
+2. No declarar confidencial la información proporcionada por la empresa Telefónica de Costa Rica, TC, S.A., en la solicitud de recurso numérico presentada mediante oficio TEF-Reg0151-2015 (NI- 09624-2015).
+3. Apercibir a la empresa Telefónica de Costa Rica TC, S.A., que debe asegurar y garantizar la interoperabilidad de los servicios y de toda la numeración asignada por la Sutel, en cumplimiento de lo establecido por el Reglamento de Acceso e Interconexión de Redes de Telecomunicaciones, el Plan Nacional de Numeración y el Procedimiento de Asignación de Numeración establecido por la Sutel.
+4. Notificar esta resolución a todos los operadores con numeración asignada, con el propósito de que se configuren las rutas necesarias que aseguren la interoperabilidad de la numeración asignada en esta resolución en un plazo máximo de cinco días hábiles.
+T +506 4000-0000 F +506 2215-68

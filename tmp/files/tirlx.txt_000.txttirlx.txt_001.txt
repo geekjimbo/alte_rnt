@@ -1,0 +1,589 @@
+elecomunicaciones para los cuales se solicita la autorizaci6n:
+
+De acuerdo con el estudio hecho a la solicitud presentada por la empresa BLUE SAT SERVICIOS
+ADMINISTRADOS DE TELECOMUNICACIONES S.A., referente a to indicado en el expediente administrativo
+
+80161- STT AUT-00470 - 013, se desprende que la autorizaci6n requerida es para explotarlas redes publicas de 2
+telecomunicaciones que se desarrollan dentro de las edificaciones, en las cuales el operador administra el
+T + 506 4000 -0000
+Apartado 151 - 1200
+
+Pagina 5 de 16
+
+F + 506 2215 -6821 800- 88 -SUTEL
+800 -88 -78835
+
+San Jose --Costa Rica
+gestiondocumentaMsutel. go. cr
+
+4 aprovisionamiento de los servicios de television por subscripcidn, telefonia IP y acceso a Internet.
+
+J
+
+sutel
+SUPERINTENDENCIA DE
+TELECOMUNICACIONES
+
+0,00 (
+parrafo anterior cumpla con los requerimientos tecnicos, esta Superintendencia analizd la propuesta tecnica y la
+documentacion aportada por BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOMUNICACIONES S.A., para determinar la posibilidad de su implementacion de la actividad comercial pretendida, esto con el fin de
+Sutel. b)
+
+0
+
+Con base a la informacion contenida en el expediente administrativo y para garantizar que en to indicado en el
+
+determinar que la empresa cuenta con la capacidad suficiente para cumplir con las obligaciones establecidas por
+
+Acreditar la capacidad tecnica relacionada con los servicios que se pretende autorizar. Para ello debera:
+i.
+
+Indicar con detalle y claridad /as capacidades tecnicas de los equipos, tanto a nivel de nucleo,
+distribucidn y acceso.
+
+Es criterio de la Direccidn General de Mercados que BLUE SAT SERVICIOS ADMINISTRADOS DE
+TELECOMUNICACIONES S.A., ha cumplido al suministrar informacion suficiente sobre el detalle de las
+aprecia en los folios 24 al 41 y 137 al 142 del expediente administrativo.
+ii.
+
+capacidades y caracteristicas tecnicas de los equipos requeridos para brindar el servicio solicitado, esto luego de analizar el modelo de negocio de la empresa a identificar la composicidn de su red, to cual se
+Incluir un diagrama de red (equipos, enlaces y puntos de interconexion con otras redes, en caso
+de proceder el acceso a redes internacionales) para cada servicio solicitado.
+
+Con respecto a la informacion de los diagramas de red para explotar las redes publicas de
+telecomunicaciones construidas dentro de las edificaciones en general en donde administre el
+
+aprovisionamiento de los servicios de telefonia IP, acceso a Internet y servicios de television por
+
+suscripcidn, es criterio de esta Direccidn General de Mercados, que la informacion suministrada por la empresa solicitante es completa y suficiente, para to cual se indican la informacion de los diagramas
+correspondientes.
+
+Referente a las soluciones que administra la empresa en la operacidn de los servicios de
+telecomunicaciones que ofrece hacia los usuarios finales, se muestran los diagramas referentes a las
+
+conexiones necesarias para interconectar los elementos de red que componen la estructura de
+interconexion en la administracidn de los servicios que va proveer a sus usuarios
+
+En la figura 1 se muestra el diagrama general que BLUE SAT SERVICIOS ADMINISTRADOS DE
+TELECOMUNICACIONES S.A., aportd en su solicitud de autorizacidn para esquematizar la distribucion
+
+de la red de interconexion en la administracidn de las regiones de operacidn, indicando las capacidades
+
+de ancho de banda en las comunicaciones que se habilitan para la prestacidn de los servicios. Cada uno
+de las regiones las habilita para un servicio MPLS de 4 MB.
+
+T + 50064000 -0000 F + 506 2215 6821 800- 88 SUTEL
+800 -88- 78835
+
+Apartado 151 - 1200
+
+Pagina 6 de 16
+
+San Jose - Costa Rica
+gestiondocumental @sutel. go. cr
+
+414A.
+
+A sutel
+
+SUPERINTENDENCIA DE
+TELECOMUNICACIONES
+
+0® 02? 1
+Avenida
+
+Marina Paz Vela
+
+Escazu
+
+ICE
+
+i
+
+ICE
+
+ICE
+MPLS 4 MB · :-
+
+i
+u
+
+MPLS
+
+4 MB
+
+n`
+
+Figura 1 Esquema general de interconexion de los sitios para su administracion remota
+y sus respectivas capacidades.
+
+En la figura 2, se muestra la configuration general que realizan para el desarrollo de la infraestructura de conexidn de un sitio ( centro comercial --cliente), hacia su red de gestion y aprovisionamiento del servicio de acceso a Internet,
+
+telefonia IP y televisi6n por suscripcion, indica que los equipos a utilizar se especifican desde el folio 71 al 135.
+
+Figura 2 Arquitectura general de la distribucidn de los elementos de red
+
+La empresa BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOMUNICACIONES S.A. se basa en el desarrollo, diseno e instalacion en integration de servicios de infocomunicaciones, para desarrollo
+particulares con base a los requerimientos del cliente.
+
+T + 5064000 0000
+
+Apartado 151 - 1200
+
+PAgina 7 de 16
+
+F + 506 2215- 6821 800- 88 SUTEL
+800 - 88 78835
+
+San Jose -- Costa Rica
+gestiondocumentaWsutel. go.cr
+
+sutel
+SUPERINTENDENCIA OE
+TELECOMUNICACIONES
+
+0® 02
+Consecuentemente, en el expediente administrativo se pueden observar los diferentes contratos de servicios de telecomunicaciones, referentes a las capacidades de acceso Internet contratadas a un / SP, en donde presenta contratos con diferentes proveedores y capacidades, segun consta en los folios 11 al
+21 del expediente administrativo.
+W.
+
+Incluir el programa de cobertura geografica. Debe presentarse un cronograma que refleje la expansion de la cobertura geografica de la ampliaci6n de las zonas o areas de cobertura, el debera
+relacionarse directamente con la cantidad de clientes a los que se pretende servir.
+
+La empress solicita autorizaci6n sobre locaciones ubicadas con base al desarrollo de edificaciones en
+particular, consecuentemente las conexiones solicitadas estan fundamentadas segun el requerimiento en
+donde se desarro116 el inmueble.
+
+Se indican locaciones segun el folio 47 del expediente administrativo, descritas en la tabla a continuaci6n:
+Tabla 1 Region de cobertura de la empresa.
+
+Provincia
+San Jose
+
+canton
+Escazu
+
+D sfrito {
+San Rafael San Vicente
+San Rafael
+
+San Jose
+
+Moravia Escazu Escazu Ala' uela
+Belen
+
+San Jose
+San Jose
+
+San Rafael
+Rio Segundo
+
+Ala' uela
+Heredia Puntarenas
+
+La Ribera
+
+Que os
+
+I Aguirre
+
+XXII. Que en virtud de las consideraciones anteriores, se considera que la empresa BLUE SAT SERVICIOS
+ADMINISTRADOS DE TELECOMUNICACIONES S. A. cumple con
+los requisitos tecnicos para
+
+explotaci6n de una red publica de telecomunicaciones y la prestaci6n de los servicios de television por suscripci6n, acceso a Internet y telefonia IP dentro de edificaciones.
+
+XXIII. Que de acuerdo con el Informe Tecnico de la Direcci6n General de Mercados, la solicitante cumple con la
+capacidad financiera, dado que luego de verificar los presupuestos juridicos y de hecho correspondientes,
+se concluy6 que:
+
+Para acreditar la capacidad financiera relacionada con los servicios que se pretende autorizar BLUE SAT
+SERVICIOS ADMINISTRADOS DE TELECOMUNICACIONES S.A. aporta un estado de ingresos y egresos de
+efectivo proyectado, debidamente certificado por un contador publico autorizado y que contempla el primer ano
+de operaciones de la empresa.
+
+Dicha proyecci6n contempla los gastos en que debe incurrir la empresa con el prop6sito de brindar los servicios
+
+de telefonia IP, television por suscripcion y acceso a internet, a saber: pagos por los servicios de cable, internet
+
+y telefonia, soporte tecnico, alquiler de equipo y gastos administrativos. Adicionalmente se incluye los ingresos
+que mensualmente espera obtener BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOMUNICACIONES
+
+S.A. en funci6n de la venta de servicios. Ambas partidas se muestran en U.S. d6lares.
+
+A partir de la deducci6n de los citados gastos previstos de los ingresos estimados se obtienen las
+disponibilidades mensuales de efectivo, que al final del primer ano de operaci6n suman $27.329.
+
+Considerando los resultados que arrojan las proyecciones realizadas por la empresa para efectos de justificar la solicitud de autorizaci6n presentada y en el tanto la ejecuci6n del proyecto de inversion se ajuste a tales
+proyecciones, es factible afirmar por una parte que existe compromiso de la empresa para invertir en el proyecto
+
+y por otra, que dicho proyecto es factible desde la perspectiva financiera. En tales circunstancias, el Consejo
+de Sutel debe proceder a aprobar la solicitud de autorizaci6n planteada por BLUE SAT SERVICIOS
+ADMINISTRADOS DE TELECOMUNICACIONES S.A.
+
+T + 5'064000 0000
+
+Apartado 151 - 1200
+
+Pigina 8 de 16
+
+F + 506 2215 -6821 800- 88 -SUTEL
+800 -88 78835
+
+San Jose --Costa Rica
+
+gestiondocumental @sutel. go. cr
+
+sutel
+SUPERINTENDENCIA DE
+TELECOMUNICACIONES
+
+XXIV. Que de acuerdo con el Informe Tecnico de la Direcci6n General de Mercados, la solicitante cumple con la
+condiciones juridicas, dado que luego de verificar los presupuestos juridicos y de hecho correspond ientes
+se concluy6 que:
+
+a)
+
+El solicitante expuso su pretension para prestar los servicios de telefonia IP, television por suscripcion y acceso
+
+a internet dentro de infraestructuras de condominios residenciales y comerciales. La documentacion presentada por la empresa con numero de ingreso NI- 1410 - 013 y NI- 4899 -13, los cuales constan en el expediente 2 administrativo, contienen la informacion tecnica, comercial, legal y financiera presentada como parte de su
+solicitud de autorizacion.
+
+b)
+
+La solicitud fue presentada en idioma espanol y conforme al Sistema Internacional de Unidades de Medidas
+Ley 5292 del 9 de agosto de 1973 y su Reglamento).
+El solicitante se identifico como BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOMUNICACIONES S.A. cedula juridica numero 3- 101 -641911, cuya solicitud fue firmada por su apoderado generalisimo sin limite de
+suma es el senor Carlos Alberto Valenciano Camer, con identificacion numero 1- 0494 -0901, segun consta en
+
+c)
+
+el folio 8 del expediente administrativo. El solicitante aporta certificacion registral de BLUE SAT SERVICIOS
+ADMINISTRADOS DE TELECOMUNICACIONES S.A., visible a los folios 09y 10 del expediente administrativo.
+Asimismo, se senala el fax
+gerencia @bluesat.cr
+
+2288 4710 como medio para la recepcion de notificaciones, y el correo
+
+d)
+
+Se adjunto la declaracion jurada en donde se hace constar que BLUE SAT SERVICIOS ADMINISTRADOS DE
+TELECOMUNICACIONES S.A.: (
+
+i) conoce las condiciones establecidas para la operacion y explotacion de
+
+redes y la prestacion de los servicios de telecomunicaciones y (ii) conoce y se compromete expresamente a
+cumplir con el ordenamiento juridico, regulaciones, directrices, normativa y demas disposiciones vigentes en
+materia de telecomunicaciones, segon consta a folios 162 del expediente administrativo.
+e)
+
+Segun consta en folio 61 del expediente administrativo, BLUE SAT SERVICIOS ADMINISTRADOS DE
+
+TELECOMUNICACIONES S.A. aparece inscrita, activa y al dia con sus obligaciones obrero-patronales ante la
+Caja Costarricense del Seguro Social, segun consta al folio 201 del expediente administrativo.
+
+XXV.
+
+Que finalmente y de acuerdo con el citado Informe Tecnico, una vez analizada la solicitud de autorizacion
+presentada por BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOMUNICACIONES S. A se puede
+concluir que esta se ajusta a los requerimientos legales y reglamentarios al procedimiento administrativo
+
+correspond iente, segun la resoluci6n del Consejo de la SUTEL RCS -588 2009 de las 2: 25 horas del 30 de
+noviembre de 2009.
+
+XXVI.
+
+Que considera este Consejo que con el fin de dar cum plimiento a los dispuesto en el Reglamento de Acceso
+e Interconexi6n, el Reglamento sobre el Regimen de Competencia en Telecom unicaciones y el Reglamento de Protecci6n al Usuario Final, es necesario requerir a la empresa BLUE SAT SERVICIOS
+
+ADMINISTRADOS DE TELECOMUNICACIONES S. A. que garantice el acceso no discriminatorio a todos
+
+los operadores y proveedores autorizados para que puedan ofrecer sus servicios a los usuarios finales en las diferentes edificaciones residenciales y comerciales donde efectue su actividad comercial. Esto en apego a lo que establece la Ley General de Telecom unicaciones, Ley N° 8642 y el Reglamento de Acceso
+e Interconexi6n de Redes de Telecom unicaciones y demas legislaci6n vigente.
+XXVII.
+
+Para
+
+esto,
+
+considera
+
+este
+
+Consejo
+
+que
+
+BLUE
+
+SAT
+
+SERVICIOS
+
+ADMINISTRADOS
+
+DE
+
+TELECOMUNICACIONES S. A. debe cumplir con una serie de obligaciones tecnicas minimas de
+
+conformidad con la legislacion vigente y aplicable al caso particular, basado en normas internacionales que
+aseguran el adecuado diseno a implementaci6n de redes dentro de edificaciones y que permiten garantizar el acceso a la red habilitada dentro del edificio o condominio a los diferentes proveedores de servicios de telecomunicaciones, con el fin de garantizar que los usuarios finales tengan acceso a la oferta servicios de
+
+telecomunicaciones disponibles al publico de otros proveedores y operadores tal y como fue sugerido por
+la Direcci6n General de Mercados en su informe 1070 -SUTEL -DGM -2014.
+
+r + s0sao00. 0000
+F + 506 2215 6821
+
+Apartado 151 - 1200
+
+Pagina 9 de 16
+
+San Jose --Costa Rica
+gestiondocumental@sutel. go. cr
+
+800- 88- SUTEL 800 - -78835 88
+
+sutel
+SUPERINTENDENCIA DE
+TELECOMUNICACIONES
+
+09cg
+XXVIII. Que la empresa BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOM UNICACIONES S. A posee las
+capacidades tecnicas para poder habilitar y/ o implementar la topologia de red, asi Como el equipamiento
+
+adecuado para brindar los servicios solicitados a los usuarios finales segun el ordenamiento juridico
+vigente.
+
+POR TANTO
+
+Telecom unicaciones, Decreto Ejecutivo No. 34765- MINAET, la Ley General de la Administracion Publica, Ley
+
+Con fundamento en la Ley General de Telecom unicaciones, el Reglamento a la Ley General de
+588-20- de las 14: 25 horas del 30 de noviembre de 2009, publicada en La Gaceta No 245 del 167 de diciembre
+del 2009, y demas normativa de general y pertinente aplicacion,
+EL CONSEJO DE LA
+SUPERINTENDENCIA DE TELECOM UNICACIONES
+RESUELVE:
+
+No. 6227 y la Ley de la Autoridad Reguladora de los Servicios Publicos, No. 7593, la resolucion numero RCS -
+
+1.
+
+Otorgar
+
+autorizacion
+
+a
+
+la
+
+empresa
+
+BLUE
+
+SAT
+
+SERVICIOS
+
+ADMINISTRADOS
+
+DE
+
+TELECOM UNICACIONES S. A cedula juridica numero 3- 101- 641911, por un periodo de diez anos a partir de la publicacion de un extracto de la presente resolucion en el Diario Oficial La Gaceta, para explotar redes publicas de telecomunicaciones dentro de edificaciones para proveer servicios de:
+a)
+
+Acceso a Internet
+Telefonia IP
+Television por suscripcion
+
+b)
+c)
+
+2. Indicar a la empresa autorizada que podrA ampliar la oferta de servicios de telecomunicaciones informando previamente a la Superintendencia de Telecom unicaciones, conforme con el articulo 27 de la Ley N° 8642, queen en un plazo de quince dias habiles efectuarA los ajustes necesarios a fin de que estos servicios
+
+cumplan con to dispuesto en dicha ley. En este sentido, se hace constar que al dia de hoy y para efectos
+del Registro Nacional de Telecom unicaciones,
+
+BLUE
+
+SAT
+
+SERVICIOS
+
+ADMINISTRADOS
+
+DE
+
+TELECOM UNICACIONES S. A. prestarA el servicio de television por suscripci6n, telefonia IP y acceso a
+Internet en redes publicas de telecomunicaciones dentro de edificaciones.
+
+3. Establecer como condiciones de la autorizacion las siguientes:
+
+PRIMERO. Sobre las zonas o areas geograficas: la empresa BLUE SAT SERVICIOS ADMINISTRADOS
+DE TELECOM UNICACIONES S. A., cedula juridica numero 3- 101- 641911, podrA brindar sus servicios de
+
+telecomunicaciones autorizados en la provincia de San Jose, Alajuela, Puntarenas y Heredia.
+SEGUNDO.
+
+Sobre
+
+las
+
+tarifas:
+
+La
+
+empresa
+
+BLUE
+
+SAT
+
+SERVICIOS
+
+ADMINISTRADOS
+
+DE
+
+TELECOM UNICACIONES S. A. deberd ajustar sus tarifas de servicios de telecomunicaciones al Regimen
+Tarifario que establezca la SUTEL.
+
+TERCERO. Sobre las obligaciones en particular: sin perjuicio de cualesquiera otras obligaciones
+
+impuestas bajo la Ley General de Telecom unicaciones o cualesquiera otras disposiciones legates o
+reglamentarias, u otras obligaciones contraidas de manera particular, la empresa BLUE SAT SERVICIOS
+ADMINISTRADOS DE TELECOM UNICACIONES S. A cedula juridica numero 3- 101 - 641911,
+obligada a:
+
+estar6
+
+1)
+
+Operar las redes y prestar los servicios autorizados, de manera continua, de acuerdo a los terminos, condiciones y plazos establecidos en la Ley General de Telecom unicaciones, regtamentos, el
+respectivo titulo habilitante y las resoluciones que al efecto dicte la SUTEL;
+
+T + 5'064000 1000 F + 506 2215 -6821
+
+Apartado 151 - 1200
+
+Pagina 10 de 16
+
+San Jose --Costa Rica
+gestiondocumental @sutel. go. cr
+
+800 -88 -SUTEL
+800 -88 78835
+
+sutel
+SUPERINTENDENCIA DE
+TELECOMUNICACIONES
+
+00® 225
+2)
+
+Cumplir con los requisitos econ6micos, tecnicos y juridicos minimos que hayan sido requeridos por
+
+la SUTEL y en virtud de los cuales se le haya otorgado el titulo habilitante, as[ como cumplir con
+cualesquiera otros requisitos establecidos por la SUTEL;
+3)
+
+Cumplir con to dispuesto en los planes tecnicos fundamentales, reglamentos y las normas tecnicas establecidas por el Ministerio de Ambiente, Energia y Telecom unicaciones y por la SUTEL;
+Cumplir en general con las obligaciones de acceso a interconexi6n.
+
+4)
+5)
+
+Permitir y brindar el acceso a interconexion a sus redes de todos los equipos, interfaces y aparatos
+
+de telecomunicaci6n, de acuerdo a los procedimientos establecidos en la ley y su reglamentaci6n, y permitir el libre acceso a los servicios que mediante ellas se presten, en condiciones transparentes y no discriminatorias;
+respectivo titulo habilitante;
+
+6)
+
+Pagar oportunamente los canones, tasas y demas obligaciones establecidas en la ley o en su
+Cooperar con la SUTEL en el use eficiente de los recursos escasos;
+
+7)
+
+8)
+
+Admitir como cliente o usuario final, de manera no discriminatoria, a todas las personas que se
+
+encuentren dentro de las edificaciones donde se brinden los servicios respetando los derechos de
+los usuarios finales;
+9)
+
+Respetar los derechos de los usuarios de telecomunicaciones dentro de las edificaciones en las que
+
+se presten servicios y atender sus reclamaciones, segOn to previsto en esta Ley.
+10)
+
+Proteger los derechos de los usuarios dentro de las edificaciones en las cuales se presten servicios
+asegurando eficiencia, igualdad, continuidad, calidad, mayor y mejor cobertura, mayor y mejor
+
+informaci6n, y mas y mejores alternativas en la prestaci6n de los servicios.
+11)
+
+Atender y resolver las quejas y controversias presentadas por sus clientes y proveedores de servicios
+de manera eficiente, eficaz y oportuna, las cuales deberan ser debidamente documentadas.
+Disponer de centros de telegesti6n que permitan la atenci6n oportuna y eficaz de solicitudes de
+
+12)
+
+informaci6n, tramites y reclamaciones de los derechos de los usuarios a los cuales les restan sus
+servicios.
+
+13) 14)
+
+Adoptar las medidas necesarias para garantizar la privacidad de las telecomunicaciones.
+
+Cumplir y asegurar parametros o condiciones minimas de calidad en los servicios a brindar.
+Suministrar a la SUTEL, en el plazo requerido, los informes y documentaci6n fidedigna concerniente
+
+15)
+
+a la actividad que presta; con las condiciones y la periodicidad que esta indique y que sea indispensable para el cumplimiento de las atribuciones y obligaciones que se establecen en la ley.
+16)
+
+Permitir a los inspectores el acceso a sus instalaciones y, ademas, que dichos funcionarios Ileven a cabo el control de los elementos afectos a las redes o servicios y de los documentos que deban
+tener.
+
+17)
+
+Cumplir las obligaciones de acceso universal, servicio universal y solidaridad que les correspondan,
+de conformidad con esta Ley.
+
+18)
+
+Solicitar ante la SUTEL, la homologaci6n de los contratos de adhesi6n que suscriban con sus
+clientes.
+
+T + 5064000 00
+
+Apartado 151 - 1200
+
+Pagina 11 de 16
+
+F + 506 2215 -682001 800 - -SUTEL 88
+800 88 78835
+
+San Josh - Costa Rica
+gestiondocumental @sutel. go. cr
+
+sutel
+SUPERINTENDENCIA DE TELECOMUNICACIONES
+
+000226
+19)
+
+Informar a la SUTEL acerca de los nuevos servicios que brinden, con el fin de que esta informacion conste en el Registro Nacional de Telecom unicaciones, y pueda la SUTEL realizar su funcion de control y fiscalizacion correspond ientes.
+Informar a la SUTEL sobre cualquier cambio o modificacion a los hechos que se tienen como
+fundamento para el dictado de esta resolucion de autorizacion.
+
+20)
+
+21)
+
+Contar en sus redes con los equipos de medicion, que la permitan la obtencion de los diferentes
+parametros a indicadores de calidad establecidos por l

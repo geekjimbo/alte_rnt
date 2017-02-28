@@ -1,0 +1,399 @@
+a SUTEL.
+
+22)
+
+Permitir a sus clientes de servicios de telefonia, el acceso gratuito al sistema de emergencias 9 -1 - 1
+
+y al servicio nacional de informacion de voz sobre el contenido de la guia telefonica.
+23)
+
+Solicitar a la SUTEL los recursos de numeracion para asignar a sus clientes de Telefonia IP y asegurar que cada uno de sus clientes puedan ser accesados o identificados de manera unica por
+cualquier otra red publica de telecomunicaciones.
+
+24)
+
+Cumplir con la normativa aplicable a nivel internacional, en particular, con los requerimientos minimos
+
+definidos en las normas ANSI/ TIA /EIA 568 -13, ANSI/ TIA/ EIA 569 -A, ISO /IEC 11801: 2002, ISO /IEC
+
+14763 -2: 2002 y ANSI/ TIA/ EIA 942 para el diseno de sus redes y cuartos de cableado.
+25)
+
+Disenar, construir y habilitar la red publica de telecomunicaciones dentro de una edificacion, para que
+esta pueda soportar la oferta externa de proveedores de servicios de telecomunicaciones disponibles al publico. Para esto, se debera disponer de una canalizacion externa donde las redes de los
+proveedores de servicios alcancen el punto de ingreso a la edificacion.
+
+26)
+
+Respetar dentro del diseno y la construccion de las instalaciones de telecomunicaciones las
+diferentes variantes tecnologicas disponibles para brindar acceso al usuario final.
+
+27)
+
+Prever en el diseno y la construccion, el crecimiento y la expansion tanto de la demanda dentro de la
+red publica de telecomunicaciones habilitada dentro de la edificacion, asi como de la oferta de
+proveedores externos de servicios de telecomunicaciones.
+
+28)
+
+Respetar y cumplir la normativa aplicable, nacional a internacional, en materia de infraestructura de
+telecomunicaciones y proteccion de los derechos de usuario final.
+
+29)
+
+Disenar, construir y habilitar el punto de ingreso a la red publica de telecomunicaciones dentro de la
+edificacion, tomando como referencia los estandares senalados anteriormente.
+
+30)
+
+Habilitar el cuarto de telecomunicaciones para la ubicacion de los diferentes proveedores, tomando como referencia los estandares previamente senalados. Se debera habilitar una canalizacion para enlazar el punto de ingreso a la edificacion con el cuarto de telecomunicaciones. Esta debe permitir
+
+la ubicacion de todos los proveedores de servicio y procurar la adecuada disposicion de los ductos
+de ingreso. 31)
+
+Disenar, instalar y habilitar los enlaces de transmision, tomando como referencia los estandares
+senalados en la normativa aplicable.
+
+32)
+
+Programar, proveer y controlar el mantenimiento preventivo y correctivo de la red publica de
+telecomunicaciones construida dentro de una edificacion.
+
+33)
+
+Mantener actualizados los planos y diagramas de la red publica de telecomunicaciones construida
+dentro de una edificacion.
+
+34)
+
+Realizar periodicamente un estudio sobre la condicion en la que se encuentra la red y que sea
+accesible a proveedores y usuarios.
+T + 50064000 -' 0000
+F + 506 2215 6821
+
+Apartado 151 - 1200
+
+Pagina 12 de 16
+
+San Jose --Costa Rica
+gestiondocumentaWsutel. go. cr
+
+800 - -SUTEL 88
+800 -88 -78835
+
+sutel
+SUPERINTENDENCI.A DE
+TELECOMUNICACIONES
+
+35)
+
+Acatar las medidas, disposiciones, to dispuesto en esta resoluci6n y las demas resoluciones dictadas
+por la SUTEL.
+
+36)
+
+Las demas que establezca la ley, reglamentos o directrices en materia de telecomunicaciones.
+estara obligada a cancelar
+
+CUARTO. Sobre el canon de regulaci6n: La empresa BLUE SAT SERVICIOS ADMINISTRADOS DE
+TELECOM UNICACIONES S. A cedula juridica numero 3 -101- 641911,
+
+oportunamente el canon de regulacion anual. Para to anterior, la Superintendencia de Telecom unicaciones
+le remitira el monto por dicho concepto a la direcci6n de correo electr6nico senalado para atender
+notificaciones dentro del expediente de autorizaci6n.
+
+QUINTO. Sobre la contribuci6n especial parafiscal a Fonatel. Con la finalidad de cum plir con los objetivos
+
+de acceso universal, servicio universal y solidaridad, referidos en el articulo 32 de la Ley General de
+Telecom unicaciones
+
+N°
+
+8642,
+
+la
+
+empresa
+
+BLUE
+
+SAT
+
+SERVICIOS
+
+ADMINISTRADOS
+
+DE
+
+TELECOM UNICACIONES S. A cedula juridica numero 3 -101- 641911 estara obligada a cancelar la contribucion especial parafiscal a Fonatel de conformidad con to establecido en el articulo 39 de la Ley
+No
+
+8642.
+
+SEXTO.
+
+Sobre
+
+el
+
+Registro
+
+Nacional
+
+de
+
+Telecom unicaciones:
+
+en
+
+el
+
+Registro
+
+Nacional
+
+de
+
+Telecom unicaciones debe ser incluida la informaci6n sobre la presente autorizacion de acuerdo con to
+
+dispuesto en el articulo 80 de la Ley de la Autoridad Reguladora de los Servicios Publicos, No 7593, asi como
+la informacion respecto a la operaci6n y explotaci6n de las redes de telecomunicaciones.
+
+La informacion aportada sobre precios y tarifas, contratos de adhesion que apruebe la SUTEL, asignaci6n
+de recursos de numeraci6n, las ofertas de interconexi6n por referencia y los convenios, los acuerdos, y los resoluciones de acceso a interconexion, los convenios y las resoluciones relacionadas con la ubicaci6n de
+
+los equipos, la colocaci6n y el use compartido de infraestructuras fisicas, convenios de trafico internacional,
+
+las normas y estandares de calidad de los servicios de telecomunicaciones, asi como los resultados de la supervision y verificaci6n de su cumplimiento y cualquier otro que disponga la SUTEL, que se requiera para
+informacion en dicho registro sera de acceso general publico.
+
+el buen cumplimiento de los principios de transparencia, no discriminaci6n y derecho a la informacion. La
+SETIMO: Sobre la composici6n accionaria: De conformidad con el acuerdo del Consejo de la SUTEL 012041 - 2011 de la sesi6n ordinaria 041 -2011 celebrada el dia 01 de junio del 2011, todo operador y proveedor
+
+de servicios de telecomunicaciones disponibles al publico, debera informar a la SUTEL la composicion de su
+capital accionario. Por to tanto, dentro de los diez dias habiles siguientes a la notificaci6n de esta resolucion, la empresa BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOM UNICACIONES S. A cedula juridica
+
+numero 3- 101- 641911, debera presentar ante la SUTEL una certificaci6n notarial de capital social en la cual
+
+demuestre la naturaleza y propiedad de las acciones de la empresa. Asimismo, todo cambio en la propiedad
+accionaria debera ser comunicado a la SUTEL.
+
+OCTAVO: Plazo para la instalacion de equipos a inicio de prestaci6n del o los servicios autorizado(s):
+
+La ahora autorizada debe proceder a la instalacion de los equipos a iniciar la prestaci6n del servicio autorizado, dentro del plazo establecido en este titulo, a decir, 12 meses a partir de la fecha de publicaci6n de la resolucion de autorizacion, de conformidad con el articulo 80 del Reglamento a la Ley General de
+Telecom unicaciones.
+
+NOVENO: Comunicacion de instalacion de la red para acuse a inspecci6n: Una vez instalada la red, la autorizada debera notificar a la SUTEL a fin de que realice las inspecciones respectivas y compruebe que la instalacion se ajusta a to autorizado en el presente titulo habilitante de conformidad con la topologia de la red visible a los folios 54, 55, 56 de conformidad con to dispuesto en el articulo 83 del Reglamento a la Ley
+General de Telecom unicaciones.
+
+DECIMO: Deber de obtener las habilitaciones administrativas correspond ientes para el despliegue de la red y la infraestructura: Los proyectos de ubicacion y altura de la estructura que constituya o soporte al
+T + 5064000 0000
+
+Apartado 151 - 1200 San Jose --Costa Rica
+gestiondocumental@sutel. go. cr
+
+Pagina 13 de 16
+
+F + 506 2215 -6821 800 - -SUTEL 88
+800 -88 78835
+
+44, 1
+
+sutel
+SUPERINTENDENCIA OE
+TELECOMUNICACIONES
+
+f
+
+G
+
+sistema
+
+de
+
+transmision
+
+o
+
+recepcion,
+
+observaran to previsto en los reglamentos y disposiciones
+
+administrativas necesarias y demas disposiciones aplicables y, de ser necesario, deberan obtener las
+
+autorizaciones que se trate. Las torres de las estaciones de telecomunicacion, deberan cumplir con las
+
+senales preventivas y demas requisitos para la navegacion aerea, segun establece la Organizacion de
+General de Telecom unicaciones.
+
+Aviacion Civil Internacional O. A. C. I. de acuerdo a to indicado por el articulo 86 del Reglamento a la Ley
+DECIMO PRIMERO: Documentos para inspecciones: el titular de la presente autorizacion debe mostrar durante las visitas de inspeccion de los funcionarios de la SUTEL, los siguientes documentos: a. Autorizacion
+
+para operar el sistema; b. Instructivos de los equipos y materiales con que constan las instalaciones del
+
+sistema; y c. Copia del certificado del tecnico responsable, conforme a to dispuesto en el articulo 88 del
+Reglamento a la Ley General de Telecom unicaciones.
+
+DECIMO SEGUNTO: Publicar dentro de los siguientes cinco ( 5) dias naturales a la fecha de emision de esta resolucion un extracto de la misma en el Diario Oficial La Gaceta, segun to que establece el articulo 42 del
+Reglamento a la Ley General de Telecom unicaciones.
+
+DECIMO TERCERO: Notificar esta resolucion a la empresa BLUE SAT SERVICIOS ADMINISTRADOS DE
+TELECOMUNICACIONES S. A cedula juridica numero 3- 101- 641911 al lugar o medio senalado para dichas
+efectos al fax 2288 -4710, y al correo electronico gerencia@bluesat. cr
+
+DECIMO CUARTO: Ordenar la inscripcion del presente titulo habilitante y una vez firme esta resolucion
+
+practicar la anotacion e inscripcion correspondiente en el libro o archivo registral respectivo del Registro
+Nacional de Telecom unicaciones, que incluya al menos la siguiente informacion:
+
+BLUE
+
+SAT
+
+SERVICIOS
+
+ADMINISTRADOS
+
+DE
+
+TELECOMUNICACIONES S. A., constituida y organizada bajo las Leyes
+de la Republica de Costa Rica.
+3- 101 - 641911
+
+Carlos Alberto Valenciano Camer, cedula representante: 1- 0494 -0901
+2288 4710
+
+gerencia @bluesat.cr
+
+B01 61 - STT-AUT- 00470-2013
+Autorizacion
+
+10 anos a partir de su publicacion en el diario oficial La Gaceta
+Red Publica
+
+Television por susclin, Acceso a Internet &
+edificaciones residenenciaiales y/ o comerciales.
+
+Telefonia IP dentro de
+
+Provincia de San Jose, Alajuela, Heredia y Puntarenas
+DECIMO QUINTO: De conformidad con el articulo 154 del Reglamento de la Ley General de Telecom unicaciones, el operador esta obligado a comunicar a la SUTEL las modificaciones que se
+
+produzcan respecto de los datos inscritos y a aportar la documentacion que to acredite fehacientemente.
+DECIMO SEXTO El operador debera realizar la comunicacion correspondiente a la SUTEL dentro del plazo
+maximo de quince ( 15) dias naturales a partir del dia en que se produzca la modificacion.
+
+En cumplimiento de to que ordena el articulo 345 y el articulo 346 de la Ley General de la Administracion
+Publica, se indica que contra esta resolucion cabe el recurso ordinario de revocatoria o reposicion ante el
+
+Consejo de la Superintendencia de Telecom unicaciones, a quien corresponde resolverlo, y debera
+T + 5064000 0000
+F+
+
+Apartado 151 - 1200 San Jose --Costa Rica gestiondocumental @sutel. go. cr
+
+Pagina 14 de 16
+
+2215 -6821
+
+800 -88 -SUTEL
+800 -88 -78835
+
+TM
+
+sutel
+SUPERINTENDENCIA I
+
+TELECOMUNICACIONES
+
+0001 ?6) i
+interponerse en el plazo de 3 dias habiles, contadas a partir del dia siguiente a la notificacion de la presente
+resolucion.
+
+NOTIFIQUESE E INSCRIBASE EN EL REGISTRO NACIONAL DE TELECOMUNICACIONES.
+
+La anterior transcripcion se realiza a efectos de comunicar el acuerdo citado adoptado por
+el Consejo de la Superintendencia de Telecomunicaciones.
+Atentamente,
+
+CONSEJO DE LA SUPERINTENDENCIA DE TELECOMUNICACIONES
+
+r + s0sa000 0000 F + 506 2215 -6821
+
+Apartado151 - 1200
+
+Pagina15de16
+
+San Jose --Costa Rica
+gestiondocumental@sutel. go. cr
+
+800- 88 -SUTEL 800 - 88 78835
+
+Maribel Rojas
+Notificaciones
+
+De:
+Enviado el:
+
+E=
+
+miercoles, 19 de marzo de 2014 02: 09 p. m.
+Igerencia @bluesat.cr'
+
+Para:
+
+CC:
+Asunto:
+
+Jolene Knorr; Monica Rodriguez; Paola Bermudez; Maria Fernanda Casafont RCS- 047 -2014 Autorizacion a Blue Sat para brindar servicios de telecomunicaciones
+
+4 aQ,4el,0"
+
+C xelai
+
+Sul
+
+Secretaria del Consejo
+T: 4000 0052 F: 2215 -6208
+
+maribel. roias @sutel. go. cr
+
+sutel
+SUPERINTENDENCIA DE
+TELECOMUNICACIONES
+
+000231
+CONSTANCIA DE NOTIFICACION
+
+RCS 047 2014
+
+SE OTORGA AUTORIZACION A BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOM UNICACIONES
+
+S. A. CEDULA 3 -101- 641911 PARA OPERAR EN RED PUBLICA DE TELECOM UNICACIONES DENTRO DE
+CONDOMINIOS RESIDENCIALES Y COMERCIALES Y BRINDAR EL SERVICIO DE TELEVISION POR
+SUSCRIPCION, TELEFONIA IP Y ACCESO A INTERNET"
+EXPEDIENTE B0161- STT AUT- 00470 2013
+
+Se notifica la presente resolucion a BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOM UNICACIONES S. A
+al fax 2288 -4710 y al correo electronico aerencia @bluesat.cr
+
+Se notifica al Registro Nacional de Telecom unicaciones a traves del correo electronico Jolene. knnor@sutel. go.cr
+Se notifica a la Direccion General de Operaciones, a traves del correo electronico monica.rodriguez@sutel. ao.cr
+
+Se notifica a la Direccion General de Fonatel, a traves del correo electronico paola. berm udez@sutel. go. cr
+
+NOTIFICA:
+
+FIRMA:
+
+T + 50, 64000 0000
+F + 506 2215 -6821
+
+Apanado 151 - 1200 San Jose - Costa Rica gestiondocumental @sutel. go.cr
+
+PAgina 16 de 16
+
+800- 88 SUTEL
+800 - -78835 88
+
+

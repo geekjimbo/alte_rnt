@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  identificacion: MyString
+  codigo_operador: MyString
+  nombre_representante_legal: MyString
+  cedula_representante_legal: MyString
+
+two:
+  nombre: MyString
+  identificacion: MyString
+  codigo_operador: MyString
+  nombre_representante_legal: MyString
+  cedula_representante_legal: MyString

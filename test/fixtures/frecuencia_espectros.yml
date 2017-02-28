@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo_frecuencia: MyString
+  ancho_banda_desde: 1
+  ancho_banda_hasta: 1
+  unidad_desde: MyString
+  unidad_hasta: MyString
+  espectro_id: 
+
+two:
+  tipo_frecuencia: MyString
+  ancho_banda_desde: 1
+  ancho_banda_hasta: 1
+  unidad_desde: MyString
+  unidad_hasta: MyString
+  espectro_id: 
